@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-03T19:54:56.516546+00:00",
-  "total_checked": 399,
-  "total_working": 176,
-  "total_dead": 223,
-  "survival_rate_pct": 44.1,
-  "countries": 10,
-  "ping_min_ms": 130,
-  "ping_median_ms": 378,
-  "ping_max_ms": 1473,
+  "updated_utc": "2026-08-03T21:01:26.168138+00:00",
+  "total_checked": 414,
+  "total_working": 94,
+  "total_dead": 320,
+  "survival_rate_pct": 22.7,
+  "countries": 8,
+  "ping_min_ms": 197,
+  "ping_median_ms": 401,
+  "ping_max_ms": 1500,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 17,
-    "reality": 152,
-    "none": 7
+    "reality": 67,
+    "none": 8,
+    "tls": 19
   },
   "top_fastest": [
     {
       "cc": "DE",
-      "host": "188.72.103.3",
+      "host": "46.8.220.182",
       "port": 443,
-      "ping_ms": 130,
-      "name": "🇩🇪 Germany — #117"
-    },
-    {
-      "cc": "NL",
-      "host": "94.126.205.65",
-      "port": 443,
-      "ping_ms": 145,
-      "name": "🇳🇱 The Netherlands — #252"
-    },
-    {
-      "cc": "RU",
-      "host": "85.209.135.66",
-      "port": 2053,
-      "ping_ms": 156,
-      "name": "🇷🇺 Xorek.Cloud — #34"
+      "ping_ms": 197,
+      "name": "🇩🇪 Germany — #45"
     },
     {
       "cc": "RU",
       "host": "45.151.101.197",
       "port": 30160,
-      "ping_ms": 228,
+      "ping_ms": 202,
       "name": "🇷🇺 Aeza Group — #6"
     },
     {
       "cc": "RU",
       "host": "45.151.101.197",
       "port": 30160,
-      "ping_ms": 231,
-      "name": "🇷🇺 Aeza Group — #5"
+      "ping_ms": 210,
+      "name": "🇷🇺 Aeza Group — #7"
+    },
+    {
+      "cc": "RU",
+      "host": "77.222.37.89",
+      "port": 2200,
+      "ping_ms": 224,
+      "name": "🇷🇺 SpaceWeb — #24"
+    },
+    {
+      "cc": "NL",
+      "host": "188.72.103.3",
+      "port": 443,
+      "ping_ms": 335,
+      "name": "🇳🇱 The Netherlands — #351"
     }
   ],
-  "elapsed_seconds": 374.06,
-  "memory_peak_mb": 2.13
+  "elapsed_seconds": 387.56,
+  "memory_peak_mb": 2.2
 }
