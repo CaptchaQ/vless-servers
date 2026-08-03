@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-03T18:41:58.490361+00:00",
+  "updated_utc": "2026-08-03T18:48:40.345057+00:00",
   "total_checked": 331,
-  "total_working": 181,
-  "total_dead": 150,
-  "survival_rate_pct": 54.7,
-  "countries": 8,
-  "ping_min_ms": 164,
-  "ping_median_ms": 392,
-  "ping_max_ms": 1450,
+  "total_working": 174,
+  "total_dead": 157,
+  "survival_rate_pct": 52.6,
+  "countries": 6,
+  "ping_min_ms": 195,
+  "ping_median_ms": 394,
+  "ping_max_ms": 1441,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 159,
-    "tls": 18,
-    "none": 4
+    "none": 4,
+    "reality": 152,
+    "tls": 18
   },
   "top_fastest": [
     {
       "cc": "RU",
+      "host": "217.177.74.111",
+      "port": 4100,
+      "ping_ms": 195,
+      "name": "🇷🇺 Fornex Hosting S.L. — #17"
+    },
+    {
+      "cc": "RU",
       "host": "45.151.101.197",
       "port": 30160,
-      "ping_ms": 164,
+      "ping_ms": 245,
       "name": "🇷🇺 Aeza Group — #6"
     },
     {
-      "cc": "NL",
-      "host": "94.126.204.143",
-      "port": 443,
-      "ping_ms": 168,
-      "name": "🇳🇱 The Netherlands — #189"
-    },
-    {
       "cc": "RU",
       "host": "45.151.101.197",
       "port": 30160,
-      "ping_ms": 217,
+      "ping_ms": 248,
       "name": "🇷🇺 Aeza Group — #5"
     },
     {
-      "cc": "RU",
-      "host": "185.126.93.17",
-      "port": 443,
-      "ping_ms": 226,
-      "name": "🇷🇺 HSHP — #19"
+      "cc": "DE",
+      "host": "185.229.9.176",
+      "port": 8443,
+      "ping_ms": 331,
+      "name": "🇩🇪 Germany — #57"
     },
     {
-      "cc": "RU",
-      "host": "72.56.7.195",
-      "port": 2200,
-      "ping_ms": 242,
-      "name": "🇷🇺 Timeweb — #35"
+      "cc": "NL",
+      "host": "94.126.205.65",
+      "port": 443,
+      "ping_ms": 347,
+      "name": "🇳🇱 The Netherlands — #129"
     }
   ],
-  "elapsed_seconds": 416.06,
-  "memory_peak_mb": 1.85
+  "elapsed_seconds": 394.79,
+  "memory_peak_mb": 1.84
 }
