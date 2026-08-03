@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-03T18:48:40.345057+00:00",
-  "total_checked": 331,
-  "total_working": 174,
-  "total_dead": 157,
-  "survival_rate_pct": 52.6,
-  "countries": 6,
-  "ping_min_ms": 195,
-  "ping_median_ms": 394,
-  "ping_max_ms": 1441,
+  "updated_utc": "2026-08-03T19:54:56.516546+00:00",
+  "total_checked": 399,
+  "total_working": 176,
+  "total_dead": 223,
+  "survival_rate_pct": 44.1,
+  "countries": 10,
+  "ping_min_ms": 130,
+  "ping_median_ms": 378,
+  "ping_max_ms": 1473,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "none": 4,
+    "tls": 17,
     "reality": 152,
-    "tls": 18
+    "none": 7
   },
   "top_fastest": [
     {
+      "cc": "DE",
+      "host": "188.72.103.3",
+      "port": 443,
+      "ping_ms": 130,
+      "name": "🇩🇪 Germany — #117"
+    },
+    {
+      "cc": "NL",
+      "host": "94.126.205.65",
+      "port": 443,
+      "ping_ms": 145,
+      "name": "🇳🇱 The Netherlands — #252"
+    },
+    {
       "cc": "RU",
-      "host": "217.177.74.111",
-      "port": 4100,
-      "ping_ms": 195,
-      "name": "🇷🇺 Fornex Hosting S.L. — #17"
+      "host": "85.209.135.66",
+      "port": 2053,
+      "ping_ms": 156,
+      "name": "🇷🇺 Xorek.Cloud — #34"
     },
     {
       "cc": "RU",
       "host": "45.151.101.197",
       "port": 30160,
-      "ping_ms": 245,
+      "ping_ms": 228,
       "name": "🇷🇺 Aeza Group — #6"
     },
     {
       "cc": "RU",
       "host": "45.151.101.197",
       "port": 30160,
-      "ping_ms": 248,
+      "ping_ms": 231,
       "name": "🇷🇺 Aeza Group — #5"
-    },
-    {
-      "cc": "DE",
-      "host": "185.229.9.176",
-      "port": 8443,
-      "ping_ms": 331,
-      "name": "🇩🇪 Germany — #57"
-    },
-    {
-      "cc": "NL",
-      "host": "94.126.205.65",
-      "port": 443,
-      "ping_ms": 347,
-      "name": "🇳🇱 The Netherlands — #129"
     }
   ],
-  "elapsed_seconds": 394.79,
-  "memory_peak_mb": 1.84
+  "elapsed_seconds": 374.06,
+  "memory_peak_mb": 2.13
 }
