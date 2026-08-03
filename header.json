@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-03T18:30:32.484625+00:00",
+  "updated_utc": "2026-08-03T18:41:58.490361+00:00",
   "total_checked": 331,
-  "total_working": 173,
-  "total_dead": 158,
-  "survival_rate_pct": 52.3,
+  "total_working": 181,
+  "total_dead": 150,
+  "survival_rate_pct": 54.7,
   "countries": 8,
-  "ping_min_ms": 176,
-  "ping_median_ms": 391,
-  "ping_max_ms": 1220,
+  "ping_min_ms": 164,
+  "ping_median_ms": 392,
+  "ping_max_ms": 1450,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 156,
-    "none": 3,
-    "tls": 14
+    "reality": 159,
+    "tls": 18,
+    "none": 4
   },
   "top_fastest": [
-    {
-      "cc": "NL",
-      "host": "94.126.205.65",
-      "port": 443,
-      "ping_ms": 176,
-      "name": "🇳🇱 The Netherlands — #162"
-    },
     {
       "cc": "RU",
       "host": "45.151.101.197",
       "port": 30160,
-      "ping_ms": 227,
+      "ping_ms": 164,
       "name": "🇷🇺 Aeza Group — #6"
     },
     {
       "cc": "NL",
-      "host": "94.139.250.36",
+      "host": "94.126.204.143",
       "port": 443,
-      "ping_ms": 235,
-      "name": "🇳🇱 The Netherlands — #169"
+      "ping_ms": 168,
+      "name": "🇳🇱 The Netherlands — #189"
     },
     {
       "cc": "RU",
       "host": "45.151.101.197",
       "port": 30160,
-      "ping_ms": 239,
+      "ping_ms": 217,
       "name": "🇷🇺 Aeza Group — #5"
     },
     {
       "cc": "RU",
-      "host": "85.209.135.66",
-      "port": 2053,
-      "ping_ms": 248,
-      "name": "🇷🇺 Xorek.Cloud — #38"
+      "host": "185.126.93.17",
+      "port": 443,
+      "ping_ms": 226,
+      "name": "🇷🇺 HSHP — #19"
+    },
+    {
+      "cc": "RU",
+      "host": "72.56.7.195",
+      "port": 2200,
+      "ping_ms": 242,
+      "name": "🇷🇺 Timeweb — #35"
     }
   ],
-  "elapsed_seconds": 443.54,
-  "memory_peak_mb": 1.84
+  "elapsed_seconds": 416.06,
+  "memory_peak_mb": 1.85
 }
