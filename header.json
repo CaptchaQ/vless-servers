@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-04T21:50:09.753122+00:00",
-  "total_checked": 300,
-  "total_working": 54,
-  "total_dead": 246,
-  "survival_rate_pct": 18.0,
-  "countries": 7,
-  "ping_min_ms": 196,
-  "ping_median_ms": 489,
-  "ping_max_ms": 1440,
+  "updated_utc": "2026-08-04T22:58:27.440290+00:00",
+  "total_checked": 463,
+  "total_working": 239,
+  "total_dead": 224,
+  "survival_rate_pct": 51.6,
+  "countries": 10,
+  "ping_min_ms": 183,
+  "ping_median_ms": 395,
+  "ping_max_ms": 1470,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 15,
-    "none": 5,
-    "reality": 34
+    "reality": 180,
+    "none": 14,
+    "tls": 45
   },
   "top_fastest": [
     {
       "cc": "DE",
-      "host": "81.163.23.70",
-      "port": 2096,
-      "ping_ms": 196,
-      "name": "🇩🇪 Germany — #148"
-    },
-    {
-      "cc": "DE",
-      "host": "81.163.23.70",
-      "port": 2096,
-      "ping_ms": 201,
-      "name": "🇩🇪 Germany — #137"
-    },
-    {
-      "cc": "RU",
-      "host": "89.127.217.210",
-      "port": 4100,
-      "ping_ms": 202,
-      "name": "🇷🇺 Fornex Hosting S.L. — #21"
-    },
-    {
-      "cc": "DE",
-      "host": "81.163.23.142",
-      "port": 2096,
-      "ping_ms": 203,
-      "name": "🇩🇪 Germany — #145"
-    },
-    {
-      "cc": "RU",
-      "host": "147.45.183.72",
+      "host": "46.8.220.182",
       "port": 443,
-      "ping_ms": 208,
+      "ping_ms": 183,
+      "name": "🇩🇪 Germany — #66"
+    },
+    {
+      "cc": "NL",
+      "host": "45.151.62.156",
+      "port": 443,
+      "ping_ms": 186,
+      "name": "🇳🇱 The Netherlands — #273"
+    },
+    {
+      "cc": "RU",
+      "host": "104.171.132.102",
+      "port": 2200,
+      "ping_ms": 190,
       "name": "🇷🇺 Timeweb — #51"
+    },
+    {
+      "cc": "RU",
+      "host": "77.222.46.162",
+      "port": 2200,
+      "ping_ms": 192,
+      "name": "🇷🇺 SpaceWeb — #35"
+    },
+    {
+      "cc": "RU",
+      "host": "77.222.37.89",
+      "port": 2200,
+      "ping_ms": 192,
+      "name": "🇷🇺 SpaceWeb — #34"
     }
   ],
-  "elapsed_seconds": 435.47,
-  "memory_peak_mb": 1.65
+  "elapsed_seconds": 495.62,
+  "memory_peak_mb": 2.39
 }
