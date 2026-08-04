@@ -969,3 +969,27 @@
 2026-08-04 11:29:02,895 INFO   RU 45.151.101.197:30160 — 254ms [🇷🇺 Aeza Group — #6]
 2026-08-04 11:29:02,895 INFO   DE 168.222.140.205:2200 — 267ms [🇩🇪 Germany — #72]
 2026-08-04 11:29:02,899 INFO Dashboard written to /out/index.html
+2026-08-04 11:29:02,905 INFO Removed stale country file from data repo: SE.txt
+2026-08-04 11:29:02,905 INFO Removed stale country file from data repo: FI.txt
+2026-08-04 11:29:02,905 INFO Removed stale country file from data repo: GB.txt
+2026-08-04 11:29:02,906 INFO Synced out/ → /data
+2026-08-04 11:29:04,632 INFO Data repo pushed to origin/main
+2026-08-04 11:29:04,632 INFO Done in 479.2 s | Peak RAM: 1.7 MB | Alive: 18/280 (6.4%)
+2026-08-04 12:29:04,775 INFO ============================================================
+2026-08-04 12:29:04,775 INFO VLESS Checker starting...
+2026-08-04 12:29:05,201 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 293 links
+2026-08-04 12:29:05,204 INFO Total unique links: 293
+2026-08-04 12:29:05,353 INFO Parsed correctly: 293
+2026-08-04 12:29:11,349 INFO Alive (ping 0-800ms): 263 out of 293
+2026-08-04 12:29:11,352 INFO Phase 2: proxy ping via xray (263 servers, 10 workers)
+2026-08-04 12:39:14,508 INFO Proxy ping: 46 alive, 217 dead/unreachable (timeout 10s)
+2026-08-04 12:39:14,513 INFO Lite (top-3 per country): 16 servers + 4 info cards
+2026-08-04 12:39:14,514 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-04 12:39:14,527 INFO Written: 7 countries, stats.json ready
+2026-08-04 12:39:14,527 INFO Top 5 fastest:
+2026-08-04 12:39:14,528 INFO   RU 83.217.192.233:443 — 111ms [🇷🇺 Timeweb — #56]
+2026-08-04 12:39:14,528 INFO   RU 45.151.101.197:30160 — 149ms [🇷🇺 Aeza Group — #6]
+2026-08-04 12:39:14,528 INFO   RU 83.217.192.58:2200 — 173ms [🇷🇺 Timeweb — #48]
+2026-08-04 12:39:14,529 INFO   RU 72.56.7.195:2200 — 194ms [🇷🇺 Timeweb — #54]
+2026-08-04 12:39:14,529 INFO   RU 45.92.179.4:16923 — 207ms [🇷🇺 Selectel — #30]
+2026-08-04 12:39:14,533 INFO Dashboard written to /out/index.html
