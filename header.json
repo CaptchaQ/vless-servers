@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-04T18:24:15.405548+00:00",
-  "total_checked": 287,
-  "total_working": 22,
-  "total_dead": 265,
-  "survival_rate_pct": 7.7,
+  "updated_utc": "2026-08-04T19:33:00.474452+00:00",
+  "total_checked": 271,
+  "total_working": 41,
+  "total_dead": 230,
+  "survival_rate_pct": 15.1,
   "countries": 7,
-  "ping_min_ms": 127,
-  "ping_median_ms": 454,
-  "ping_max_ms": 1468,
+  "ping_min_ms": 103,
+  "ping_median_ms": 734,
+  "ping_max_ms": 1455,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 14,
-    "tls": 7,
-    "none": 1
+    "reality": 32,
+    "tls": 5,
+    "none": 4
   },
   "top_fastest": [
     {
       "cc": "RU",
       "host": "83.217.192.233",
       "port": 443,
-      "ping_ms": 127,
-      "name": "🇷🇺 Timeweb — #48"
+      "ping_ms": 103,
+      "name": "🇷🇺 Timeweb — #65"
+    },
+    {
+      "cc": "RU",
+      "host": "83.217.192.233",
+      "port": 443,
+      "ping_ms": 109,
+      "name": "🇷🇺 Timeweb — #63"
     },
     {
       "cc": "DE",
       "host": "188.72.103.3",
       "port": 443,
-      "ping_ms": 152,
-      "name": "🇩🇪 Germany — #152"
+      "ping_ms": 133,
+      "name": "🇩🇪 Germany — #101"
     },
     {
       "cc": "RU",
-      "host": "130.17.2.137",
-      "port": 2200,
-      "ping_ms": 208,
-      "name": "🇷🇺 Fornex Hosting S.L. — #17"
-    },
-    {
-      "cc": "SE",
-      "host": "185.178.208.176",
+      "host": "83.217.192.233",
       "port": 443,
-      "ping_ms": 209,
-      "name": "🇸🇪 Sweden — #274"
+      "ping_ms": 140,
+      "name": "🇷🇺 Timeweb — #59"
     },
     {
       "cc": "RU",
-      "host": "158.160.9.223",
+      "host": "83.217.192.233",
       "port": 443,
-      "ping_ms": 217,
-      "name": "🇷🇺 Yandex — #3"
+      "ping_ms": 149,
+      "name": "🇷🇺 Timeweb — #58"
     }
   ],
-  "elapsed_seconds": 627.74,
-  "memory_peak_mb": 1.7
+  "elapsed_seconds": 522.94,
+  "memory_peak_mb": 1.61
 }
