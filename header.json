@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-05T08:12:21.534976+00:00",
-  "total_checked": 275,
-  "total_working": 64,
-  "total_dead": 211,
-  "survival_rate_pct": 23.3,
-  "countries": 10,
-  "ping_min_ms": 187,
-  "ping_median_ms": 346,
-  "ping_max_ms": 1474,
+  "updated_utc": "2026-08-05T09:21:13.628030+00:00",
+  "total_checked": 303,
+  "total_working": 38,
+  "total_dead": 265,
+  "survival_rate_pct": 12.5,
+  "countries": 8,
+  "ping_min_ms": 181,
+  "ping_median_ms": 436,
+  "ping_max_ms": 1415,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 10,
-    "none": 9,
-    "reality": 45
+    "reality": 33,
+    "none": 2,
+    "tls": 3
   },
   "top_fastest": [
-    {
-      "cc": "NL",
-      "host": "188.72.103.3",
-      "port": 443,
-      "ping_ms": 187,
-      "name": "🇳🇱 The Netherlands — #224"
-    },
-    {
-      "cc": "RU",
-      "host": "83.217.192.58",
-      "port": 2200,
-      "ping_ms": 193,
-      "name": "🇷🇺 Timeweb — #53"
-    },
-    {
-      "cc": "FR",
-      "host": "37.9.4.128",
-      "port": 443,
-      "ping_ms": 199,
-      "name": "🇫🇷 France — #156"
-    },
     {
       "cc": "SE",
       "host": "185.137.232.194",
       "port": 443,
-      "ping_ms": 201,
-      "name": "🇸🇪 Sweden — #263"
+      "ping_ms": 181,
+      "name": "🇸🇪 Sweden — #280"
     },
     {
-      "cc": "DE",
-      "host": "31.129.42.37",
+      "cc": "SE",
+      "host": "93.189.63.146",
       "port": 443,
-      "ping_ms": 208,
-      "name": "🇩🇪 Germany — #125"
+      "ping_ms": 192,
+      "name": "🇸🇪 Sweden — #274"
+    },
+    {
+      "cc": "SE",
+      "host": "62.152.56.73",
+      "port": 443,
+      "ping_ms": 222,
+      "name": "🇸🇪 Sweden — #278"
+    },
+    {
+      "cc": "SE",
+      "host": "62.152.56.73",
+      "port": 443,
+      "ping_ms": 222,
+      "name": "🇸🇪 Sweden — #276"
+    },
+    {
+      "cc": "RU",
+      "host": "77.222.37.89",
+      "port": 2200,
+      "ping_ms": 239,
+      "name": "🇷🇺 SpaceWeb — #41"
     }
   ],
-  "elapsed_seconds": 577.92,
-  "memory_peak_mb": 1.63
+  "elapsed_seconds": 530.02,
+  "memory_peak_mb": 1.69
 }
