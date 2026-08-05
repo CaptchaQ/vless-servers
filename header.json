@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-05T20:50:24.183870+00:00",
-  "total_checked": 268,
-  "total_working": 14,
-  "total_dead": 254,
-  "survival_rate_pct": 5.2,
-  "countries": 5,
-  "ping_min_ms": 214,
-  "ping_median_ms": 826,
-  "ping_max_ms": 1395,
+  "updated_utc": "2026-08-05T21:56:59.694127+00:00",
+  "total_checked": 267,
+  "total_working": 36,
+  "total_dead": 231,
+  "survival_rate_pct": 13.5,
+  "countries": 8,
+  "ping_min_ms": 170,
+  "ping_median_ms": 319,
+  "ping_max_ms": 708,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "none": 1,
-    "tls": 11,
-    "reality": 2
+    "none": 8,
+    "tls": 12,
+    "reality": 16
   },
   "top_fastest": [
     {
       "cc": "RU",
       "host": "104.171.134.67",
       "port": 4100,
-      "ping_ms": 214,
-      "name": "🇷🇺 Timeweb — #37"
+      "ping_ms": 170,
+      "name": "🇷🇺 Timeweb — #48"
     },
     {
-      "cc": "NL",
-      "host": "188.72.103.3",
+      "cc": "RU",
+      "host": "77.222.46.162",
+      "port": 2200,
+      "ping_ms": 190,
+      "name": "🇷🇺 SpaceWeb — #34"
+    },
+    {
+      "cc": "RU",
+      "host": "201.51.0.38",
+      "port": 4100,
+      "ping_ms": 191,
+      "name": "🇷🇺 Timeweb — #46"
+    },
+    {
+      "cc": "RU",
+      "host": "168.222.140.204",
+      "port": 4100,
+      "ping_ms": 197,
+      "name": "🇷🇺 SpaceWeb — #37"
+    },
+    {
+      "cc": "RU",
+      "host": "185.126.93.17",
       "port": 443,
-      "ping_ms": 395,
-      "name": "🇳🇱 The Netherlands — #214"
-    },
-    {
-      "cc": "EE",
-      "host": "78.159.245.32",
-      "port": 28474,
-      "ping_ms": 487,
-      "name": "🇪🇪 Estonia — #112"
-    },
-    {
-      "cc": "NL",
-      "host": "176.123.165.103",
-      "port": 9895,
-      "ping_ms": 496,
-      "name": "🇳🇱 The Netherlands — #204"
-    },
-    {
-      "cc": "EE",
-      "host": "78.159.245.32",
-      "port": 28474,
-      "ping_ms": 653,
-      "name": "🇪🇪 Estonia — #113"
+      "ping_ms": 206,
+      "name": "🇷🇺 HSHP — #18"
     }
   ],
-  "elapsed_seconds": 406.79,
-  "memory_peak_mb": 1.58
+  "elapsed_seconds": 393.03,
+  "memory_peak_mb": 1.57
 }
