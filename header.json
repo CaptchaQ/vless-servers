@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-05T14:00:17.003064+00:00",
-  "total_checked": 291,
-  "total_working": 17,
-  "total_dead": 274,
-  "survival_rate_pct": 5.8,
-  "countries": 4,
-  "ping_min_ms": 188,
-  "ping_median_ms": 391,
-  "ping_max_ms": 1481,
+  "updated_utc": "2026-08-05T15:09:37.245489+00:00",
+  "total_checked": 387,
+  "total_working": 173,
+  "total_dead": 214,
+  "survival_rate_pct": 44.7,
+  "countries": 9,
+  "ping_min_ms": 194,
+  "ping_median_ms": 422,
+  "ping_max_ms": 1489,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 9,
-    "none": 4,
-    "tls": 4
+    "none": 8,
+    "reality": 148,
+    "tls": 17
   },
   "top_fastest": [
     {
-      "cc": "SE",
-      "host": "93.189.63.146",
-      "port": 443,
-      "ping_ms": 188,
-      "name": "🇸🇪 Sweden — #256"
-    },
-    {
-      "cc": "SE",
-      "host": "185.137.232.194",
-      "port": 443,
-      "ping_ms": 214,
-      "name": "🇸🇪 Sweden — #244"
-    },
-    {
-      "cc": "SE",
-      "host": "185.137.232.194",
-      "port": 443,
-      "ping_ms": 219,
-      "name": "🇸🇪 Sweden — #242"
-    },
-    {
-      "cc": "SE",
-      "host": "185.137.232.194",
-      "port": 443,
-      "ping_ms": 225,
-      "name": "🇸🇪 Sweden — #252"
+      "cc": "RU",
+      "host": "81.85.78.193",
+      "port": 4100,
+      "ping_ms": 194,
+      "name": "🇷🇺 Fornex Hosting S.L. — #20"
     },
     {
       "cc": "RU",
-      "host": "95.214.63.147",
-      "port": 48097,
-      "ping_ms": 225,
-      "name": "🇷🇺 Beget — #13"
+      "host": "201.51.0.38",
+      "port": 4100,
+      "ping_ms": 236,
+      "name": "🇷🇺 Timeweb — #48"
+    },
+    {
+      "cc": "RU",
+      "host": "212.233.93.223",
+      "port": 443,
+      "ping_ms": 242,
+      "name": "🇷🇺 VK — #5"
+    },
+    {
+      "cc": "NL",
+      "host": "94.126.206.129",
+      "port": 443,
+      "ping_ms": 253,
+      "name": "🇳🇱 The Netherlands — #201"
+    },
+    {
+      "cc": "RU",
+      "host": "79.174.78.25",
+      "port": 9443,
+      "ping_ms": 285,
+      "name": "🇷🇺 reg.ru — #37"
     }
   ],
-  "elapsed_seconds": 448.7,
-  "memory_peak_mb": 1.7
+  "elapsed_seconds": 558.29,
+  "memory_peak_mb": 1.99
 }
