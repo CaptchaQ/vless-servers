@@ -1885,3 +1885,32 @@
 2026-08-06 10:19:38,977 INFO Written: 0 countries, stats.json ready
 2026-08-06 10:19:38,977 INFO Top 5 fastest:
 2026-08-06 10:19:38,981 INFO Dashboard written to /out/index.html
+2026-08-06 10:19:38,985 INFO Removed stale country file from data repo: SE.txt
+2026-08-06 10:19:38,985 INFO Removed stale country file from data repo: NL.txt
+2026-08-06 10:19:38,985 INFO Removed stale country file from data repo: EE.txt
+2026-08-06 10:19:38,985 INFO Removed stale country file from data repo: LT.txt
+2026-08-06 10:19:38,986 INFO Removed stale country file from data repo: RU.txt
+2026-08-06 10:19:38,986 INFO Removed stale country file from data repo: DE.txt
+2026-08-06 10:19:38,986 INFO Removed stale country file from data repo: GB.txt
+2026-08-06 10:19:38,986 INFO Removed stale country file from data repo: FR.txt
+2026-08-06 10:19:38,986 INFO Synced out/ → /data
+2026-08-06 10:19:40,790 INFO Data repo pushed to origin/main
+2026-08-06 10:19:40,790 INFO Done in 244.8 s | Peak RAM: 0.3 MB | Alive: 0/0 (0.0%)
+2026-08-06 11:19:40,902 INFO ============================================================
+2026-08-06 11:19:40,902 INFO VLESS Checker starting...
+2026-08-06 11:19:41,317 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 493 links
+2026-08-06 11:19:41,319 INFO Total unique links: 493
+2026-08-06 11:19:41,523 INFO Parsed correctly: 493
+2026-08-06 11:19:48,045 INFO Alive (ping 0-800ms): 468 out of 493
+2026-08-06 11:19:48,052 INFO Phase 2: proxy ping via xray (468 servers, 10 workers)
+2026-08-06 11:30:18,410 INFO Proxy ping: 233 alive, 235 dead/unreachable (timeout 10s)
+2026-08-06 11:30:18,417 INFO Lite (top-3 per country): 27 servers + 4 info cards
+2026-08-06 11:30:18,418 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-06 11:30:18,468 INFO Written: 9 countries, stats.json ready
+2026-08-06 11:30:18,468 INFO Top 5 fastest:
+2026-08-06 11:30:18,469 INFO   RU 168.222.202.187:4100 — 172ms [🇷🇺 SpaceWeb — #43]
+2026-08-06 11:30:18,469 INFO   DE 91.240.87.166:443 — 191ms [🇩🇪 Germany — #140]
+2026-08-06 11:30:18,469 INFO   GB 158.160.50.102:443 — 193ms [🇬🇧 United Kingdom — #196]
+2026-08-06 11:30:18,470 INFO   RU 77.222.46.162:2200 — 198ms [🇷🇺 SpaceWeb — #41]
+2026-08-06 11:30:18,470 INFO   SE 62.152.56.73:443 — 204ms [🇸🇪 Sweden — #479]
+2026-08-06 11:30:18,474 INFO Dashboard written to /out/index.html
