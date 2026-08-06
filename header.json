@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-06T05:47:51.145640+00:00",
-  "total_checked": 432,
-  "total_working": 93,
-  "total_dead": 339,
-  "survival_rate_pct": 21.5,
-  "countries": 8,
-  "ping_min_ms": 157,
-  "ping_median_ms": 361,
-  "ping_max_ms": 1348,
+  "updated_utc": "2026-08-06T06:56:03.747923+00:00",
+  "total_checked": 357,
+  "total_working": 63,
+  "total_dead": 294,
+  "survival_rate_pct": 17.6,
+  "countries": 9,
+  "ping_min_ms": 149,
+  "ping_median_ms": 389,
+  "ping_max_ms": 1379,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "none": 8,
-    "reality": 68,
-    "tls": 17
+    "tls": 18,
+    "reality": 40,
+    "none": 5
   },
   "top_fastest": [
     {
+      "cc": "DE",
+      "host": "185.126.93.15",
+      "port": 443,
+      "ping_ms": 149,
+      "name": "🇩🇪 Germany — #102"
+    },
+    {
+      "cc": "DE",
+      "host": "185.126.93.15",
+      "port": 443,
+      "ping_ms": 160,
+      "name": "🇩🇪 Germany — #100"
+    },
+    {
       "cc": "RU",
-      "host": "201.51.0.38",
-      "port": 4100,
-      "ping_ms": 157,
-      "name": "🇷🇺 Timeweb — #53"
+      "host": "193.168.46.180",
+      "port": 443,
+      "ping_ms": 171,
+      "name": "🇷🇺 Beget — #8"
     },
     {
       "cc": "RU",
       "host": "31.200.250.162",
       "port": 443,
-      "ping_ms": 178,
+      "ping_ms": 171,
       "name": "🇷🇺 Start2 LLC — #49"
     },
     {
       "cc": "RU",
       "host": "31.200.250.162",
       "port": 443,
-      "ping_ms": 181,
+      "ping_ms": 174,
       "name": "🇷🇺 Start2 LLC — #50"
-    },
-    {
-      "cc": "NL",
-      "host": "176.123.165.103",
-      "port": 9895,
-      "ping_ms": 183,
-      "name": "🇳🇱 The Netherlands — #338"
-    },
-    {
-      "cc": "NL",
-      "host": "91.185.83.70",
-      "port": 443,
-      "ping_ms": 189,
-      "name": "🇳🇱 The Netherlands — #357"
     }
   ],
-  "elapsed_seconds": 570.4,
-  "memory_peak_mb": 2.24
+  "elapsed_seconds": 490.53,
+  "memory_peak_mb": 1.97
 }
