@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-07T11:02:28.831467+00:00",
-  "total_checked": 278,
-  "total_working": 15,
-  "total_dead": 263,
-  "survival_rate_pct": 5.4,
-  "countries": 6,
-  "ping_min_ms": 240,
-  "ping_median_ms": 410,
-  "ping_max_ms": 1425,
+  "updated_utc": "2026-08-07T12:08:24.592656+00:00",
+  "total_checked": 271,
+  "total_working": 94,
+  "total_dead": 177,
+  "survival_rate_pct": 34.7,
+  "countries": 10,
+  "ping_min_ms": 188,
+  "ping_median_ms": 368,
+  "ping_max_ms": 1126,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "none": 4,
-    "reality": 6,
-    "tls": 5
+    "reality": 69,
+    "tls": 17,
+    "none": 8
   },
   "top_fastest": [
     {
-      "cc": "RU",
-      "host": "194.26.229.219",
-      "port": 4100,
-      "ping_ms": 240,
-      "name": "🇷🇺 Xorek.Cloud — #46"
-    },
-    {
-      "cc": "RU",
-      "host": "168.222.202.15",
-      "port": 4100,
-      "ping_ms": 292,
-      "name": "🇷🇺 SpaceWeb — #31"
-    },
-    {
-      "cc": "SE",
-      "host": "213.226.112.47",
+      "cc": "DE",
+      "host": "91.240.87.166",
       "port": 443,
-      "ping_ms": 299,
-      "name": "🇸🇪 Sweden — #265"
+      "ping_ms": 188,
+      "name": "🇩🇪 Germany — #88"
     },
     {
-      "cc": "EE",
-      "host": "78.159.245.32",
-      "port": 28474,
-      "ping_ms": 337,
-      "name": "🇪🇪 Estonia — #116"
+      "cc": "LT",
+      "host": "84.201.180.178",
+      "port": 443,
+      "ping_ms": 194,
+      "name": "🇱🇹 Lithuania — #158"
     },
     {
-      "cc": "EE",
-      "host": "78.159.245.32",
-      "port": 28474,
-      "ping_ms": 394,
-      "name": "🇪🇪 Estonia — #120"
+      "cc": "FR",
+      "host": "37.9.4.128",
+      "port": 443,
+      "ping_ms": 203,
+      "name": "🇫🇷 France — #130"
+    },
+    {
+      "cc": "LT",
+      "host": "31.177.111.141",
+      "port": 443,
+      "ping_ms": 204,
+      "name": "🇱🇹 Lithuania — #175"
+    },
+    {
+      "cc": "FR",
+      "host": "31.129.42.37",
+      "port": 443,
+      "ping_ms": 205,
+      "name": "🇫🇷 France — #131"
     }
   ],
-  "elapsed_seconds": 320.26,
-  "memory_peak_mb": 1.67
+  "elapsed_seconds": 353.62,
+  "memory_peak_mb": 1.66
 }
