@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-07T07:43:39.158149+00:00",
-  "total_checked": 254,
-  "total_working": 23,
-  "total_dead": 231,
-  "survival_rate_pct": 9.1,
-  "countries": 7,
-  "ping_min_ms": 261,
-  "ping_median_ms": 359,
-  "ping_max_ms": 988,
+  "updated_utc": "2026-08-07T08:51:38.058981+00:00",
+  "total_checked": 435,
+  "total_working": 180,
+  "total_dead": 255,
+  "survival_rate_pct": 41.4,
+  "countries": 9,
+  "ping_min_ms": 334,
+  "ping_median_ms": 403,
+  "ping_max_ms": 1244,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "none": 5,
-    "reality": 11,
-    "tls": 7
+    "tls": 12,
+    "reality": 161,
+    "none": 7
   },
   "top_fastest": [
     {
-      "cc": "RU",
-      "host": "212.67.9.113",
-      "port": 2200,
-      "ping_ms": 261,
-      "name": "🇷🇺 MegaMax Network — #30"
-    },
-    {
-      "cc": "RU",
-      "host": "85.209.135.10",
-      "port": 443,
-      "ping_ms": 265,
-      "name": "🇷🇺 Xorek.Cloud — #56"
-    },
-    {
       "cc": "EE",
-      "host": "45.9.12.121",
-      "port": 443,
-      "ping_ms": 281,
-      "name": "🇪🇪 Estonia — #121"
+      "host": "78.159.245.32",
+      "port": 28474,
+      "ping_ms": 334,
+      "name": "🇪🇪 Estonia — #112"
     },
     {
-      "cc": "EE",
-      "host": "45.9.12.121",
+      "cc": "NL",
+      "host": "94.126.206.41",
       "port": 443,
-      "ping_ms": 301,
-      "name": "🇪🇪 Estonia — #122"
+      "ping_ms": 335,
+      "name": "🇳🇱 The Netherlands — #348"
     },
     {
-      "cc": "RU",
-      "host": "193.233.246.79",
-      "port": 6443,
-      "ping_ms": 317,
-      "name": "🇷🇺 Aeza Group — #13"
+      "cc": "NL",
+      "host": "94.139.251.23",
+      "port": 443,
+      "ping_ms": 338,
+      "name": "🇳🇱 The Netherlands — #210"
+    },
+    {
+      "cc": "NL",
+      "host": "94.126.206.129",
+      "port": 443,
+      "ping_ms": 344,
+      "name": "🇳🇱 The Netherlands — #203"
+    },
+    {
+      "cc": "NL",
+      "host": "94.126.204.43",
+      "port": 443,
+      "ping_ms": 346,
+      "name": "🇳🇱 The Netherlands — #193"
     }
   ],
-  "elapsed_seconds": 335.18,
-  "memory_peak_mb": 1.59
+  "elapsed_seconds": 476.8,
+  "memory_peak_mb": 2.23
 }
