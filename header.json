@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-08T06:47:47.209054+00:00",
-  "total_checked": 365,
-  "total_working": 117,
-  "total_dead": 248,
-  "survival_rate_pct": 32.1,
+  "updated_utc": "2026-08-08T07:53:36.913427+00:00",
+  "total_checked": 340,
+  "total_working": 79,
+  "total_dead": 261,
+  "survival_rate_pct": 23.2,
   "countries": 11,
-  "ping_min_ms": 133,
-  "ping_median_ms": 302,
-  "ping_max_ms": 1396,
+  "ping_min_ms": 116,
+  "ping_median_ms": 316,
+  "ping_max_ms": 1446,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 42,
-    "none": 19,
-    "reality": 56
+    "tls": 34,
+    "reality": 27,
+    "none": 18
   },
   "top_fastest": [
     {
       "cc": "RU",
-      "host": "178.72.162.73",
+      "host": "135.106.140.23",
       "port": 443,
-      "ping_ms": 133,
-      "name": "🇷🇺 Selectel — #27"
+      "ping_ms": 116,
+      "name": "🇷🇺 Selectel — #18"
     },
     {
       "cc": "RU",
-      "host": "135.106.140.23",
+      "host": "178.72.162.73",
       "port": 443,
-      "ping_ms": 140,
+      "ping_ms": 123,
       "name": "🇷🇺 Selectel — #25"
     },
     {
-      "cc": "RU",
-      "host": "104.171.132.128",
-      "port": 4100,
-      "ping_ms": 144,
-      "name": "🇷🇺 Timeweb — #53"
+      "cc": "MD",
+      "host": "45.151.101.103",
+      "port": 8443,
+      "ping_ms": 186,
+      "name": "🇲🇩 Moldova — #225"
     },
     {
-      "cc": "RU",
-      "host": "85.192.56.3",
-      "port": 443,
-      "ping_ms": 149,
-      "name": "🇷🇺 Aeza Group — #4"
+      "cc": "DE",
+      "host": "45.151.101.103",
+      "port": 6443,
+      "ping_ms": 189,
+      "name": "🇩🇪 Germany — #71"
     },
     {
-      "cc": "RU",
-      "host": "85.192.56.3",
-      "port": 443,
-      "ping_ms": 150,
-      "name": "🇷🇺 Aeza Group — #3"
+      "cc": "DE",
+      "host": "45.151.101.103",
+      "port": 6443,
+      "ping_ms": 191,
+      "name": "🇩🇪 Germany — #92"
     }
   ],
-  "elapsed_seconds": 368.29,
-  "memory_peak_mb": 2.0
+  "elapsed_seconds": 347.69,
+  "memory_peak_mb": 1.86
 }
