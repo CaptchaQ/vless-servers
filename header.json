@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-08T22:32:40.564594+00:00",
-  "total_checked": 387,
-  "total_working": 170,
-  "total_dead": 217,
-  "survival_rate_pct": 43.9,
-  "countries": 9,
-  "ping_min_ms": 136,
-  "ping_median_ms": 328,
-  "ping_max_ms": 1499,
+  "updated_utc": "2026-08-08T23:40:14.391706+00:00",
+  "total_checked": 384,
+  "total_working": 176,
+  "total_dead": 208,
+  "survival_rate_pct": 45.8,
+  "countries": 10,
+  "ping_min_ms": 143,
+  "ping_median_ms": 273,
+  "ping_max_ms": 3647,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 94,
-    "tls": 44,
-    "none": 32
+    "reality": 104,
+    "tls": 39,
+    "none": 33
   },
   "top_fastest": [
     {
       "cc": "NL",
       "host": "91.240.87.201",
       "port": 8444,
-      "ping_ms": 136,
-      "name": "🇳🇱 The Netherlands — #319"
+      "ping_ms": 143,
+      "name": "🇳🇱 The Netherlands — #261"
+    },
+    {
+      "cc": "RU",
+      "host": "178.72.162.73",
+      "port": 443,
+      "ping_ms": 145,
+      "name": "🇷🇺 Selectel — #33"
+    },
+    {
+      "cc": "RU",
+      "host": "178.72.162.73",
+      "port": 443,
+      "ping_ms": 148,
+      "name": "🇷🇺 Selectel — #49"
     },
     {
       "cc": "NL",
       "host": "91.240.87.201",
       "port": 8444,
       "ping_ms": 149,
-      "name": "🇳🇱 The Netherlands — #247"
+      "name": "🇳🇱 The Netherlands — #260"
     },
     {
       "cc": "RU",
       "host": "178.72.162.73",
       "port": 443,
       "ping_ms": 149,
-      "name": "🇷🇺 Selectel — #27"
-    },
-    {
-      "cc": "RU",
-      "host": "178.72.162.73",
-      "port": 443,
-      "ping_ms": 154,
-      "name": "🇷🇺 Selectel — #46"
-    },
-    {
-      "cc": "RU",
-      "host": "178.72.162.73",
-      "port": 443,
-      "ping_ms": 154,
-      "name": "🇷🇺 Selectel — #39"
+      "name": "🇷🇺 Selectel — #28"
     }
   ],
-  "elapsed_seconds": 479.43,
-  "memory_peak_mb": 2.08
+  "elapsed_seconds": 451.71,
+  "memory_peak_mb": 2.12
 }
