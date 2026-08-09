@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-09T07:33:55.711772+00:00",
-  "total_checked": 415,
-  "total_working": 164,
-  "total_dead": 251,
+  "updated_utc": "2026-08-09T08:42:14.847547+00:00",
+  "total_checked": 428,
+  "total_working": 169,
+  "total_dead": 259,
   "survival_rate_pct": 39.5,
-  "countries": 13,
-  "ping_min_ms": 125,
-  "ping_median_ms": 272,
-  "ping_max_ms": 11713,
+  "countries": 10,
+  "ping_min_ms": 127,
+  "ping_median_ms": 302,
+  "ping_max_ms": 7120,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 41,
-    "none": 23,
-    "reality": 100
+    "tls": 42,
+    "reality": 106,
+    "none": 21
   },
   "top_fastest": [
     {
       "cc": "RU",
       "host": "178.72.162.73",
       "port": 443,
-      "ping_ms": 125,
-      "name": "🇷🇺 Selectel — #45"
+      "ping_ms": 127,
+      "name": "🇷🇺 Selectel — #43"
+    },
+    {
+      "cc": "RU",
+      "host": "178.72.162.73",
+      "port": 443,
+      "ping_ms": 129,
+      "name": "🇷🇺 Selectel — #57"
     },
     {
       "cc": "RU",
       "host": "178.72.162.73",
       "port": 443,
       "ping_ms": 130,
-      "name": "🇷🇺 Selectel — #46"
+      "name": "🇷🇺 Selectel — #45"
+    },
+    {
+      "cc": "EE",
+      "host": "46.243.142.89",
+      "port": 9443,
+      "ping_ms": 133,
+      "name": "🇪🇪 Estonia — #214"
     },
     {
       "cc": "RU",
       "host": "178.72.162.73",
       "port": 443,
-      "ping_ms": 134,
-      "name": "🇷🇺 Selectel — #44"
-    },
-    {
-      "cc": "RU",
-      "host": "178.72.162.73",
-      "port": 443,
-      "ping_ms": 134,
-      "name": "🇷🇺 Selectel — #41"
-    },
-    {
-      "cc": "RU",
-      "host": "178.72.162.73",
-      "port": 443,
-      "ping_ms": 136,
-      "name": "🇷🇺 Selectel — #60"
+      "ping_ms": 138,
+      "name": "🇷🇺 Selectel — #49"
     }
   ],
-  "elapsed_seconds": 483.61,
-  "memory_peak_mb": 2.11
+  "elapsed_seconds": 497.08,
+  "memory_peak_mb": 2.21
 }
