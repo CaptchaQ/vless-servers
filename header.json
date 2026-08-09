@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-09T15:34:11.555377+00:00",
-  "total_checked": 419,
-  "total_working": 204,
-  "total_dead": 215,
-  "survival_rate_pct": 48.7,
-  "countries": 12,
-  "ping_min_ms": 139,
-  "ping_median_ms": 332,
-  "ping_max_ms": 1407,
+  "updated_utc": "2026-08-09T16:42:13.047026+00:00",
+  "total_checked": 434,
+  "total_working": 210,
+  "total_dead": 224,
+  "survival_rate_pct": 48.4,
+  "countries": 13,
+  "ping_min_ms": 126,
+  "ping_median_ms": 331,
+  "ping_max_ms": 1498,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 133,
-    "tls": 49,
-    "none": 22
+    "reality": 136,
+    "tls": 48,
+    "none": 26
   },
   "top_fastest": [
     {
-      "cc": "EE",
-      "host": "46.243.142.89",
-      "port": 9443,
-      "ping_ms": 139,
-      "name": "🇪🇪 Estonia — #213"
+      "cc": "GB",
+      "host": "194.55.239.114",
+      "port": 443,
+      "ping_ms": 126,
+      "name": "🇬🇧 United Kingdom — #270"
     },
     {
-      "cc": "FI",
-      "host": "188.225.42.117",
+      "cc": "RU",
+      "host": "194.87.151.151",
       "port": 443,
-      "ping_ms": 146,
-      "name": "🇫🇮 Finland — #215"
+      "ping_ms": 133,
+      "name": "🇷🇺 Timeweb — #84"
     },
     {
       "cc": "RU",
       "host": "178.72.162.73",
       "port": 443,
-      "ping_ms": 149,
-      "name": "🇷🇺 Selectel — #68"
+      "ping_ms": 152,
+      "name": "🇷🇺 Selectel — #55"
     },
     {
       "cc": "RU",
       "host": "178.72.162.73",
       "port": 443,
-      "ping_ms": 150,
+      "ping_ms": 158,
+      "name": "🇷🇺 Selectel — #53"
+    },
+    {
+      "cc": "RU",
+      "host": "178.72.162.73",
+      "port": 443,
+      "ping_ms": 160,
       "name": "🇷🇺 Selectel — #58"
-    },
-    {
-      "cc": "RU",
-      "host": "168.222.140.155",
-      "port": 2200,
-      "ping_ms": 157,
-      "name": "🇷🇺 reg.ru — #47"
     }
   ],
-  "elapsed_seconds": 510.37,
-  "memory_peak_mb": 2.21
+  "elapsed_seconds": 479.35,
+  "memory_peak_mb": 2.27
 }
