@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-10T04:02:06.354852+00:00",
-  "total_checked": 421,
-  "total_working": 210,
-  "total_dead": 211,
-  "survival_rate_pct": 49.9,
-  "countries": 12,
-  "ping_min_ms": 102,
-  "ping_median_ms": 265,
-  "ping_max_ms": 1354,
+  "updated_utc": "2026-08-10T05:10:10.519668+00:00",
+  "total_checked": 479,
+  "total_working": 252,
+  "total_dead": 227,
+  "survival_rate_pct": 52.6,
+  "countries": 16,
+  "ping_min_ms": 126,
+  "ping_median_ms": 343,
+  "ping_max_ms": 1198,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 39,
-    "none": 44,
-    "reality": 127
+    "tls": 33,
+    "none": 39,
+    "reality": 180
   },
   "top_fastest": [
     {
       "cc": "DE",
-      "host": "188.72.103.3",
+      "host": "188.68.218.110",
       "port": 443,
-      "ping_ms": 102,
-      "name": "🇩🇪 Germany — #187"
+      "ping_ms": 126,
+      "name": "🇩🇪 Germany — #210"
     },
     {
       "cc": "RU",
       "host": "31.130.151.39",
       "port": 27755,
-      "ping_ms": 124,
-      "name": "🇷🇺 Timeweb — #115"
-    },
-    {
-      "cc": "RU",
-      "host": "178.72.162.73",
-      "port": 443,
-      "ping_ms": 126,
-      "name": "🇷🇺 Selectel — #57"
-    },
-    {
-      "cc": "RU",
-      "host": "178.72.162.73",
-      "port": 443,
       "ping_ms": 127,
-      "name": "🇷🇺 Selectel — #51"
+      "name": "🇷🇺 Timeweb — #114"
+    },
+    {
+      "cc": "RU",
+      "host": "212.67.9.113",
+      "port": 2200,
+      "ping_ms": 129,
+      "name": "🇷🇺 MegaMax Network — #27"
     },
     {
       "cc": "RU",
       "host": "178.72.162.73",
       "port": 443,
-      "ping_ms": 131,
-      "name": "🇷🇺 Selectel — #56"
+      "ping_ms": 143,
+      "name": "🇷🇺 Selectel — #80"
+    },
+    {
+      "cc": "RU",
+      "host": "72.56.7.195",
+      "port": 2200,
+      "ping_ms": 166,
+      "name": "🇷🇺 Timeweb — #107"
     }
   ],
-  "elapsed_seconds": 526.35,
-  "memory_peak_mb": 2.2
+  "elapsed_seconds": 481.95,
+  "memory_peak_mb": 2.4
 }
