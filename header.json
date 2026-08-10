@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-10T07:30:37.092411+00:00",
-  "total_checked": 478,
-  "total_working": 269,
-  "total_dead": 209,
-  "survival_rate_pct": 56.3,
-  "countries": 16,
-  "ping_min_ms": 156,
-  "ping_median_ms": 357,
-  "ping_max_ms": 5357,
+  "updated_utc": "2026-08-10T08:43:45.653787+00:00",
+  "total_checked": 465,
+  "total_working": 185,
+  "total_dead": 280,
+  "survival_rate_pct": 39.8,
+  "countries": 15,
+  "ping_min_ms": 146,
+  "ping_median_ms": 491,
+  "ping_max_ms": 1498,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "none": 39,
-    "reality": 208,
-    "tls": 22
+    "reality": 142,
+    "tls": 21,
+    "none": 22
   },
   "top_fastest": [
     {
       "cc": "RU",
-      "host": "109.73.196.160",
-      "port": 4100,
-      "ping_ms": 156,
-      "name": "🇷🇺 Timeweb — #85"
+      "host": "83.217.223.122",
+      "port": 443,
+      "ping_ms": 146,
+      "name": "🇷🇺 Timeweb — #111"
     },
     {
       "cc": "RU",
-      "host": "104.171.137.176",
-      "port": 2200,
+      "host": "178.72.162.73",
+      "port": 443,
+      "ping_ms": 150,
+      "name": "🇷🇺 Selectel — #73"
+    },
+    {
+      "cc": "RU",
+      "host": "178.72.162.73",
+      "port": 443,
       "ping_ms": 157,
-      "name": "🇷🇺 Timeweb — #96"
+      "name": "🇷🇺 Selectel — #78"
     },
     {
       "cc": "RU",
-      "host": "104.171.137.109",
-      "port": 2200,
-      "ping_ms": 160,
-      "name": "🇷🇺 Timeweb — #80"
+      "host": "178.72.162.73",
+      "port": 443,
+      "ping_ms": 158,
+      "name": "🇷🇺 Selectel — #79"
     },
     {
-      "cc": "NL",
-      "host": "81.94.148.119",
-      "port": 65056,
-      "ping_ms": 163,
-      "name": "🇳🇱 The Netherlands — #338"
-    },
-    {
-      "cc": "RU",
-      "host": "72.56.247.70",
-      "port": 2200,
-      "ping_ms": 169,
-      "name": "🇷🇺 Timeweb — #102"
+      "cc": "EE",
+      "host": "46.243.142.89",
+      "port": 9443,
+      "ping_ms": 159,
+      "name": "🇪🇪 Estonia — #235"
     }
   ],
-  "elapsed_seconds": 615.98,
-  "memory_peak_mb": 2.39
+  "elapsed_seconds": 786.55,
+  "memory_peak_mb": 2.34
 }
