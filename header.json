@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-10T11:13:27.190458+00:00",
-  "total_checked": 426,
-  "total_working": 87,
-  "total_dead": 339,
-  "survival_rate_pct": 20.4,
-  "countries": 11,
-  "ping_min_ms": 169,
-  "ping_median_ms": 403,
-  "ping_max_ms": 4826,
+  "updated_utc": "2026-08-10T12:26:25.293014+00:00",
+  "total_checked": 369,
+  "total_working": 53,
+  "total_dead": 316,
+  "survival_rate_pct": 14.4,
+  "countries": 9,
+  "ping_min_ms": 154,
+  "ping_median_ms": 298,
+  "ping_max_ms": 1498,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 70,
-    "none": 8,
-    "tls": 9
+    "none": 13,
+    "reality": 32,
+    "tls": 8
   },
   "top_fastest": [
     {
+      "cc": "RU",
+      "host": "104.171.136.112",
+      "port": 2200,
+      "ping_ms": 154,
+      "name": "🇷🇺 Timeweb — #66"
+    },
+    {
+      "cc": "EE",
+      "host": "46.243.142.89",
+      "port": 9443,
+      "ping_ms": 174,
+      "name": "🇪🇪 Estonia — #183"
+    },
+    {
       "cc": "NL",
-      "host": "157.22.193.73",
-      "port": 443,
-      "ping_ms": 169,
-      "name": "🇳🇱 The Netherlands — #293"
+      "host": "81.94.148.119",
+      "port": 65056,
+      "ping_ms": 177,
+      "name": "🇳🇱 The Netherlands — #263"
     },
     {
       "cc": "RU",
-      "host": "83.217.223.122",
-      "port": 443,
-      "ping_ms": 181,
-      "name": "🇷🇺 Timeweb — #104"
+      "host": "104.171.137.109",
+      "port": 2200,
+      "ping_ms": 179,
+      "name": "🇷🇺 Timeweb — #69"
     },
     {
       "cc": "RU",
-      "host": "147.45.47.39",
+      "host": "178.154.208.44",
       "port": 443,
-      "ping_ms": 196,
-      "name": "🇷🇺 New Hosting Technologies LLC — #53"
-    },
-    {
-      "cc": "RU",
-      "host": "147.45.47.39",
-      "port": 443,
-      "ping_ms": 200,
-      "name": "🇷🇺 New Hosting Technologies LLC — #54"
-    },
-    {
-      "cc": "RU",
-      "host": "147.45.47.39",
-      "port": 443,
-      "ping_ms": 203,
-      "name": "🇷🇺 New Hosting Technologies LLC — #55"
+      "ping_ms": 194,
+      "name": "🇷🇺 Yandex — #3"
     }
   ],
-  "elapsed_seconds": 814.63,
-  "memory_peak_mb": 2.13
+  "elapsed_seconds": 775.87,
+  "memory_peak_mb": 1.97
 }
