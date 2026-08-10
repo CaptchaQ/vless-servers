@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-10T19:09:49.747908+00:00",
-  "total_checked": 248,
-  "total_working": 28,
-  "total_dead": 220,
-  "survival_rate_pct": 11.3,
-  "countries": 7,
-  "ping_min_ms": 189,
-  "ping_median_ms": 296,
-  "ping_max_ms": 1317,
+  "updated_utc": "2026-08-10T20:18:33.844990+00:00",
+  "total_checked": 263,
+  "total_working": 48,
+  "total_dead": 215,
+  "survival_rate_pct": 18.3,
+  "countries": 9,
+  "ping_min_ms": 180,
+  "ping_median_ms": 619,
+  "ping_max_ms": 1406,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "none": 14,
-    "reality": 10,
-    "tls": 4
+    "reality": 22,
+    "none": 21,
+    "tls": 5
   },
   "top_fastest": [
     {
       "cc": "RU",
-      "host": "168.222.202.187",
-      "port": 4100,
-      "ping_ms": 189,
-      "name": "🇷🇺 SpaceWeb — #25"
-    },
-    {
-      "cc": "RU",
-      "host": "72.56.247.70",
-      "port": 4100,
-      "ping_ms": 196,
-      "name": "🇷🇺 Timeweb — #44"
-    },
-    {
-      "cc": "RU",
-      "host": "83.217.192.58",
-      "port": 2200,
-      "ping_ms": 203,
-      "name": "🇷🇺 Timeweb — #32"
-    },
-    {
-      "cc": "RU",
-      "host": "89.208.199.252",
+      "host": "83.217.223.122",
       "port": 443,
-      "ping_ms": 205,
-      "name": "🇷🇺 VK — #1"
+      "ping_ms": 180,
+      "name": "🇷🇺 Timeweb — #66"
+    },
+    {
+      "cc": "DE",
+      "host": "188.225.72.231",
+      "port": 443,
+      "ping_ms": 186,
+      "name": "🇩🇪 Germany — #103"
+    },
+    {
+      "cc": "EE",
+      "host": "46.243.142.89",
+      "port": 9443,
+      "ping_ms": 190,
+      "name": "🇪🇪 Estonia — #135"
     },
     {
       "cc": "RU",
-      "host": "201.51.2.6",
+      "host": "104.171.136.112",
       "port": 2200,
-      "ping_ms": 208,
-      "name": "🇷🇺 Timeweb — #48"
+      "ping_ms": 191,
+      "name": "🇷🇺 Timeweb — #50"
+    },
+    {
+      "cc": "EE",
+      "host": "46.243.142.89",
+      "port": 9443,
+      "ping_ms": 207,
+      "name": "🇪🇪 Estonia — #136"
     }
   ],
-  "elapsed_seconds": 468.68,
-  "memory_peak_mb": 1.39
+  "elapsed_seconds": 521.58,
+  "memory_peak_mb": 1.44
 }
