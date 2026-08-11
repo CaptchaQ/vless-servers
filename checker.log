@@ -4336,3 +4336,28 @@
 2026-08-11 14:24:27,788 INFO   SE 62.152.56.73:443 — 225ms [🇸🇪 Sweden — #225]
 2026-08-11 14:24:27,788 INFO   RU 72.56.247.70:2200 — 251ms [🇷🇺 Timeweb — #35]
 2026-08-11 14:24:27,792 INFO Dashboard written to /out/index.html
+2026-08-11 14:24:27,799 INFO Removed stale country file from data repo: EE.txt
+2026-08-11 14:24:27,799 INFO Removed stale country file from data repo: US.txt
+2026-08-11 14:24:27,799 INFO Removed stale country file from data repo: MD.txt
+2026-08-11 14:24:27,799 INFO Removed stale country file from data repo: FR.txt
+2026-08-11 14:24:27,799 INFO Synced out/ → /data
+2026-08-11 14:24:29,982 INFO Data repo pushed to origin/main
+2026-08-11 14:24:29,983 INFO Done in 458.7 s | Peak RAM: 1.4 MB | Alive: 17/235 (7.2%)
+2026-08-11 15:24:30,125 INFO ============================================================
+2026-08-11 15:24:30,125 INFO VLESS Checker starting...
+2026-08-11 15:24:30,507 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 226 links
+2026-08-11 15:24:30,509 INFO Total unique links: 226
+2026-08-11 15:24:30,621 INFO Parsed correctly: 226
+2026-08-11 15:24:35,964 INFO Alive (ping 0-800ms): 213 out of 226
+2026-08-11 15:24:35,968 INFO Phase 2: proxy ping via xray (213 servers, 10 workers)
+2026-08-11 15:32:07,429 INFO Proxy ping: 27 alive, 186 dead/unreachable (timeout 10s)
+2026-08-11 15:32:07,434 INFO Lite (top-3 per country): 16 servers + 4 info cards
+2026-08-11 15:32:07,434 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-11 15:32:07,443 INFO Written: 7 countries, stats.json ready
+2026-08-11 15:32:07,443 INFO Top 5 fastest:
+2026-08-11 15:32:07,444 INFO   RU 168.222.141.146:2200 — 195ms [🇷🇺 SpaceWeb — #21]
+2026-08-11 15:32:07,444 INFO   RU 178.154.208.44:443 — 198ms [🇷🇺 Yandex — #2]
+2026-08-11 15:32:07,444 INFO   RU 5.129.194.34:4100 — 204ms [🇷🇺 Timeweb — #30]
+2026-08-11 15:32:07,445 INFO   RU 194.26.229.209:2200 — 208ms [🇷🇺 Xorek.Cloud — #58]
+2026-08-11 15:32:07,445 INFO   RU 194.26.229.220:4100 — 209ms [🇷🇺 Xorek.Cloud — #63]
+2026-08-11 15:32:07,449 INFO Dashboard written to /out/index.html
