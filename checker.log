@@ -4310,3 +4310,29 @@
 2026-08-11 13:16:46,889 INFO   RU 104.171.137.148:2200 — 196ms [🇷🇺 Timeweb — #62]
 2026-08-11 13:16:46,889 INFO   DE 37.9.4.128:443 — 199ms [🇩🇪 Germany — #124]
 2026-08-11 13:16:46,893 INFO Dashboard written to /out/index.html
+2026-08-11 13:16:46,903 INFO Removed stale country file from data repo: CH.txt
+2026-08-11 13:16:46,904 INFO Removed stale country file from data repo: SE.txt
+2026-08-11 13:16:46,904 INFO Removed stale country file from data repo: NL.txt
+2026-08-11 13:16:46,904 INFO Removed stale country file from data repo: LT.txt
+2026-08-11 13:16:46,904 INFO Removed stale country file from data repo: LV.txt
+2026-08-11 13:16:46,904 INFO Synced out/ → /data
+2026-08-11 13:16:49,005 INFO Data repo pushed to origin/main
+2026-08-11 13:16:49,005 INFO Done in 506.8 s | Peak RAM: 1.5 MB | Alive: 48/244 (19.7%)
+2026-08-11 14:16:49,119 INFO ============================================================
+2026-08-11 14:16:49,119 INFO VLESS Checker starting...
+2026-08-11 14:16:49,512 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 235 links
+2026-08-11 14:16:49,514 INFO Total unique links: 235
+2026-08-11 14:16:49,635 INFO Parsed correctly: 235
+2026-08-11 14:16:55,153 INFO Alive (ping 0-800ms): 214 out of 235
+2026-08-11 14:16:55,157 INFO Phase 2: proxy ping via xray (214 servers, 10 workers)
+2026-08-11 14:24:27,774 INFO Proxy ping: 17 alive, 197 dead/unreachable (timeout 10s)
+2026-08-11 14:24:27,779 INFO Lite (top-3 per country): 13 servers + 4 info cards
+2026-08-11 14:24:27,780 INFO Best (top-20 globally): 17 servers + 4 info cards
+2026-08-11 14:24:27,786 INFO Written: 6 countries, stats.json ready
+2026-08-11 14:24:27,787 INFO Top 5 fastest:
+2026-08-11 14:24:27,787 INFO   FI 159.194.226.13:8443 — 175ms [🇫🇮 Finland — #135]
+2026-08-11 14:24:27,787 INFO   RU 178.154.208.44:443 — 185ms [🇷🇺 Yandex — #2]
+2026-08-11 14:24:27,788 INFO   SE 62.152.56.73:443 — 211ms [🇸🇪 Sweden — #221]
+2026-08-11 14:24:27,788 INFO   SE 62.152.56.73:443 — 225ms [🇸🇪 Sweden — #225]
+2026-08-11 14:24:27,788 INFO   RU 72.56.247.70:2200 — 251ms [🇷🇺 Timeweb — #35]
+2026-08-11 14:24:27,792 INFO Dashboard written to /out/index.html
