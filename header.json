@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-12T03:55:04.423040+00:00",
-  "total_checked": 329,
-  "total_working": 70,
-  "total_dead": 259,
-  "survival_rate_pct": 21.3,
-  "countries": 10,
-  "ping_min_ms": 150,
-  "ping_median_ms": 239,
-  "ping_max_ms": 1274,
+  "updated_utc": "2026-08-12T05:03:12.785881+00:00",
+  "total_checked": 311,
+  "total_working": 63,
+  "total_dead": 248,
+  "survival_rate_pct": 20.3,
+  "countries": 11,
+  "ping_min_ms": 132,
+  "ping_median_ms": 235,
+  "ping_max_ms": 1728,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 9,
-    "none": 38,
-    "reality": 23
+    "reality": 14,
+    "none": 41,
+    "tls": 8
   },
   "top_fastest": [
     {
-      "cc": "IT",
-      "host": "95.129.236.252",
+      "cc": "RU",
+      "host": "194.87.151.151",
       "port": 443,
-      "ping_ms": 150,
-      "name": "🇮🇹 Italy — #233"
+      "ping_ms": 132,
+      "name": "🇷🇺 Timeweb — #82"
     },
     {
-      "cc": "IT",
-      "host": "95.129.236.252",
-      "port": 443,
-      "ping_ms": 158,
-      "name": "🇮🇹 Italy — #229"
+      "cc": "EE",
+      "host": "46.243.142.89",
+      "port": 9443,
+      "ping_ms": 167,
+      "name": "🇪🇪 Estonia — #175"
     },
     {
       "cc": "RU",
-      "host": "201.51.2.6",
-      "port": 2200,
-      "ping_ms": 161,
-      "name": "🇷🇺 Timeweb — #79"
-    },
-    {
-      "cc": "NL",
-      "host": "176.109.85.112",
-      "port": 443,
-      "ping_ms": 164,
-      "name": "🇳🇱 The Netherlands — #283"
-    },
-    {
-      "cc": "RU",
-      "host": "104.171.134.235",
+      "host": "104.171.137.141",
       "port": 4100,
-      "ping_ms": 165,
-      "name": "🇷🇺 Timeweb — #62"
+      "ping_ms": 173,
+      "name": "🇷🇺 Timeweb — #59"
+    },
+    {
+      "cc": "RU",
+      "host": "168.222.140.155",
+      "port": 4100,
+      "ping_ms": 174,
+      "name": "🇷🇺 reg.ru — #23"
+    },
+    {
+      "cc": "RU",
+      "host": "83.217.200.217",
+      "port": 4100,
+      "ping_ms": 177,
+      "name": "🇷🇺 Timeweb — #69"
     }
   ],
-  "elapsed_seconds": 505.53,
-  "memory_peak_mb": 1.77
+  "elapsed_seconds": 486.06,
+  "memory_peak_mb": 1.71
 }
