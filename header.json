@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-12T16:23:21.134256+00:00",
-  "total_checked": 214,
-  "total_working": 35,
-  "total_dead": 179,
-  "survival_rate_pct": 16.4,
-  "countries": 8,
-  "ping_min_ms": 169,
-  "ping_median_ms": 346,
-  "ping_max_ms": 1713,
+  "updated_utc": "2026-08-12T17:32:03.643274+00:00",
+  "total_checked": 269,
+  "total_working": 31,
+  "total_dead": 238,
+  "survival_rate_pct": 11.5,
+  "countries": 7,
+  "ping_min_ms": 172,
+  "ping_median_ms": 437,
+  "ping_max_ms": 1755,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 15,
-    "none": 10,
-    "tls": 10
+    "none": 13,
+    "reality": 13,
+    "tls": 5
   },
   "top_fastest": [
     {
-      "cc": "EE",
-      "host": "46.243.142.89",
-      "port": 9443,
-      "ping_ms": 169,
-      "name": "🇪🇪 Estonia — #131"
+      "cc": "RU",
+      "host": "104.171.132.232",
+      "port": 2200,
+      "ping_ms": 172,
+      "name": "🇷🇺 Timeweb — #56"
     },
     {
-      "cc": "SE",
-      "host": "62.152.56.73",
+      "cc": "RU",
+      "host": "168.222.140.155",
+      "port": 4100,
+      "ping_ms": 198,
+      "name": "🇷🇺 SpaceWeb — #34"
+    },
+    {
+      "cc": "RU",
+      "host": "185.247.16.4",
+      "port": 4100,
+      "ping_ms": 203,
+      "name": "🇷🇺 Timeweb — #45"
+    },
+    {
+      "cc": "RU",
+      "host": "104.171.136.112",
+      "port": 2200,
+      "ping_ms": 224,
+      "name": "🇷🇺 Timeweb — #47"
+    },
+    {
+      "cc": "RU",
+      "host": "178.154.208.44",
       "port": 443,
-      "ping_ms": 209,
-      "name": "🇸🇪 Sweden — #211"
-    },
-    {
-      "cc": "RU",
-      "host": "77.222.35.36",
-      "port": 4100,
-      "ping_ms": 210,
-      "name": "🇷🇺 SpaceWeb — #24"
-    },
-    {
-      "cc": "RU",
-      "host": "109.73.196.160",
-      "port": 4100,
-      "ping_ms": 214,
-      "name": "🇷🇺 Timeweb — #40"
-    },
-    {
-      "cc": "DE",
-      "host": "5.129.194.34",
-      "port": 4100,
       "ping_ms": 241,
-      "name": "🇩🇪 Germany — #107"
+      "name": "🇷🇺 Yandex — #2"
     }
   ],
-  "elapsed_seconds": 488.97,
-  "memory_peak_mb": 1.27
+  "elapsed_seconds": 520.56,
+  "memory_peak_mb": 1.45
 }
