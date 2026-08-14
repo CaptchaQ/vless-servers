@@ -5745,3 +5745,27 @@
 2026-08-14 13:09:42,428 INFO   RU 104.171.132.128:4100 — 197ms [🇷🇺 Timeweb — #97]
 2026-08-14 13:09:42,429 INFO   RU 104.171.134.235:4100 — 197ms [🇷🇺 Timeweb — #87]
 2026-08-14 13:09:42,433 INFO Dashboard written to /out/index.html
+2026-08-14 13:09:42,441 INFO Removed stale country file from data repo: LT.txt
+2026-08-14 13:09:42,441 INFO Removed stale country file from data repo: US.txt
+2026-08-14 13:09:42,441 INFO Removed stale country file from data repo: PL.txt
+2026-08-14 13:09:42,441 INFO Synced out/ → /data
+2026-08-14 13:09:44,413 INFO Data repo pushed to origin/main
+2026-08-14 13:09:44,413 INFO Done in 591.4 s | Peak RAM: 1.5 MB | Alive: 56/279 (20.1%)
+2026-08-14 14:09:44,526 INFO ============================================================
+2026-08-14 14:09:44,526 INFO VLESS Checker starting...
+2026-08-14 14:09:44,925 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 269 links
+2026-08-14 14:09:44,927 INFO Total unique links: 269
+2026-08-14 14:09:45,045 INFO Parsed correctly: 269
+2026-08-14 14:09:51,895 INFO Alive (ping 0-800ms): 240 out of 269
+2026-08-14 14:09:51,900 INFO Phase 2: proxy ping via xray (240 servers, 10 workers)
+2026-08-14 14:18:49,707 INFO Proxy ping: 94 alive, 146 dead/unreachable (timeout 10s)
+2026-08-14 14:18:49,712 INFO Lite (top-3 per country): 23 servers + 4 info cards
+2026-08-14 14:18:49,712 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-14 14:18:49,732 INFO Written: 10 countries, stats.json ready
+2026-08-14 14:18:49,732 INFO Top 5 fastest:
+2026-08-14 14:18:49,733 INFO   RU 217.198.169.86:443 — 138ms [🇷🇺 Yandex — #2]
+2026-08-14 14:18:49,733 INFO   RU 217.198.169.86:443 — 177ms [🇷🇺 Yandex — #3]
+2026-08-14 14:18:49,733 INFO   RU 109.73.196.160:4100 — 178ms [🇷🇺 Timeweb — #97]
+2026-08-14 14:18:49,734 INFO   RU 168.222.203.14:4100 — 191ms [🇷🇺 SpaceWeb — #70]
+2026-08-14 14:18:49,734 INFO   RU 104.171.133.161:4100 — 195ms [🇷🇺 Timeweb — #95]
+2026-08-14 14:18:49,738 INFO Dashboard written to /out/index.html
