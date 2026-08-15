@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-15T19:01:39.599955+00:00",
-  "total_checked": 306,
-  "total_working": 80,
-  "total_dead": 226,
-  "survival_rate_pct": 26.1,
-  "countries": 11,
-  "ping_min_ms": 147,
-  "ping_median_ms": 287,
-  "ping_max_ms": 1383,
+  "updated_utc": "2026-08-15T20:12:38.412670+00:00",
+  "total_checked": 370,
+  "total_working": 184,
+  "total_dead": 186,
+  "survival_rate_pct": 49.7,
+  "countries": 15,
+  "ping_min_ms": 122,
+  "ping_median_ms": 285,
+  "ping_max_ms": 1307,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 36,
-    "none": 25,
-    "tls": 19
+    "reality": 107,
+    "none": 42,
+    "tls": 35
   },
   "top_fastest": [
+    {
+      "cc": "FI",
+      "host": "95.163.232.183",
+      "port": 443,
+      "ping_ms": 122,
+      "name": "🇫🇮 Finland — #256"
+    },
+    {
+      "cc": "SE",
+      "host": "46.243.142.184",
+      "port": 4443,
+      "ping_ms": 124,
+      "name": "🇸🇪 Sweden — #361"
+    },
     {
       "cc": "RU",
       "host": "201.51.1.84",
       "port": 16923,
-      "ping_ms": 147,
-      "name": "🇷🇺 Timeweb — #55"
-    },
-    {
-      "cc": "SE",
-      "host": "194.58.95.183",
-      "port": 9871,
-      "ping_ms": 166,
-      "name": "🇸🇪 Sweden — #286"
+      "ping_ms": 129,
+      "name": "🇷🇺 Timeweb — #70"
     },
     {
       "cc": "RU",
-      "host": "168.222.140.236",
-      "port": 4100,
-      "ping_ms": 176,
-      "name": "🇷🇺 SpaceWeb — #46"
+      "host": "217.198.169.86",
+      "port": 443,
+      "ping_ms": 139,
+      "name": "🇷🇺 Yandex — #4"
     },
     {
       "cc": "RU",
-      "host": "147.45.235.14",
-      "port": 2200,
-      "ping_ms": 181,
-      "name": "🇷🇺 Timeweb — #69"
-    },
-    {
-      "cc": "RU",
-      "host": "147.45.235.14",
-      "port": 2200,
-      "ping_ms": 188,
-      "name": "🇷🇺 Timeweb — #66"
+      "host": "217.198.169.86",
+      "port": 443,
+      "ping_ms": 140,
+      "name": "🇷🇺 Yandex — #1"
     }
   ],
-  "elapsed_seconds": 560.05,
-  "memory_peak_mb": 1.56
+  "elapsed_seconds": 656.63,
+  "memory_peak_mb": 1.81
 }
