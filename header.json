@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-15T22:32:48.221581+00:00",
-  "total_checked": 349,
-  "total_working": 179,
-  "total_dead": 170,
-  "survival_rate_pct": 51.3,
-  "countries": 13,
-  "ping_min_ms": 144,
-  "ping_median_ms": 247,
-  "ping_max_ms": 1322,
+  "updated_utc": "2026-08-15T23:42:38.048301+00:00",
+  "total_checked": 405,
+  "total_working": 239,
+  "total_dead": 166,
+  "survival_rate_pct": 59.0,
+  "countries": 14,
+  "ping_min_ms": 129,
+  "ping_median_ms": 225,
+  "ping_max_ms": 1396,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 80,
-    "none": 69,
-    "tls": 30
+    "reality": 111,
+    "none": 87,
+    "tls": 41
   },
   "top_fastest": [
+    {
+      "cc": "FI",
+      "host": "5.178.85.233",
+      "port": 2793,
+      "ping_ms": 129,
+      "name": "🇫🇮 Finland — #264"
+    },
+    {
+      "cc": "RU",
+      "host": "147.45.235.14",
+      "port": 2200,
+      "ping_ms": 130,
+      "name": "🇷🇺 Timeweb — #81"
+    },
+    {
+      "cc": "DE",
+      "host": "37.18.14.121",
+      "port": 2027,
+      "ping_ms": 132,
+      "name": "🇩🇪 Germany — #177"
+    },
+    {
+      "cc": "RU",
+      "host": "104.171.135.186",
+      "port": 4100,
+      "ping_ms": 140,
+      "name": "🇷🇺 Timeweb — #130"
+    },
     {
       "cc": "SE",
       "host": "194.58.95.183",
       "port": 9871,
       "ping_ms": 144,
-      "name": "🇸🇪 Sweden — #327"
-    },
-    {
-      "cc": "SE",
-      "host": "176.109.108.83",
-      "port": 9830,
-      "ping_ms": 146,
-      "name": "🇸🇪 Sweden — #325"
-    },
-    {
-      "cc": "SE",
-      "host": "194.58.95.183",
-      "port": 9871,
-      "ping_ms": 147,
-      "name": "🇸🇪 Sweden — #323"
-    },
-    {
-      "cc": "SE",
-      "host": "46.243.142.184",
-      "port": 4443,
-      "ping_ms": 151,
-      "name": "🇸🇪 Sweden — #337"
-    },
-    {
-      "cc": "SE",
-      "host": "194.58.95.183",
-      "port": 9871,
-      "ping_ms": 155,
-      "name": "🇸🇪 Sweden — #329"
+      "name": "🇸🇪 Sweden — #371"
     }
   ],
-  "elapsed_seconds": 552.82,
-  "memory_peak_mb": 1.75
+  "elapsed_seconds": 587.66,
+  "memory_peak_mb": 1.97
 }
