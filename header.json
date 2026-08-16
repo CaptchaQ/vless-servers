@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-16T02:01:12.660680+00:00",
-  "total_checked": 479,
-  "total_working": 274,
-  "total_dead": 205,
-  "survival_rate_pct": 57.2,
-  "countries": 14,
-  "ping_min_ms": 114,
-  "ping_median_ms": 204,
-  "ping_max_ms": 1060,
+  "updated_utc": "2026-08-16T03:11:42.863523+00:00",
+  "total_checked": 461,
+  "total_working": 313,
+  "total_dead": 148,
+  "survival_rate_pct": 67.9,
+  "countries": 17,
+  "ping_min_ms": 102,
+  "ping_median_ms": 270,
+  "ping_max_ms": 1343,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 126,
-    "tls": 51,
-    "none": 97
+    "reality": 167,
+    "none": 96,
+    "tls": 50
   },
   "top_fastest": [
+    {
+      "cc": "RS",
+      "host": "176.109.106.34",
+      "port": 9888,
+      "ping_ms": 102,
+      "name": "🇷🇸 Serbia — #410"
+    },
+    {
+      "cc": "RU",
+      "host": "201.51.1.84",
+      "port": 16923,
+      "ping_ms": 104,
+      "name": "🇷🇺 Timeweb — #73"
+    },
+    {
+      "cc": "RU",
+      "host": "201.51.1.84",
+      "port": 16923,
+      "ping_ms": 118,
+      "name": "🇷🇺 Timeweb — #141"
+    },
+    {
+      "cc": "RU",
+      "host": "201.51.1.84",
+      "port": 16923,
+      "ping_ms": 127,
+      "name": "🇷🇺 Timeweb — #72"
+    },
     {
       "cc": "RU",
       "host": "194.87.151.151",
       "port": 443,
-      "ping_ms": 114,
-      "name": "🇷🇺 Timeweb — #76"
-    },
-    {
-      "cc": "DE",
-      "host": "188.72.103.4",
-      "port": 443,
-      "ping_ms": 131,
-      "name": "🇩🇪 Germany — #246"
-    },
-    {
-      "cc": "FI",
-      "host": "5.178.85.233",
-      "port": 2793,
-      "ping_ms": 136,
-      "name": "🇫🇮 Finland — #297"
-    },
-    {
-      "cc": "DE",
-      "host": "37.18.14.121",
-      "port": 2027,
-      "ping_ms": 142,
-      "name": "🇩🇪 Germany — #192"
-    },
-    {
-      "cc": "FI",
-      "host": "5.178.85.233",
-      "port": 2793,
-      "ping_ms": 143,
-      "name": "🇫🇮 Finland — #298"
+      "ping_ms": 128,
+      "name": "🇷🇺 Timeweb — #85"
     }
   ],
-  "elapsed_seconds": 523.4,
-  "memory_peak_mb": 2.26
+  "elapsed_seconds": 627.98,
+  "memory_peak_mb": 2.23
 }
