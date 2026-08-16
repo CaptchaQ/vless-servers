@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-16T11:28:02.098693+00:00",
-  "total_checked": 387,
-  "total_working": 122,
-  "total_dead": 265,
-  "survival_rate_pct": 31.5,
-  "countries": 13,
-  "ping_min_ms": 122,
-  "ping_median_ms": 299,
-  "ping_max_ms": 1367,
+  "updated_utc": "2026-08-16T12:40:19.594688+00:00",
+  "total_checked": 388,
+  "total_working": 132,
+  "total_dead": 256,
+  "survival_rate_pct": 34.0,
+  "countries": 12,
+  "ping_min_ms": 116,
+  "ping_median_ms": 321,
+  "ping_max_ms": 5680,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 66,
-    "none": 30,
-    "tls": 26
+    "reality": 76,
+    "tls": 25,
+    "none": 31
   },
   "top_fastest": [
     {
       "cc": "RU",
       "host": "201.51.1.84",
       "port": 16923,
-      "ping_ms": 122,
-      "name": "🇷🇺 Timeweb — #115"
+      "ping_ms": 116,
+      "name": "🇷🇺 Timeweb — #122"
+    },
+    {
+      "cc": "NL",
+      "host": "188.72.103.4",
+      "port": 443,
+      "ping_ms": 136,
+      "name": "🇳🇱 The Netherlands — #328"
     },
     {
       "cc": "RU",
       "host": "201.51.1.84",
       "port": 16923,
-      "ping_ms": 125,
-      "name": "🇷🇺 Timeweb — #110"
+      "ping_ms": 140,
+      "name": "🇷🇺 Timeweb — #127"
+    },
+    {
+      "cc": "FI",
+      "host": "31.76.34.56",
+      "port": 10002,
+      "ping_ms": 140,
+      "name": "🇫🇮 Finland — #261"
     },
     {
       "cc": "RU",
       "host": "201.51.1.84",
       "port": 16923,
-      "ping_ms": 128,
-      "name": "🇷🇺 Timeweb — #116"
-    },
-    {
-      "cc": "SE",
-      "host": "46.243.142.184",
-      "port": 4443,
-      "ping_ms": 138,
-      "name": "🇸🇪 Sweden — #374"
-    },
-    {
-      "cc": "RU",
-      "host": "104.171.132.102",
-      "port": 2200,
-      "ping_ms": 169,
-      "name": "🇷🇺 Timeweb — #80"
+      "ping_ms": 142,
+      "name": "🇷🇺 Timeweb — #126"
     }
   ],
-  "elapsed_seconds": 686.23,
-  "memory_peak_mb": 1.87
+  "elapsed_seconds": 735.26,
+  "memory_peak_mb": 1.82
 }
