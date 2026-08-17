@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-17T21:20:45.597407+00:00",
-  "total_checked": 269,
-  "total_working": 82,
-  "total_dead": 187,
-  "survival_rate_pct": 30.5,
-  "countries": 9,
-  "ping_min_ms": 149,
-  "ping_median_ms": 294,
-  "ping_max_ms": 1358,
+  "updated_utc": "2026-08-17T22:27:20.442196+00:00",
+  "total_checked": 256,
+  "total_working": 101,
+  "total_dead": 155,
+  "survival_rate_pct": 39.5,
+  "countries": 10,
+  "ping_min_ms": 151,
+  "ping_median_ms": 244,
+  "ping_max_ms": 1318,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 40,
-    "tls": 35,
-    "none": 7
+    "reality": 51,
+    "none": 12,
+    "tls": 38
   },
   "top_fastest": [
     {
       "cc": "SE",
       "host": "46.243.142.184",
       "port": 4443,
-      "ping_ms": 149,
-      "name": "🇸🇪 Sweden — #264"
+      "ping_ms": 151,
+      "name": "🇸🇪 Sweden — #249"
+    },
+    {
+      "cc": "RU",
+      "host": "217.198.169.86",
+      "port": 443,
+      "ping_ms": 162,
+      "name": "🇷🇺 Yandex — #2"
     },
     {
       "cc": "FI",
       "host": "194.67.119.77",
       "port": 9898,
-      "ping_ms": 181,
-      "name": "🇫🇮 Finland — #164"
+      "ping_ms": 164,
+      "name": "🇫🇮 Finland — #171"
     },
     {
-      "cc": "DE",
-      "host": "46.8.221.218",
-      "port": 443,
-      "ping_ms": 201,
-      "name": "🇩🇪 Germany — #77"
+      "cc": "FI",
+      "host": "194.67.119.77",
+      "port": 9898,
+      "ping_ms": 165,
+      "name": "🇫🇮 Finland — #170"
     },
     {
-      "cc": "FR",
-      "host": "188.68.218.110",
+      "cc": "RU",
+      "host": "217.198.169.86",
       "port": 443,
-      "ping_ms": 218,
-      "name": "🇫🇷 France — #174"
-    },
-    {
-      "cc": "DE",
-      "host": "37.9.4.128",
-      "port": 443,
-      "ping_ms": 227,
-      "name": "🇩🇪 Germany — #132"
+      "ping_ms": 171,
+      "name": "🇷🇺 Yandex — #5"
     }
   ],
-  "elapsed_seconds": 415.81,
+  "elapsed_seconds": 392.5,
   "memory_peak_mb": 1.43
 }
