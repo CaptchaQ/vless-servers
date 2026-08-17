@@ -7216,3 +7216,27 @@
 2026-08-17 19:06:24,934 INFO   SE 176.108.252.108:9880 — 227ms [🇸🇪 Sweden — #247]
 2026-08-17 19:06:24,934 INFO   RU 217.198.169.86:443 — 229ms [🇷🇺 Yandex — #5]
 2026-08-17 19:06:24,943 INFO Dashboard written to /out/index.html
+2026-08-17 19:06:24,955 INFO Removed stale country file from data repo: NL.txt
+2026-08-17 19:06:24,955 INFO Removed stale country file from data repo: EE.txt
+2026-08-17 19:06:24,955 INFO Removed stale country file from data repo: GB.txt
+2026-08-17 19:06:24,956 INFO Synced out/ → /data
+2026-08-17 19:06:27,114 INFO Data repo pushed to origin/main
+2026-08-17 19:06:27,115 INFO Done in 384.7 s | Peak RAM: 1.4 MB | Alive: 46/262 (17.6%)
+2026-08-17 20:06:27,283 INFO ============================================================
+2026-08-17 20:06:27,283 INFO VLESS Checker starting...
+2026-08-17 20:06:27,679 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 252 links
+2026-08-17 20:06:27,680 INFO Total unique links: 252
+2026-08-17 20:06:27,793 INFO Parsed correctly: 252
+2026-08-17 20:06:38,008 INFO Alive (ping 0-800ms): 203 out of 252
+2026-08-17 20:06:38,013 INFO Phase 2: proxy ping via xray (203 servers, 10 workers)
+2026-08-17 20:13:47,385 INFO Proxy ping: 81 alive, 122 dead/unreachable (timeout 10s)
+2026-08-17 20:13:47,407 INFO Lite (top-3 per country): 24 servers + 4 info cards
+2026-08-17 20:13:47,408 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-17 20:13:47,442 INFO Written: 9 countries, stats.json ready
+2026-08-17 20:13:47,443 INFO Top 5 fastest:
+2026-08-17 20:13:47,443 INFO   RU 217.198.169.86:443 — 141ms [🇷🇺 Yandex — #1]
+2026-08-17 20:13:47,443 INFO   FI 194.67.119.77:9898 — 158ms [🇫🇮 Finland — #152]
+2026-08-17 20:13:47,444 INFO   RU 217.198.169.86:443 — 177ms [🇷🇺 Yandex — #3]
+2026-08-17 20:13:47,444 INFO   DE 37.18.14.121:2027 — 177ms [🇩🇪 Germany — #86]
+2026-08-17 20:13:47,444 INFO   RU 217.198.169.86:443 — 178ms [🇷🇺 Yandex — #5]
+2026-08-17 20:13:47,449 INFO Dashboard written to /out/index.html
