@@ -1,18 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-17T15:41:31.367168+00:00",
-  "total_checked": 0,
-  "total_working": 0,
-  "total_dead": 0,
-  "survival_rate_pct": 0,
-  "countries": 0,
-  "ping_min_ms": null,
-  "ping_median_ms": null,
-  "ping_max_ms": null,
+  "updated_utc": "2026-08-17T16:51:44.740513+00:00",
+  "total_checked": 304,
+  "total_working": 40,
+  "total_dead": 264,
+  "survival_rate_pct": 13.2,
+  "countries": 8,
+  "ping_min_ms": 189,
+  "ping_median_ms": 417,
+  "ping_max_ms": 1350,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
-  "protocols": {},
-  "top_fastest": [],
-  "elapsed_seconds": 65.17,
-  "memory_peak_mb": 0.28
+  "protocols": {
+    "reality": 27,
+    "none": 5,
+    "tls": 8
+  },
+  "top_fastest": [
+    {
+      "cc": "NL",
+      "host": "5.188.115.185",
+      "port": 443,
+      "ping_ms": 189,
+      "name": "🇳🇱 The Netherlands — #231"
+    },
+    {
+      "cc": "RU",
+      "host": "31.129.109.22",
+      "port": 2200,
+      "ping_ms": 189,
+      "name": "🇷🇺 Beget — #13"
+    },
+    {
+      "cc": "RU",
+      "host": "178.154.208.44",
+      "port": 443,
+      "ping_ms": 219,
+      "name": "🇷🇺 Yandex — #1"
+    },
+    {
+      "cc": "FI",
+      "host": "194.67.119.77",
+      "port": 9898,
+      "ping_ms": 228,
+      "name": "🇫🇮 Finland — #181"
+    },
+    {
+      "cc": "RU",
+      "host": "94.26.249.216",
+      "port": 52006,
+      "ping_ms": 239,
+      "name": "🇷🇺 Selectel — #29"
+    }
+  ],
+  "elapsed_seconds": 611.18,
+  "memory_peak_mb": 1.52
 }
