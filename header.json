@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-17T01:45:50.943095+00:00",
-  "total_checked": 571,
-  "total_working": 357,
-  "total_dead": 214,
-  "survival_rate_pct": 62.5,
+  "updated_utc": "2026-08-17T02:55:17.755507+00:00",
+  "total_checked": 453,
+  "total_working": 304,
+  "total_dead": 149,
+  "survival_rate_pct": 67.1,
   "countries": 13,
-  "ping_min_ms": 110,
-  "ping_median_ms": 219,
-  "ping_max_ms": 1744,
+  "ping_min_ms": 104,
+  "ping_median_ms": 228,
+  "ping_max_ms": 1762,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 169,
-    "none": 127,
-    "tls": 61
+    "reality": 130,
+    "none": 121,
+    "tls": 53
   },
   "top_fastest": [
     {
       "cc": "RU",
+      "host": "194.87.151.237",
+      "port": 443,
+      "ping_ms": 104,
+      "name": "🇷🇺 Timeweb — #81"
+    },
+    {
+      "cc": "RU",
       "host": "213.178.155.239",
       "port": 443,
-      "ping_ms": 110,
+      "ping_ms": 107,
+      "name": "🇷🇺 MT FINANCE LLC — #33"
+    },
+    {
+      "cc": "RU",
+      "host": "194.87.151.237",
+      "port": 443,
+      "ping_ms": 108,
+      "name": "🇷🇺 Timeweb — #85"
+    },
+    {
+      "cc": "RU",
+      "host": "213.178.155.239",
+      "port": 443,
+      "ping_ms": 114,
       "name": "🇷🇺 MT FINANCE LLC — #34"
     },
     {
       "cc": "RU",
       "host": "213.178.155.239",
-      "port": 8449,
-      "ping_ms": 112,
-      "name": "🇷🇺 MT FINANCE LLC — #39"
-    },
-    {
-      "cc": "RU",
-      "host": "213.178.155.239",
       "port": 443,
-      "ping_ms": 112,
+      "ping_ms": 116,
       "name": "🇷🇺 MT FINANCE LLC — #36"
-    },
-    {
-      "cc": "NL",
-      "host": "213.226.112.67",
-      "port": 443,
-      "ping_ms": 112,
-      "name": "🇳🇱 The Netherlands — #484"
-    },
-    {
-      "cc": "RU",
-      "host": "213.178.155.239",
-      "port": 8449,
-      "ping_ms": 114,
-      "name": "🇷🇺 MT FINANCE LLC — #32"
     }
   ],
-  "elapsed_seconds": 627.28,
-  "memory_peak_mb": 2.57
+  "elapsed_seconds": 564.45,
+  "memory_peak_mb": 2.09
 }
