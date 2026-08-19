@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-19T01:07:36.529718+00:00",
-  "total_checked": 317,
-  "total_working": 114,
-  "total_dead": 203,
-  "survival_rate_pct": 36.0,
-  "countries": 11,
-  "ping_min_ms": 160,
-  "ping_median_ms": 256,
-  "ping_max_ms": 694,
+  "updated_utc": "2026-08-19T02:15:26.896684+00:00",
+  "total_checked": 273,
+  "total_working": 169,
+  "total_dead": 104,
+  "survival_rate_pct": 61.9,
+  "countries": 14,
+  "ping_min_ms": 115,
+  "ping_median_ms": 295,
+  "ping_max_ms": 1158,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 58,
-    "none": 9,
-    "tls": 47
+    "reality": 106,
+    "tls": 53,
+    "none": 10
   },
   "top_fastest": [
+    {
+      "cc": "RU",
+      "host": "194.87.151.151",
+      "port": 443,
+      "ping_ms": 115,
+      "name": "🇷🇺 Timeweb — #37"
+    },
+    {
+      "cc": "RU",
+      "host": "194.87.151.151",
+      "port": 443,
+      "ping_ms": 125,
+      "name": "🇷🇺 Timeweb — #40"
+    },
+    {
+      "cc": "FI",
+      "host": "45.139.184.183",
+      "port": 2053,
+      "ping_ms": 139,
+      "name": "🇫🇮 Finland — #166"
+    },
+    {
+      "cc": "RU",
+      "host": "194.87.151.151",
+      "port": 443,
+      "ping_ms": 141,
+      "name": "🇷🇺 Timeweb — #41"
+    },
     {
       "cc": "SE",
       "host": "46.243.142.184",
       "port": 4443,
-      "ping_ms": 160,
-      "name": "🇸🇪 Sweden — #301"
-    },
-    {
-      "cc": "RU",
-      "host": "31.177.83.201",
-      "port": 4100,
-      "ping_ms": 193,
-      "name": "🇷🇺 SpaceWeb — #24"
-    },
-    {
-      "cc": "RU",
-      "host": "85.92.111.38",
-      "port": 4100,
-      "ping_ms": 194,
-      "name": "🇷🇺 Timeweb — #34"
-    },
-    {
-      "cc": "NL",
-      "host": "217.16.27.113",
-      "port": 443,
-      "ping_ms": 195,
-      "name": "🇳🇱 The Netherlands — #230"
-    },
-    {
-      "cc": "DE",
-      "host": "80.78.244.33",
-      "port": 9890,
-      "ping_ms": 197,
-      "name": "🇩🇪 Germany — #98"
+      "ping_ms": 144,
+      "name": "🇸🇪 Sweden — #267"
     }
   ],
-  "elapsed_seconds": 434.77,
-  "memory_peak_mb": 1.7
+  "elapsed_seconds": 468.03,
+  "memory_peak_mb": 1.55
 }
