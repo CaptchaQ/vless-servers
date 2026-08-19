@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-19T06:48:56.428612+00:00",
-  "total_checked": 313,
-  "total_working": 106,
-  "total_dead": 207,
-  "survival_rate_pct": 33.9,
-  "countries": 11,
-  "ping_min_ms": 213,
-  "ping_median_ms": 502,
-  "ping_max_ms": 1429,
+  "updated_utc": "2026-08-19T07:59:12.284199+00:00",
+  "total_checked": 301,
+  "total_working": 71,
+  "total_dead": 230,
+  "survival_rate_pct": 23.6,
+  "countries": 9,
+  "ping_min_ms": 179,
+  "ping_median_ms": 562,
+  "ping_max_ms": 1495,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 58,
-    "tls": 41,
-    "none": 7
+    "none": 2,
+    "reality": 51,
+    "tls": 18
   },
   "top_fastest": [
     {
       "cc": "RU",
-      "host": "178.154.208.44",
+      "host": "91.222.237.55",
+      "port": 2200,
+      "ping_ms": 179,
+      "name": "🇷🇺 Timeweb — #29"
+    },
+    {
+      "cc": "RU",
+      "host": "31.177.83.201",
+      "port": 4100,
+      "ping_ms": 202,
+      "name": "🇷🇺 SpaceWeb — #21"
+    },
+    {
+      "cc": "RU",
+      "host": "193.168.46.180",
       "port": 443,
-      "ping_ms": 213,
-      "name": "🇷🇺 Yandex — #1"
-    },
-    {
-      "cc": "PL",
-      "host": "176.109.108.196",
-      "port": 9892,
-      "ping_ms": 230,
-      "name": "🇵🇱 Poland — #281"
-    },
-    {
-      "cc": "GB",
-      "host": "37.252.20.166",
-      "port": 443,
-      "ping_ms": 234,
-      "name": "🇬🇧 United Kingdom — #187"
-    },
-    {
-      "cc": "FI",
-      "host": "45.139.184.183",
-      "port": 2053,
-      "ping_ms": 235,
-      "name": "🇫🇮 Finland — #169"
+      "ping_ms": 211,
+      "name": "🇷🇺 Beget — #10"
     },
     {
       "cc": "DE",
-      "host": "91.240.86.12",
+      "host": "72.56.5.183",
+      "port": 8443,
+      "ping_ms": 215,
+      "name": "🇩🇪 Germany — #130"
+    },
+    {
+      "cc": "IT",
+      "host": "72.56.5.183",
       "port": 443,
-      "ping_ms": 239,
-      "name": "🇩🇪 Germany — #141"
+      "ping_ms": 248,
+      "name": "🇮🇹 Italy — #202"
     }
   ],
-  "elapsed_seconds": 489.51,
-  "memory_peak_mb": 1.68
+  "elapsed_seconds": 612.45,
+  "memory_peak_mb": 1.62
 }
