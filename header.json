@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-19T11:24:48.957718+00:00",
-  "total_checked": 243,
-  "total_working": 56,
-  "total_dead": 187,
-  "survival_rate_pct": 23.0,
+  "updated_utc": "2026-08-19T12:30:36.393024+00:00",
+  "total_checked": 237,
+  "total_working": 34,
+  "total_dead": 203,
+  "survival_rate_pct": 14.3,
   "countries": 12,
-  "ping_min_ms": 138,
-  "ping_median_ms": 555,
-  "ping_max_ms": 1493,
+  "ping_min_ms": 221,
+  "ping_median_ms": 549,
+  "ping_max_ms": 1315,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 47,
-    "none": 2,
-    "tls": 7
+    "reality": 28,
+    "tls": 5,
+    "none": 1
   },
   "top_fastest": [
     {
-      "cc": "SE",
-      "host": "46.243.142.184",
-      "port": 4443,
-      "ping_ms": 138,
-      "name": "🇸🇪 Sweden — #236"
-    },
-    {
-      "cc": "CH",
-      "host": "46.243.142.42",
-      "port": 9443,
-      "ping_ms": 182,
-      "name": "🇨🇭 Switzerland — #57"
-    },
-    {
       "cc": "RU",
-      "host": "91.222.237.55",
-      "port": 2200,
-      "ping_ms": 192,
-      "name": "🇷🇺 Timeweb — #39"
+      "host": "178.154.208.44",
+      "port": 443,
+      "ping_ms": 221,
+      "name": "🇷🇺 Yandex — #1"
     },
     {
-      "cc": "RU",
-      "host": "168.222.203.14",
-      "port": 4100,
-      "ping_ms": 225,
-      "name": "🇷🇺 SpaceWeb — #20"
+      "cc": "PL",
+      "host": "176.109.108.196",
+      "port": 9892,
+      "ping_ms": 245,
+      "name": "🇵🇱 Poland — #223"
     },
     {
-      "cc": "DE",
-      "host": "185.229.9.236",
-      "port": 49005,
-      "ping_ms": 231,
-      "name": "🇩🇪 Germany — #108"
+      "cc": "GB",
+      "host": "84.201.172.95",
+      "port": 443,
+      "ping_ms": 256,
+      "name": "🇬🇧 United Kingdom — #146"
+    },
+    {
+      "cc": "NL",
+      "host": "185.229.9.44",
+      "port": 443,
+      "ping_ms": 259,
+      "name": "🇳🇱 The Netherlands — #199"
+    },
+    {
+      "cc": "PL",
+      "host": "176.109.108.196",
+      "port": 9892,
+      "ping_ms": 260,
+      "name": "🇵🇱 Poland — #222"
     }
   ],
-  "elapsed_seconds": 477.41,
-  "memory_peak_mb": 1.47
+  "elapsed_seconds": 345.06,
+  "memory_peak_mb": 1.37
 }
