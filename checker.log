@@ -8741,3 +8741,29 @@
 2026-08-20 22:22:37,153 INFO   SE 46.243.142.184:4443 — 146ms [🇸🇪 Sweden — #253]
 2026-08-20 22:22:37,154 INFO   NO 185.186.143.76:443 — 147ms [🇳🇴 Norway — #241]
 2026-08-20 22:22:37,158 INFO Dashboard written to /out/index.html
+2026-08-20 22:22:37,168 INFO Removed stale country file from data repo: FI.txt
+2026-08-20 22:22:37,168 INFO Synced out/ → /data
+2026-08-20 22:22:39,134 INFO Data repo pushed to origin/main
+2026-08-20 22:22:39,134 INFO Done in 528.2 s | Peak RAM: 1.5 MB | Alive: 95/268 (35.4%)
+2026-08-20 23:22:39,253 INFO ============================================================
+2026-08-20 23:22:39,254 INFO VLESS Checker starting...
+2026-08-20 23:22:39,637 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 240 links
+2026-08-20 23:22:39,639 INFO Total unique links: 240
+2026-08-20 23:22:39,749 INFO Parsed correctly: 240
+2026-08-20 23:22:44,858 INFO Alive (ping 0-800ms): 225 out of 240
+2026-08-20 23:22:44,862 INFO Phase 2: proxy ping via xray (225 servers, 10 workers)
+2026-08-20 23:22:44,865 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 23:22:44,867 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 23:22:44,869 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 23:22:44,874 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 23:29:36,095 INFO Proxy ping: 99 alive, 126 dead/unreachable (timeout 10s)
+2026-08-20 23:29:36,110 INFO Lite (top-3 per country): 32 servers + 4 info cards
+2026-08-20 23:29:36,111 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-20 23:29:36,140 INFO Written: 12 countries, stats.json ready
+2026-08-20 23:29:36,140 INFO Top 5 fastest:
+2026-08-20 23:29:36,140 INFO   EE 178.176.128.128:443 — 3ms [🇪🇪 Estonia — #120]
+2026-08-20 23:29:36,141 INFO   EE 178.176.128.128:443 — 4ms [🇪🇪 Estonia — #121]
+2026-08-20 23:29:36,141 INFO   EE 178.176.128.128:443 — 5ms [🇪🇪 Estonia — #123]
+2026-08-20 23:29:36,141 INFO   EE 178.176.128.128:443 — 6ms [🇪🇪 Estonia — #122]
+2026-08-20 23:29:36,142 INFO   FR 78.159.245.75:9002 — 138ms [🇫🇷 France — #128]
+2026-08-20 23:29:36,146 INFO Dashboard written to /out/index.html
