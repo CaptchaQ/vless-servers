@@ -8547,3 +8547,28 @@
 2026-08-20 13:22:46,409 INFO   DE 91.240.87.166:443 — 220ms [🇩🇪 Germany — #78]
 2026-08-20 13:22:46,409 INFO   FR 185.141.227.150:9002 — 227ms [🇫🇷 France — #107]
 2026-08-20 13:22:46,416 INFO Dashboard written to /out/index.html
+2026-08-20 13:22:46,428 INFO Removed stale country file from data repo: EE.txt
+2026-08-20 13:22:46,428 INFO Removed stale country file from data repo: GB.txt
+2026-08-20 13:22:46,429 INFO Synced out/ → /data
+2026-08-20 13:22:48,554 INFO Data repo pushed to origin/main
+2026-08-20 13:22:48,555 INFO Done in 366.6 s | Peak RAM: 1.2 MB | Alive: 48/206 (23.3%)
+2026-08-20 14:22:48,719 INFO ============================================================
+2026-08-20 14:22:48,719 INFO VLESS Checker starting...
+2026-08-20 14:22:49,159 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 238 links
+2026-08-20 14:22:49,161 INFO Total unique links: 238
+2026-08-20 14:22:49,281 INFO Parsed correctly: 238
+2026-08-20 14:22:54,786 INFO Alive (ping 0-800ms): 216 out of 238
+2026-08-20 14:22:54,788 INFO Phase 2: proxy ping via xray (216 servers, 10 workers)
+2026-08-20 14:22:54,789 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 14:22:54,789 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 14:29:42,805 INFO Proxy ping: 48 alive, 168 dead/unreachable (timeout 10s)
+2026-08-20 14:29:42,826 INFO Lite (top-3 per country): 25 servers + 4 info cards
+2026-08-20 14:29:42,827 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-20 14:29:42,851 INFO Written: 10 countries, stats.json ready
+2026-08-20 14:29:42,851 INFO Top 5 fastest:
+2026-08-20 14:29:42,852 INFO   EE 178.176.128.128:443 — 5ms [🇪🇪 Estonia — #114]
+2026-08-20 14:29:42,852 INFO   EE 178.176.128.128:443 — 8ms [🇪🇪 Estonia — #113]
+2026-08-20 14:29:42,853 INFO   DE 91.240.86.186:443 — 213ms [🇩🇪 Germany — #83]
+2026-08-20 14:29:42,853 INFO   EE 176.109.94.105:8445 — 231ms [🇪🇪 Estonia — #112]
+2026-08-20 14:29:42,854 INFO   RU 89.19.223.136:443 — 237ms [🇷🇺 Sysect D.O.O. — #16]
+2026-08-20 14:29:42,859 INFO Dashboard written to /out/index.html
