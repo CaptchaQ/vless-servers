@@ -8594,3 +8594,28 @@
 2026-08-20 15:37:09,917 INFO   DE 188.72.103.4:443 — 253ms [🇩🇪 Germany — #128]
 2026-08-20 15:37:09,917 INFO   RU 217.19.122.88:9001 — 269ms [🇷🇺 Timeweb — #31]
 2026-08-20 15:37:09,922 INFO Dashboard written to /out/index.html
+2026-08-20 15:37:09,932 INFO Removed stale country file from data repo: LT.txt
+2026-08-20 15:37:09,932 INFO Removed stale country file from data repo: PL.txt
+2026-08-20 15:37:09,932 INFO Synced out/ → /data
+2026-08-20 15:37:12,056 INFO Data repo pushed to origin/main
+2026-08-20 15:37:12,056 INFO Done in 444.7 s | Peak RAM: 1.5 MB | Alive: 52/267 (19.5%)
+2026-08-20 16:37:12,254 INFO ============================================================
+2026-08-20 16:37:12,254 INFO VLESS Checker starting...
+2026-08-20 16:37:12,672 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 267 links
+2026-08-20 16:37:12,672 INFO Total unique links: 267
+2026-08-20 16:37:12,772 INFO Parsed correctly: 267
+2026-08-20 16:37:18,675 INFO Alive (ping 0-800ms): 241 out of 267
+2026-08-20 16:37:18,684 INFO Phase 2: proxy ping via xray (241 servers, 10 workers)
+2026-08-20 16:37:18,689 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 16:37:18,693 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 16:46:15,477 INFO Proxy ping: 36 alive, 205 dead/unreachable (timeout 10s)
+2026-08-20 16:46:15,484 INFO Lite (top-3 per country): 17 servers + 4 info cards
+2026-08-20 16:46:15,484 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-20 16:46:15,497 INFO Written: 7 countries, stats.json ready
+2026-08-20 16:46:15,497 INFO Top 5 fastest:
+2026-08-20 16:46:15,498 INFO   EE 178.176.128.128:443 — 3ms [🇪🇪 Estonia — #153]
+2026-08-20 16:46:15,498 INFO   EE 178.176.128.128:443 — 4ms [🇪🇪 Estonia — #152]
+2026-08-20 16:46:15,498 INFO   RU 185.126.93.15:443 — 253ms [🇷🇺 Start2 LLC — #27]
+2026-08-20 16:46:15,499 INFO   RU 217.19.122.88:9001 — 254ms [🇷🇺 Timeweb — #53]
+2026-08-20 16:46:15,499 INFO   RU 217.19.122.88:9001 — 269ms [🇷🇺 Timeweb — #52]
+2026-08-20 16:46:15,503 INFO Dashboard written to /out/index.html

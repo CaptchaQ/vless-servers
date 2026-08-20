@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-20T15:37:09.890462+00:00",
+  "updated_utc": "2026-08-20T16:46:15.479250+00:00",
   "total_checked": 267,
-  "total_working": 52,
-  "total_dead": 215,
-  "survival_rate_pct": 19.5,
-  "countries": 8,
-  "ping_min_ms": 174,
-  "ping_median_ms": 464,
-  "ping_max_ms": 6093,
+  "total_working": 36,
+  "total_dead": 231,
+  "survival_rate_pct": 13.5,
+  "countries": 7,
+  "ping_min_ms": 3,
+  "ping_median_ms": 731,
+  "ping_max_ms": 6488,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 38,
-    "tls": 11,
-    "none": 3
+    "tls": 7,
+    "reality": 27,
+    "none": 2
   },
   "top_fastest": [
     {
       "cc": "EE",
-      "host": "176.109.94.105",
-      "port": 8445,
-      "ping_ms": 174,
-      "name": "🇪🇪 Estonia — #136"
+      "host": "178.176.128.128",
+      "port": 443,
+      "ping_ms": 3,
+      "name": "🇪🇪 Estonia — #153"
     },
     {
-      "cc": "FR",
-      "host": "37.9.4.128",
+      "cc": "EE",
+      "host": "178.176.128.128",
       "port": 443,
-      "ping_ms": 236,
-      "name": "🇫🇷 France — #159"
+      "ping_ms": 4,
+      "name": "🇪🇪 Estonia — #152"
     },
     {
       "cc": "RU",
-      "host": "31.200.250.160",
-      "port": 443,
-      "ping_ms": 239,
-      "name": "🇷🇺 Start2 LLC — #24"
-    },
-    {
-      "cc": "DE",
-      "host": "188.72.103.4",
+      "host": "185.126.93.15",
       "port": 443,
       "ping_ms": 253,
-      "name": "🇩🇪 Germany — #128"
+      "name": "🇷🇺 Start2 LLC — #27"
+    },
+    {
+      "cc": "RU",
+      "host": "217.19.122.88",
+      "port": 9001,
+      "ping_ms": 254,
+      "name": "🇷🇺 Timeweb — #53"
     },
     {
       "cc": "RU",
       "host": "217.19.122.88",
       "port": 9001,
       "ping_ms": 269,
-      "name": "🇷🇺 Timeweb — #31"
+      "name": "🇷🇺 Timeweb — #52"
     }
   ],
-  "elapsed_seconds": 444.67,
-  "memory_peak_mb": 1.5
+  "elapsed_seconds": 543.22,
+  "memory_peak_mb": 1.49
 }
