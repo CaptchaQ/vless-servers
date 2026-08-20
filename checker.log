@@ -8691,3 +8691,30 @@
 2026-08-20 20:04:55,730 INFO   RU 217.19.122.88:9001 — 258ms [🇷🇺 Timeweb — #29]
 2026-08-20 20:04:55,731 INFO   DE 51.250.7.122:443 — 268ms [🇩🇪 Germany — #70]
 2026-08-20 20:04:55,736 INFO Dashboard written to /out/index.html
+2026-08-20 20:04:55,743 INFO Removed stale country file from data repo: IT.txt
+2026-08-20 20:04:55,743 INFO Removed stale country file from data repo: US.txt
+2026-08-20 20:04:55,744 INFO Removed stale country file from data repo: FI.txt
+2026-08-20 20:04:55,744 INFO Synced out/ → /data
+2026-08-20 20:04:57,881 INFO Data repo pushed to origin/main
+2026-08-20 20:04:57,882 INFO Done in 348.1 s | Peak RAM: 1.2 MB | Alive: 20/202 (9.9%)
+2026-08-20 21:04:57,987 INFO ============================================================
+2026-08-20 21:04:57,987 INFO VLESS Checker starting...
+2026-08-20 21:04:58,332 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 243 links
+2026-08-20 21:04:58,334 INFO Total unique links: 243
+2026-08-20 21:04:58,442 INFO Parsed correctly: 243
+2026-08-20 21:05:03,535 INFO Alive (ping 0-800ms): 225 out of 243
+2026-08-20 21:05:03,541 INFO Phase 2: proxy ping via xray (225 servers, 10 workers)
+2026-08-20 21:05:03,545 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 21:05:03,547 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 21:05:03,550 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 21:13:46,686 INFO Proxy ping: 102 alive, 123 dead/unreachable (timeout 10s)
+2026-08-20 21:13:46,693 INFO Lite (top-3 per country): 30 servers + 4 info cards
+2026-08-20 21:13:46,694 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-20 21:13:46,719 INFO Written: 12 countries, stats.json ready
+2026-08-20 21:13:46,720 INFO Top 5 fastest:
+2026-08-20 21:13:46,720 INFO   EE 178.176.128.128:443 — 3ms [🇪🇪 Estonia — #128]
+2026-08-20 21:13:46,720 INFO   EE 178.176.128.128:443 — 4ms [🇪🇪 Estonia — #130]
+2026-08-20 21:13:46,721 INFO   EE 178.176.128.128:443 — 6ms [🇪🇪 Estonia — #129]
+2026-08-20 21:13:46,721 INFO   RU 89.19.223.136:443 — 161ms [🇷🇺 Sysect D.O.O. — #26]
+2026-08-20 21:13:46,721 INFO   RU 87.228.122.108:4100 — 173ms [🇷🇺 Selectel — #20]
+2026-08-20 21:13:46,726 INFO Dashboard written to /out/index.html
