@@ -8665,3 +8665,29 @@
 2026-08-20 18:59:04,556 INFO   SE 185.229.9.44:443 — 309ms [🇸🇪 Sweden — #199]
 2026-08-20 18:59:04,556 INFO   DE 185.229.9.74:443 — 326ms [🇩🇪 Germany — #84]
 2026-08-20 18:59:04,560 INFO Dashboard written to /out/index.html
+2026-08-20 18:59:04,570 INFO Removed stale country file from data repo: LT.txt
+2026-08-20 18:59:04,570 INFO Removed stale country file from data repo: PL.txt
+2026-08-20 18:59:04,571 INFO Removed stale country file from data repo: GB.txt
+2026-08-20 18:59:04,571 INFO Synced out/ → /data
+2026-08-20 18:59:07,458 INFO Data repo pushed to origin/main
+2026-08-20 18:59:07,459 INFO Done in 397.1 s | Peak RAM: 1.3 MB | Alive: 24/210 (11.4%)
+2026-08-20 19:59:07,606 INFO ============================================================
+2026-08-20 19:59:07,606 INFO VLESS Checker starting...
+2026-08-20 19:59:07,963 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 202 links
+2026-08-20 19:59:07,963 INFO Total unique links: 202
+2026-08-20 19:59:08,028 INFO Parsed correctly: 202
+2026-08-20 19:59:13,144 INFO Alive (ping 0-800ms): 179 out of 202
+2026-08-20 19:59:13,148 INFO Phase 2: proxy ping via xray (179 servers, 10 workers)
+2026-08-20 19:59:13,152 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 19:59:13,154 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-20 20:04:55,689 INFO Proxy ping: 20 alive, 159 dead/unreachable (timeout 10s)
+2026-08-20 20:04:55,706 INFO Lite (top-3 per country): 14 servers + 4 info cards
+2026-08-20 20:04:55,707 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-20 20:04:55,728 INFO Written: 8 countries, stats.json ready
+2026-08-20 20:04:55,729 INFO Top 5 fastest:
+2026-08-20 20:04:55,729 INFO   EE 178.176.128.128:443 — 4ms [🇪🇪 Estonia — #113]
+2026-08-20 20:04:55,730 INFO   EE 178.176.128.128:443 — 4ms [🇪🇪 Estonia — #114]
+2026-08-20 20:04:55,730 INFO   FR 185.141.227.150:9002 — 212ms [🇫🇷 France — #118]
+2026-08-20 20:04:55,730 INFO   RU 217.19.122.88:9001 — 258ms [🇷🇺 Timeweb — #29]
+2026-08-20 20:04:55,731 INFO   DE 51.250.7.122:443 — 268ms [🇩🇪 Germany — #70]
+2026-08-20 20:04:55,736 INFO Dashboard written to /out/index.html
