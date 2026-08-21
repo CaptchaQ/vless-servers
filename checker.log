@@ -9129,3 +9129,30 @@
 2026-08-21 16:33:42,009 INFO   EE 178.176.128.128:443 — 4ms [🇪🇪 Estonia — #116]
 2026-08-21 16:33:42,010 INFO   EE 178.176.128.128:443 — 4ms [🇪🇪 Estonia — #119]
 2026-08-21 16:33:42,015 INFO Dashboard written to /out/index.html
+2026-08-21 16:33:42,024 INFO Removed stale country file from data repo: SE.txt
+2026-08-21 16:33:42,024 INFO Removed stale country file from data repo: IT.txt
+2026-08-21 16:33:42,024 INFO Removed stale country file from data repo: LT.txt
+2026-08-21 16:33:42,025 INFO Removed stale country file from data repo: PL.txt
+2026-08-21 16:33:42,025 INFO Removed stale country file from data repo: KZ.txt
+2026-08-21 16:33:42,025 INFO Removed stale country file from data repo: GB.txt
+2026-08-21 16:33:42,025 INFO Synced out/ → /data
+2026-08-21 16:33:44,439 INFO Data repo pushed to origin/main
+2026-08-21 16:33:44,440 INFO Done in 493.1 s | Peak RAM: 1.4 MB | Alive: 39/248 (15.7%)
+2026-08-21 17:33:44,577 INFO ============================================================
+2026-08-21 17:33:44,578 INFO VLESS Checker starting...
+2026-08-21 17:33:44,972 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 226 links
+2026-08-21 17:33:44,974 INFO Total unique links: 226
+2026-08-21 17:33:45,088 INFO Parsed correctly: 226
+2026-08-21 17:33:50,283 INFO Alive (ping 0-800ms): 210 out of 226
+2026-08-21 17:33:50,288 INFO Phase 2: proxy ping via xray (210 servers, 10 workers)
+2026-08-21 17:40:31,577 INFO Proxy ping: 11 alive, 199 dead/unreachable (timeout 10s)
+2026-08-21 17:40:31,594 INFO Lite (top-3 per country): 9 servers + 4 info cards
+2026-08-21 17:40:31,596 INFO Best (top-20 globally): 11 servers + 4 info cards
+2026-08-21 17:40:31,609 INFO Written: 5 countries, stats.json ready
+2026-08-21 17:40:31,610 INFO Top 5 fastest:
+2026-08-21 17:40:31,610 INFO   RU 109.196.101.18:4100 — 230ms [🇷🇺 Timeweb — #44]
+2026-08-21 17:40:31,611 INFO   DE 176.108.245.3:443 — 461ms [🇩🇪 Germany — #62]
+2026-08-21 17:40:31,611 INFO   NL 78.159.245.75:9002 — 499ms [🇳🇱 The Netherlands — #174]
+2026-08-21 17:40:31,612 INFO   RU 78.159.245.75:9001 — 504ms [🇷🇺 Timeweb — #29]
+2026-08-21 17:40:31,612 INFO   NL 90.156.218.234:25443 — 532ms [🇳🇱 The Netherlands — #179]
+2026-08-21 17:40:31,618 INFO Dashboard written to /out/index.html
