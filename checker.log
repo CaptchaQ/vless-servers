@@ -8794,3 +8794,30 @@
 2026-08-21 00:37:02,853 INFO   EE 178.176.128.128:443 — 7ms [🇪🇪 Estonia — #149]
 2026-08-21 00:37:02,854 INFO   FI 31.129.42.239:443 — 137ms [🇫🇮 Finland — #154]
 2026-08-21 00:37:02,858 INFO Dashboard written to /out/index.html
+2026-08-21 00:37:02,868 INFO Synced out/ → /data
+2026-08-21 00:37:04,856 INFO Data repo pushed to origin/main
+2026-08-21 00:37:04,856 INFO Done in 444.5 s | Peak RAM: 1.6 MB | Alive: 137/290 (47.2%)
+2026-08-21 01:37:05,018 INFO ============================================================
+2026-08-21 01:37:05,018 INFO VLESS Checker starting...
+2026-08-21 01:37:05,391 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 235 links
+2026-08-21 01:37:05,392 INFO Total unique links: 235
+2026-08-21 01:37:05,498 INFO Parsed correctly: 235
+2026-08-21 01:37:10,609 INFO Alive (ping 0-800ms): 218 out of 235
+2026-08-21 01:37:10,611 INFO Phase 2: proxy ping via xray (218 servers, 10 workers)
+2026-08-21 01:37:10,612 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-21 01:37:10,613 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-21 01:37:10,614 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-21 01:37:10,615 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-21 01:37:10,617 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-21 01:37:10,618 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-08-21 01:45:29,012 INFO Proxy ping: 129 alive, 89 dead/unreachable (timeout 10s)
+2026-08-21 01:45:29,033 INFO Lite (top-3 per country): 27 servers + 4 info cards
+2026-08-21 01:45:29,034 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-21 01:45:29,069 INFO Written: 10 countries, stats.json ready
+2026-08-21 01:45:29,070 INFO Top 5 fastest:
+2026-08-21 01:45:29,070 INFO   EE 178.176.128.128:443 — 3ms [🇪🇪 Estonia — #144]
+2026-08-21 01:45:29,070 INFO   EE 178.176.128.128:443 — 3ms [🇪🇪 Estonia — #143]
+2026-08-21 01:45:29,070 INFO   EE 178.176.128.128:443 — 3ms [🇪🇪 Estonia — #145]
+2026-08-21 01:45:29,071 INFO   EE 178.176.128.128:443 — 4ms [🇪🇪 Estonia — #146]
+2026-08-21 01:45:29,071 INFO   EE 178.176.128.128:443 — 5ms [🇪🇪 Estonia — #147]
+2026-08-21 01:45:29,075 INFO Dashboard written to /out/index.html
