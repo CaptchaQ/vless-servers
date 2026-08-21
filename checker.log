@@ -8821,3 +8821,27 @@
 2026-08-21 01:45:29,071 INFO   EE 178.176.128.128:443 — 4ms [🇪🇪 Estonia — #146]
 2026-08-21 01:45:29,071 INFO   EE 178.176.128.128:443 — 5ms [🇪🇪 Estonia — #147]
 2026-08-21 01:45:29,075 INFO Dashboard written to /out/index.html
+2026-08-21 01:45:29,085 INFO Removed stale country file from data repo: SE.txt
+2026-08-21 01:45:29,085 INFO Removed stale country file from data repo: LT.txt
+2026-08-21 01:45:29,085 INFO Removed stale country file from data repo: GB.txt
+2026-08-21 01:45:29,086 INFO Synced out/ → /data
+2026-08-21 01:45:31,153 INFO Data repo pushed to origin/main
+2026-08-21 01:45:31,154 INFO Done in 504.0 s | Peak RAM: 1.4 MB | Alive: 129/235 (54.9%)
+2026-08-21 02:45:31,308 INFO ============================================================
+2026-08-21 02:45:31,308 INFO VLESS Checker starting...
+2026-08-21 02:45:31,853 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 281 links
+2026-08-21 02:45:31,857 INFO Total unique links: 281
+2026-08-21 02:45:31,981 INFO Parsed correctly: 281
+2026-08-21 02:45:37,468 INFO Alive (ping 0-800ms): 260 out of 281
+2026-08-21 02:45:37,472 INFO Phase 2: proxy ping via xray (260 servers, 10 workers)
+2026-08-21 02:54:05,692 INFO Proxy ping: 89 alive, 171 dead/unreachable (timeout 10s)
+2026-08-21 02:54:05,697 INFO Lite (top-3 per country): 21 servers + 4 info cards
+2026-08-21 02:54:05,698 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-21 02:54:05,717 INFO Written: 10 countries, stats.json ready
+2026-08-21 02:54:05,717 INFO Top 5 fastest:
+2026-08-21 02:54:05,718 INFO   DE 188.72.103.4:443 — 104ms [🇩🇪 Germany — #146]
+2026-08-21 02:54:05,718 INFO   DE 78.159.246.204:2027 — 109ms [🇩🇪 Germany — #89]
+2026-08-21 02:54:05,718 INFO   RU 201.51.13.38:443 — 110ms [🇷🇺 Timeweb — #33]
+2026-08-21 02:54:05,718 INFO   NL 91.240.87.170:8444 — 124ms [🇳🇱 The Netherlands — #231]
+2026-08-21 02:54:05,719 INFO   NL 185.229.9.31:49175 — 130ms [🇳🇱 The Netherlands — #238]
+2026-08-21 02:54:05,722 INFO Dashboard written to /out/index.html
