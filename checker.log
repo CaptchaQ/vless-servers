@@ -8982,3 +8982,27 @@
 2026-08-21 09:46:53,240 INFO   DE 217.19.122.88:2027 — 274ms [🇩🇪 Germany — #62]
 2026-08-21 09:46:53,242 INFO   RU 217.19.122.88:9001 — 275ms [🇷🇺 Timeweb — #38]
 2026-08-21 09:46:53,260 INFO Dashboard written to /out/index.html
+2026-08-21 09:46:53,275 INFO Removed stale country file from data repo: IT.txt
+2026-08-21 09:46:53,275 INFO Removed stale country file from data repo: US.txt
+2026-08-21 09:46:53,276 INFO Removed stale country file from data repo: GE.txt
+2026-08-21 09:46:53,276 INFO Synced out/ → /data
+2026-08-21 09:46:55,243 INFO Data repo pushed to origin/main
+2026-08-21 09:46:55,243 INFO Done in 432.1 s | Peak RAM: 1.3 MB | Alive: 25/196 (12.8%)
+2026-08-21 10:46:55,398 INFO ============================================================
+2026-08-21 10:46:55,399 INFO VLESS Checker starting...
+2026-08-21 10:46:55,887 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 196 links
+2026-08-21 10:46:55,889 INFO Total unique links: 196
+2026-08-21 10:46:55,998 INFO Parsed correctly: 196
+2026-08-21 10:47:01,388 INFO Alive (ping 0-800ms): 176 out of 196
+2026-08-21 10:47:01,392 INFO Phase 2: proxy ping via xray (176 servers, 10 workers)
+2026-08-21 10:54:27,454 INFO Proxy ping: 16 alive, 160 dead/unreachable (timeout 10s)
+2026-08-21 10:54:27,473 INFO Lite (top-3 per country): 12 servers + 4 info cards
+2026-08-21 10:54:27,474 INFO Best (top-20 globally): 16 servers + 4 info cards
+2026-08-21 10:54:27,489 INFO Written: 6 countries, stats.json ready
+2026-08-21 10:54:27,489 INFO Top 5 fastest:
+2026-08-21 10:54:27,490 INFO   RU 194.55.239.17:443 — 109ms [🇷🇺 New Hosting Technologies LLC — #20]
+2026-08-21 10:54:27,490 INFO   RU 109.73.206.166:2200 — 126ms [🇷🇺 Timeweb — #43]
+2026-08-21 10:54:27,490 INFO   RU 217.19.122.88:9001 — 230ms [🇷🇺 Timeweb — #47]
+2026-08-21 10:54:27,491 INFO   DE 185.178.208.176:443 — 242ms [🇩🇪 Germany — #54]
+2026-08-21 10:54:27,491 INFO   NL 176.109.85.112:443 — 261ms [🇳🇱 The Netherlands — #174]
+2026-08-21 10:54:27,496 INFO Dashboard written to /out/index.html
