@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-22T05:53:22.622387+00:00",
-  "total_checked": 212,
-  "total_working": 23,
-  "total_dead": 189,
-  "survival_rate_pct": 10.8,
-  "countries": 6,
-  "ping_min_ms": 170,
-  "ping_median_ms": 611,
-  "ping_max_ms": 2116,
+  "updated_utc": "2026-08-22T06:58:56.284965+00:00",
+  "total_checked": 203,
+  "total_working": 19,
+  "total_dead": 184,
+  "survival_rate_pct": 9.4,
+  "countries": 5,
+  "ping_min_ms": 189,
+  "ping_median_ms": 550,
+  "ping_max_ms": 1369,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 21,
-    "none": 1,
-    "tls": 1
+    "none": 3,
+    "tls": 1,
+    "reality": 15
   },
   "top_fastest": [
     {
-      "cc": "EE",
-      "host": "31.129.42.239",
+      "cc": "RU",
+      "host": "141.8.199.212",
+      "port": 4100,
+      "ping_ms": 189,
+      "name": "🇷🇺 Sprinthost — #21"
+    },
+    {
+      "cc": "RU",
+      "host": "31.177.83.201",
+      "port": 4100,
+      "ping_ms": 196,
+      "name": "🇷🇺 SpaceWeb — #20"
+    },
+    {
+      "cc": "RU",
+      "host": "188.225.47.234",
+      "port": 4100,
+      "ping_ms": 213,
+      "name": "🇷🇺 Timeweb — #44"
+    },
+    {
+      "cc": "NL",
+      "host": "188.72.103.4",
       "port": 443,
-      "ping_ms": 170,
-      "name": "🇪🇪 Estonia — #100"
+      "ping_ms": 342,
+      "name": "🇳🇱 The Netherlands — #173"
     },
     {
-      "cc": "EE",
-      "host": "31.129.42.239",
+      "cc": "DE",
+      "host": "176.108.245.3",
       "port": 443,
-      "ping_ms": 316,
-      "name": "🇪🇪 Estonia — #101"
-    },
-    {
-      "cc": "FR",
-      "host": "185.141.227.150",
-      "port": 9002,
-      "ping_ms": 366,
-      "name": "🇫🇷 France — #110"
-    },
-    {
-      "cc": "FR",
-      "host": "78.159.245.75",
-      "port": 9002,
-      "ping_ms": 439,
-      "name": "🇫🇷 France — #112"
-    },
-    {
-      "cc": "FR",
-      "host": "78.159.245.75",
-      "port": 9002,
-      "ping_ms": 440,
-      "name": "🇫🇷 France — #104"
+      "ping_ms": 373,
+      "name": "🇩🇪 Germany — #52"
     }
   ],
-  "elapsed_seconds": 383.21,
-  "memory_peak_mb": 1.34
+  "elapsed_seconds": 331.61,
+  "memory_peak_mb": 1.31
 }
