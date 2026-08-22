@@ -1,58 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-22T18:01:25.913431+00:00",
-  "total_checked": 189,
-  "total_working": 14,
-  "total_dead": 175,
-  "survival_rate_pct": 7.4,
-  "countries": 7,
-  "ping_min_ms": 269,
-  "ping_median_ms": 661,
-  "ping_max_ms": 6087,
+  "updated_utc": "2026-08-22T19:06:36.466886+00:00",
+  "total_checked": 212,
+  "total_working": 29,
+  "total_dead": 183,
+  "survival_rate_pct": 13.7,
+  "countries": 8,
+  "ping_min_ms": 176,
+  "ping_median_ms": 200,
+  "ping_max_ms": 1429,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "none": 2,
-    "reality": 9,
+    "reality": 26,
     "tls": 3
   },
   "top_fastest": [
     {
       "cc": "RU",
-      "host": "109.73.206.166",
-      "port": 2200,
-      "ping_ms": 269,
-      "name": "🇷🇺 Timeweb — #44"
-    },
-    {
-      "cc": "GB",
-      "host": "176.109.88.216",
+      "host": "5.129.253.177",
       "port": 443,
-      "ping_ms": 412,
-      "name": "🇬🇧 United Kingdom — #106"
-    },
-    {
-      "cc": "GB",
-      "host": "176.109.88.216",
-      "port": 443,
-      "ping_ms": 463,
-      "name": "🇬🇧 United Kingdom — #105"
+      "ping_ms": 176,
+      "name": "🇷🇺 Timeweb — #49"
     },
     {
       "cc": "NL",
-      "host": "185.178.208.140",
-      "port": 443,
-      "ping_ms": 541,
-      "name": "🇳🇱 The Netherlands — #160"
+      "host": "185.141.227.150",
+      "port": 9002,
+      "ping_ms": 177,
+      "name": "🇳🇱 The Netherlands — #167"
     },
     {
-      "cc": "GB",
-      "host": "185.178.208.140",
+      "cc": "RU",
+      "host": "185.39.206.241",
       "port": 443,
-      "ping_ms": 587,
-      "name": "🇬🇧 United Kingdom — #107"
+      "ping_ms": 180,
+      "name": "🇷🇺 Timeweb — #46"
+    },
+    {
+      "cc": "RU",
+      "host": "5.129.249.118",
+      "port": 443,
+      "ping_ms": 185,
+      "name": "🇷🇺 Timeweb — #42"
+    },
+    {
+      "cc": "FR",
+      "host": "95.129.236.252",
+      "port": 443,
+      "ping_ms": 186,
+      "name": "🇫🇷 France — #108"
     }
   ],
-  "elapsed_seconds": 389.7,
-  "memory_peak_mb": 1.28
+  "elapsed_seconds": 308.34,
+  "memory_peak_mb": 1.29
 }
