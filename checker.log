@@ -9933,3 +9933,27 @@
 2026-08-23 08:32:49,666 INFO   RU 193.168.46.180:443 — 349ms [🇷🇺 Beget — #15]
 2026-08-23 08:32:49,666 INFO   NL 78.159.245.75:9002 — 369ms [🇳🇱 The Netherlands — #133]
 2026-08-23 08:32:49,671 INFO Dashboard written to /out/index.html
+2026-08-23 08:32:49,680 INFO Removed stale country file from data repo: SE.txt
+2026-08-23 08:32:49,680 INFO Removed stale country file from data repo: PL.txt
+2026-08-23 08:32:49,681 INFO Removed stale country file from data repo: GB.txt
+2026-08-23 08:32:49,681 INFO Synced out/ → /data
+2026-08-23 08:32:51,654 INFO Data repo pushed to origin/main
+2026-08-23 08:32:51,655 INFO Done in 438.6 s | Peak RAM: 1.3 MB | Alive: 18/190 (9.5%)
+2026-08-23 09:32:51,817 INFO ============================================================
+2026-08-23 09:32:51,818 INFO VLESS Checker starting...
+2026-08-23 09:32:52,186 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 199 links
+2026-08-23 09:32:52,187 INFO Total unique links: 199
+2026-08-23 09:32:52,339 INFO Parsed correctly: 199
+2026-08-23 09:32:57,822 INFO Alive (ping 0-800ms): 179 out of 199
+2026-08-23 09:32:57,826 INFO Phase 2: proxy ping via xray (179 servers, 10 workers)
+2026-08-23 09:39:19,495 INFO Proxy ping: 30 alive, 149 dead/unreachable (timeout 10s)
+2026-08-23 09:39:19,513 INFO Lite (top-3 per country): 18 servers + 4 info cards
+2026-08-23 09:39:19,514 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-23 09:39:19,529 INFO Written: 7 countries, stats.json ready
+2026-08-23 09:39:19,530 INFO Top 5 fastest:
+2026-08-23 09:39:19,530 INFO   NL 185.141.227.150:9002 — 384ms [🇳🇱 The Netherlands — #140]
+2026-08-23 09:39:19,530 INFO   RU 5.42.103.91:2200 — 395ms [🇷🇺 Timeweb — #30]
+2026-08-23 09:39:19,531 INFO   DE 46.243.234.205:2027 — 403ms [🇩🇪 Germany — #44]
+2026-08-23 09:39:19,531 INFO   DE 46.243.234.205:2027 — 415ms [🇩🇪 Germany — #45]
+2026-08-23 09:39:19,532 INFO   FR 78.159.250.33:9002 — 415ms [🇫🇷 France — #96]
+2026-08-23 09:39:19,536 INFO Dashboard written to /out/index.html
