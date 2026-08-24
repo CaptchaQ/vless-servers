@@ -1,58 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-23T22:57:11.312432+00:00",
-  "total_checked": 202,
-  "total_working": 39,
-  "total_dead": 163,
-  "survival_rate_pct": 19.3,
+  "updated_utc": "2026-08-24T00:02:38.735072+00:00",
+  "total_checked": 226,
+  "total_working": 51,
+  "total_dead": 175,
+  "survival_rate_pct": 22.6,
   "countries": 8,
-  "ping_min_ms": 132,
-  "ping_median_ms": 526,
-  "ping_max_ms": 1336,
+  "ping_min_ms": 135,
+  "ping_median_ms": 465,
+  "ping_max_ms": 1370,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 28,
-    "none": 8,
-    "tls": 3
+    "reality": 43,
+    "none": 8
   },
   "top_fastest": [
     {
       "cc": "EE",
       "host": "31.129.42.239",
       "port": 443,
-      "ping_ms": 132,
-      "name": "🇪🇪 Estonia — #112"
+      "ping_ms": 135,
+      "name": "🇪🇪 Estonia — #130"
     },
     {
-      "cc": "SE",
-      "host": "46.243.142.184",
-      "port": 4443,
-      "ping_ms": 135,
-      "name": "🇸🇪 Sweden — #199"
+      "cc": "RU",
+      "host": "5.42.121.52",
+      "port": 2200,
+      "ping_ms": 147,
+      "name": "🇷🇺 Timeweb — #39"
     },
     {
       "cc": "RU",
       "host": "109.73.206.166",
       "port": 2200,
-      "ping_ms": 173,
+      "ping_ms": 156,
       "name": "🇷🇺 Timeweb — #41"
     },
     {
-      "cc": "RU",
-      "host": "109.73.192.29",
-      "port": 4100,
-      "ping_ms": 174,
-      "name": "🇷🇺 Timeweb — #43"
+      "cc": "EE",
+      "host": "31.129.42.239",
+      "port": 443,
+      "ping_ms": 158,
+      "name": "🇪🇪 Estonia — #129"
     },
     {
       "cc": "RU",
-      "host": "87.228.122.108",
-      "port": 4100,
-      "ping_ms": 175,
-      "name": "🇷🇺 Selectel — #13"
+      "host": "91.222.237.55",
+      "port": 2200,
+      "ping_ms": 166,
+      "name": "🇷🇺 Timeweb — #40"
     }
   ],
-  "elapsed_seconds": 290.56,
-  "memory_peak_mb": 1.33
+  "elapsed_seconds": 325.15,
+  "memory_peak_mb": 1.48
 }
