@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-25T08:03:01.923353+00:00",
-  "total_checked": 267,
-  "total_working": 60,
-  "total_dead": 207,
-  "survival_rate_pct": 22.5,
-  "countries": 11,
-  "ping_min_ms": 166,
-  "ping_median_ms": 581,
-  "ping_max_ms": 1463,
+  "updated_utc": "2026-08-25T09:08:54.118821+00:00",
+  "total_checked": 215,
+  "total_working": 81,
+  "total_dead": 134,
+  "survival_rate_pct": 37.7,
+  "countries": 12,
+  "ping_min_ms": 182,
+  "ping_median_ms": 361,
+  "ping_max_ms": 1409,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 48,
-    "none": 3,
-    "tls": 9
+    "tls": 10,
+    "reality": 68,
+    "none": 3
   },
   "top_fastest": [
     {
-      "cc": "EE",
-      "host": "31.129.42.239",
-      "port": 443,
-      "ping_ms": 166,
-      "name": "🇪🇪 Estonia — #130"
-    },
-    {
-      "cc": "GB",
-      "host": "77.232.41.149",
-      "port": 443,
-      "ping_ms": 192,
-      "name": "🇬🇧 United Kingdom — #149"
-    },
-    {
       "cc": "RU",
-      "host": "188.225.47.234",
-      "port": 4100,
-      "ping_ms": 220,
-      "name": "🇷🇺 Timeweb — #38"
+      "host": "94.26.249.154",
+      "port": 52006,
+      "ping_ms": 182,
+      "name": "🇷🇺 Selectel — #14"
+    },
+    {
+      "cc": "PL",
+      "host": "46.243.142.89",
+      "port": 9443,
+      "ping_ms": 215,
+      "name": "🇵🇱 Poland — #204"
+    },
+    {
+      "cc": "DE",
+      "host": "185.229.9.236",
+      "port": 49005,
+      "ping_ms": 234,
+      "name": "🇩🇪 Germany — #101"
+    },
+    {
+      "cc": "PL",
+      "host": "46.243.142.89",
+      "port": 9443,
+      "ping_ms": 237,
+      "name": "🇵🇱 Poland — #205"
     },
     {
       "cc": "SE",
-      "host": "176.109.108.83",
-      "port": 9830,
-      "ping_ms": 277,
-      "name": "🇸🇪 Sweden — #256"
-    },
-    {
-      "cc": "IT",
-      "host": "104.171.128.225",
-      "port": 443,
-      "ping_ms": 293,
-      "name": "🇮🇹 Italy — #179"
+      "host": "46.243.142.184",
+      "port": 4443,
+      "ping_ms": 245,
+      "name": "🇸🇪 Sweden — #213"
     }
   ],
-  "elapsed_seconds": 366.99,
-  "memory_peak_mb": 1.59
+  "elapsed_seconds": 349.89,
+  "memory_peak_mb": 1.36
 }
