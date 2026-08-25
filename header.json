@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-25T05:49:30.454560+00:00",
-  "total_checked": 370,
-  "total_working": 102,
-  "total_dead": 268,
-  "survival_rate_pct": 27.6,
-  "countries": 12,
-  "ping_min_ms": 119,
-  "ping_median_ms": 393,
-  "ping_max_ms": 1499,
+  "updated_utc": "2026-08-25T06:56:52.573977+00:00",
+  "total_checked": 340,
+  "total_working": 101,
+  "total_dead": 239,
+  "survival_rate_pct": 29.7,
+  "countries": 11,
+  "ping_min_ms": 182,
+  "ping_median_ms": 535,
+  "ping_max_ms": 1477,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 81,
     "none": 7,
-    "tls": 14
+    "tls": 13,
+    "reality": 81
   },
   "top_fastest": [
     {
       "cc": "RU",
-      "host": "194.87.76.27",
-      "port": 443,
-      "ping_ms": 119,
-      "name": "🇷🇺 Timeweb — #67"
+      "host": "109.73.192.29",
+      "port": 4100,
+      "ping_ms": 182,
+      "name": "🇷🇺 Timeweb — #56"
     },
     {
       "cc": "RU",
-      "host": "194.87.76.27",
-      "port": 443,
-      "ping_ms": 137,
-      "name": "🇷🇺 Timeweb — #42"
+      "host": "66.90.90.13",
+      "port": 8443,
+      "ping_ms": 195,
+      "name": "🇷🇺 FDCservers.net — #10"
     },
     {
       "cc": "EE",
-      "host": "31.129.42.239",
+      "host": "165.231.157.114",
       "port": 443,
-      "ping_ms": 140,
+      "ping_ms": 227,
+      "name": "🇪🇪 Estonia — #193"
+    },
+    {
+      "cc": "EE",
+      "host": "165.231.157.117",
+      "port": 443,
+      "ping_ms": 234,
+      "name": "🇪🇪 Estonia — #198"
+    },
+    {
+      "cc": "EE",
+      "host": "165.231.157.117",
+      "port": 443,
+      "ping_ms": 242,
       "name": "🇪🇪 Estonia — #192"
-    },
-    {
-      "cc": "EE",
-      "host": "31.129.42.239",
-      "port": 443,
-      "ping_ms": 146,
-      "name": "🇪🇪 Estonia — #191"
-    },
-    {
-      "cc": "RU",
-      "host": "83.217.221.156",
-      "port": 443,
-      "ping_ms": 150,
-      "name": "🇷🇺 Timeweb — #43"
     }
   ],
-  "elapsed_seconds": 414.36,
-  "memory_peak_mb": 2.02
+  "elapsed_seconds": 439.78,
+  "memory_peak_mb": 1.93
 }
