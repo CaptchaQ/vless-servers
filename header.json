@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-25T06:56:52.573977+00:00",
-  "total_checked": 340,
-  "total_working": 101,
-  "total_dead": 239,
-  "survival_rate_pct": 29.7,
+  "updated_utc": "2026-08-25T08:03:01.923353+00:00",
+  "total_checked": 267,
+  "total_working": 60,
+  "total_dead": 207,
+  "survival_rate_pct": 22.5,
   "countries": 11,
-  "ping_min_ms": 182,
-  "ping_median_ms": 535,
-  "ping_max_ms": 1477,
+  "ping_min_ms": 166,
+  "ping_median_ms": 581,
+  "ping_max_ms": 1463,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "none": 7,
-    "tls": 13,
-    "reality": 81
+    "reality": 48,
+    "none": 3,
+    "tls": 9
   },
   "top_fastest": [
     {
+      "cc": "EE",
+      "host": "31.129.42.239",
+      "port": 443,
+      "ping_ms": 166,
+      "name": "🇪🇪 Estonia — #130"
+    },
+    {
+      "cc": "GB",
+      "host": "77.232.41.149",
+      "port": 443,
+      "ping_ms": 192,
+      "name": "🇬🇧 United Kingdom — #149"
+    },
+    {
       "cc": "RU",
-      "host": "109.73.192.29",
+      "host": "188.225.47.234",
       "port": 4100,
-      "ping_ms": 182,
-      "name": "🇷🇺 Timeweb — #56"
+      "ping_ms": 220,
+      "name": "🇷🇺 Timeweb — #38"
     },
     {
-      "cc": "RU",
-      "host": "66.90.90.13",
-      "port": 8443,
-      "ping_ms": 195,
-      "name": "🇷🇺 FDCservers.net — #10"
+      "cc": "SE",
+      "host": "176.109.108.83",
+      "port": 9830,
+      "ping_ms": 277,
+      "name": "🇸🇪 Sweden — #256"
     },
     {
-      "cc": "EE",
-      "host": "165.231.157.114",
+      "cc": "IT",
+      "host": "104.171.128.225",
       "port": 443,
-      "ping_ms": 227,
-      "name": "🇪🇪 Estonia — #193"
-    },
-    {
-      "cc": "EE",
-      "host": "165.231.157.117",
-      "port": 443,
-      "ping_ms": 234,
-      "name": "🇪🇪 Estonia — #198"
-    },
-    {
-      "cc": "EE",
-      "host": "165.231.157.117",
-      "port": 443,
-      "ping_ms": 242,
-      "name": "🇪🇪 Estonia — #192"
+      "ping_ms": 293,
+      "name": "🇮🇹 Italy — #179"
     }
   ],
-  "elapsed_seconds": 439.78,
-  "memory_peak_mb": 1.93
+  "elapsed_seconds": 366.99,
+  "memory_peak_mb": 1.59
 }
