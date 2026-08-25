@@ -11025,3 +11025,28 @@
 2026-08-25 14:37:09,079 INFO   RU 185.141.227.150:9001 — 322ms [🇷🇺 Timeweb — #32]
 2026-08-25 14:37:09,080 INFO   SE 46.243.142.184:4443 — 326ms [🇸🇪 Sweden — #182]
 2026-08-25 14:37:09,086 INFO Dashboard written to /out/index.html
+2026-08-25 14:37:09,096 INFO Removed stale country file from data repo: TR.txt
+2026-08-25 14:37:09,096 INFO Removed stale country file from data repo: EE.txt
+2026-08-25 14:37:09,096 INFO Removed stale country file from data repo: US.txt
+2026-08-25 14:37:09,096 INFO Removed stale country file from data repo: DE.txt
+2026-08-25 14:37:09,096 INFO Synced out/ → /data
+2026-08-25 14:37:11,298 INFO Data repo pushed to origin/main
+2026-08-25 14:37:11,298 INFO Done in 289.9 s | Peak RAM: 1.2 MB | Alive: 16/182 (8.8%)
+2026-08-25 15:37:11,465 INFO ============================================================
+2026-08-25 15:37:11,465 INFO VLESS Checker starting...
+2026-08-25 15:37:11,817 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 169 links
+2026-08-25 15:37:11,819 INFO Total unique links: 169
+2026-08-25 15:37:11,912 INFO Parsed correctly: 169
+2026-08-25 15:37:19,110 INFO Alive (ping 0-800ms): 134 out of 169
+2026-08-25 15:37:19,114 INFO Phase 2: proxy ping via xray (134 servers, 10 workers)
+2026-08-25 15:41:03,075 INFO Proxy ping: 13 alive, 121 dead/unreachable (timeout 10s)
+2026-08-25 15:41:03,091 INFO Lite (top-3 per country): 13 servers + 4 info cards
+2026-08-25 15:41:03,093 INFO Best (top-20 globally): 13 servers + 4 info cards
+2026-08-25 15:41:03,109 INFO Written: 7 countries, stats.json ready
+2026-08-25 15:41:03,110 INFO Top 5 fastest:
+2026-08-25 15:41:03,110 INFO   EE 31.129.42.239:443 — 177ms [🇪🇪 Estonia — #99]
+2026-08-25 15:41:03,111 INFO   EE 31.129.42.239:443 — 188ms [🇪🇪 Estonia — #98]
+2026-08-25 15:41:03,111 INFO   SE 212.41.9.137:9881 — 266ms [🇸🇪 Sweden — #162]
+2026-08-25 15:41:03,112 INFO   DE 193.233.90.178:443 — 438ms [🇩🇪 Germany — #88]
+2026-08-25 15:41:03,112 INFO   RU 185.141.227.153:9001 — 480ms [🇷🇺 Timeweb — #31]
+2026-08-25 15:41:03,117 INFO Dashboard written to /out/index.html
