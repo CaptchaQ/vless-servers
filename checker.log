@@ -11489,3 +11489,28 @@
 2026-08-26 12:04:31,479 INFO   DE 185.22.235.203:443 — 336ms [🇩🇪 Germany — #71]
 2026-08-26 12:04:31,480 INFO   RU 185.141.227.150:9001 — 342ms [🇷🇺 Timeweb — #44]
 2026-08-26 12:04:31,499 INFO Dashboard written to /out/index.html
+2026-08-26 12:04:32,167 INFO Removed stale country file from data repo: CH.txt
+2026-08-26 12:04:32,168 INFO Removed stale country file from data repo: SE.txt
+2026-08-26 12:04:32,169 INFO Removed stale country file from data repo: NL.txt
+2026-08-26 12:04:32,170 INFO Removed stale country file from data repo: PL.txt
+2026-08-26 12:04:32,171 INFO Synced out/ → /data
+2026-08-26 12:04:35,054 INFO Data repo pushed to origin/main
+2026-08-26 12:04:35,055 INFO Done in 235.1 s | Peak RAM: 1.1 MB | Alive: 13/149 (8.7%)
+2026-08-26 13:04:36,047 INFO ============================================================
+2026-08-26 13:04:36,074 INFO VLESS Checker starting...
+2026-08-26 13:04:36,476 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 190 links
+2026-08-26 13:04:36,477 INFO Total unique links: 190
+2026-08-26 13:04:36,592 INFO Parsed correctly: 190
+2026-08-26 13:04:43,393 INFO Alive (ping 0-800ms): 150 out of 190
+2026-08-26 13:04:43,395 INFO Phase 2: proxy ping via xray (150 servers, 10 workers)
+2026-08-26 13:10:07,016 INFO Proxy ping: 61 alive, 89 dead/unreachable (timeout 10s)
+2026-08-26 13:10:07,022 INFO Lite (top-3 per country): 28 servers + 4 info cards
+2026-08-26 13:10:07,023 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-26 13:10:07,043 INFO Written: 10 countries, stats.json ready
+2026-08-26 13:10:07,044 INFO Top 5 fastest:
+2026-08-26 13:10:07,044 INFO   SE 46.243.142.184:4443 — 142ms [🇸🇪 Sweden — #185]
+2026-08-26 13:10:07,044 INFO   RU 94.26.249.154:52006 — 214ms [🇷🇺 Selectel — #22]
+2026-08-26 13:10:07,045 INFO   FR 37.9.4.128:443 — 235ms [🇫🇷 France — #101]
+2026-08-26 13:10:07,045 INFO   FR 188.68.218.110:443 — 237ms [🇫🇷 France — #99]
+2026-08-26 13:10:07,045 INFO   EE 31.129.42.239:443 — 243ms [🇪🇪 Estonia — #95]
+2026-08-26 13:10:07,106 INFO Dashboard written to /out/index.html
