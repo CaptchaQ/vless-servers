@@ -11583,3 +11583,28 @@
 2026-08-26 16:27:05,599 INFO   SE 194.58.95.183:9872 — 246ms [🇸🇪 Sweden — #158]
 2026-08-26 16:27:05,600 INFO   SE 194.58.95.183:9872 — 264ms [🇸🇪 Sweden — #159]
 2026-08-26 16:27:05,604 INFO Dashboard written to /out/index.html
+2026-08-26 16:27:05,614 INFO Removed stale country file from data repo: RS.txt
+2026-08-26 16:27:05,614 INFO Removed stale country file from data repo: LT.txt
+2026-08-26 16:27:05,615 INFO Removed stale country file from data repo: FI.txt
+2026-08-26 16:27:05,615 INFO Synced out/ → /data
+2026-08-26 16:27:07,806 INFO Data repo pushed to origin/main
+2026-08-26 16:27:07,806 INFO Done in 306.5 s | Peak RAM: 1.2 MB | Alive: 17/170 (10.0%)
+2026-08-26 17:27:07,996 INFO ============================================================
+2026-08-26 17:27:07,997 INFO VLESS Checker starting...
+2026-08-26 17:27:08,395 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 159 links
+2026-08-26 17:27:08,397 INFO Total unique links: 159
+2026-08-26 17:27:08,493 INFO Parsed correctly: 159
+2026-08-26 17:27:13,763 INFO Alive (ping 0-800ms): 140 out of 159
+2026-08-26 17:27:13,768 INFO Phase 2: proxy ping via xray (140 servers, 10 workers)
+2026-08-26 17:27:47,273 WARNING Skipping proxy ping for 5.42.109.42:8443 — unsupported network type 'websocket'
+2026-08-26 17:30:42,490 INFO Proxy ping: 9 alive, 131 dead/unreachable (timeout 10s)
+2026-08-26 17:30:42,496 INFO Lite (top-3 per country): 9 servers + 4 info cards
+2026-08-26 17:30:42,497 INFO Best (top-20 globally): 9 servers + 4 info cards
+2026-08-26 17:30:42,504 INFO Written: 6 countries, stats.json ready
+2026-08-26 17:30:42,504 INFO Top 5 fastest:
+2026-08-26 17:30:42,504 INFO   RU 5.42.109.42:8443 — 36ms [🇷🇺 Timeweb — #25]
+2026-08-26 17:30:42,504 INFO   US 212.92.101.72:9895 — 439ms [🇺🇸 United States — #158]
+2026-08-26 17:30:42,505 INFO   BG 185.141.227.150:9002 — 459ms [🇧🇬 Bulgaria — #36]
+2026-08-26 17:30:42,505 INFO   RU 5.42.121.52:2200 — 507ms [🇷🇺 Timeweb — #23]
+2026-08-26 17:30:42,505 INFO   GB 185.22.235.63:443 — 576ms [🇬🇧 United Kingdom — #104]
+2026-08-26 17:30:42,548 INFO Dashboard written to /out/index.html
