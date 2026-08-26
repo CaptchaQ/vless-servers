@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-26T02:22:09.974517+00:00",
-  "total_checked": 151,
-  "total_working": 85,
-  "total_dead": 66,
-  "survival_rate_pct": 56.3,
-  "countries": 9,
-  "ping_min_ms": 114,
-  "ping_median_ms": 255,
-  "ping_max_ms": 1324,
+  "updated_utc": "2026-08-26T03:26:52.720991+00:00",
+  "total_checked": 239,
+  "total_working": 114,
+  "total_dead": 125,
+  "survival_rate_pct": 47.7,
+  "countries": 13,
+  "ping_min_ms": 127,
+  "ping_median_ms": 270,
+  "ping_max_ms": 1156,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 26,
-    "none": 5,
-    "tls": 54
+    "reality": 43,
+    "tls": 61,
+    "none": 10
   },
   "top_fastest": [
     {
-      "cc": "RU",
-      "host": "5.42.122.16",
+      "cc": "EE",
+      "host": "31.129.42.239",
       "port": 443,
-      "ping_ms": 114,
-      "name": "🇷🇺 Timeweb — #38"
+      "ping_ms": 127,
+      "name": "🇪🇪 Estonia — #111"
+    },
+    {
+      "cc": "SE",
+      "host": "46.243.142.184",
+      "port": 4443,
+      "ping_ms": 135,
+      "name": "🇸🇪 Sweden — #238"
     },
     {
       "cc": "EE",
       "host": "31.129.42.239",
       "port": 443,
-      "ping_ms": 134,
-      "name": "🇪🇪 Estonia — #71"
+      "ping_ms": 150,
+      "name": "🇪🇪 Estonia — #110"
     },
     {
-      "cc": "RU",
-      "host": "178.154.214.214",
+      "cc": "FR",
+      "host": "188.68.218.110",
       "port": 443,
-      "ping_ms": 187,
-      "name": "🇷🇺 ProCloud — #12"
+      "ping_ms": 155,
+      "name": "🇫🇷 France — #150"
     },
     {
       "cc": "RU",
-      "host": "31.177.83.201",
+      "host": "87.228.122.108",
       "port": 4100,
-      "ping_ms": 192,
-      "name": "🇷🇺 SpaceWeb — #15"
-    },
-    {
-      "cc": "EE",
-      "host": "31.129.42.239",
-      "port": 443,
-      "ping_ms": 197,
-      "name": "🇪🇪 Estonia — #70"
+      "ping_ms": 175,
+      "name": "🇷🇺 Selectel — #15"
     }
   ],
-  "elapsed_seconds": 186.28,
-  "memory_peak_mb": 1.2
+  "elapsed_seconds": 280.41,
+  "memory_peak_mb": 1.54
 }
