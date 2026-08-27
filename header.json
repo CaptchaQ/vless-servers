@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-27T05:19:38.034626+00:00",
-  "total_checked": 183,
-  "total_working": 50,
-  "total_dead": 133,
-  "survival_rate_pct": 27.3,
-  "countries": 9,
-  "ping_min_ms": 131,
-  "ping_median_ms": 320,
-  "ping_max_ms": 761,
+  "updated_utc": "2026-08-27T06:24:08.318058+00:00",
+  "total_checked": 184,
+  "total_working": 45,
+  "total_dead": 139,
+  "survival_rate_pct": 24.5,
+  "countries": 10,
+  "ping_min_ms": 160,
+  "ping_median_ms": 369,
+  "ping_max_ms": 1425,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 36,
-    "none": 8,
-    "tls": 6
+    "reality": 30,
+    "tls": 10,
+    "none": 5
   },
   "top_fastest": [
-    {
-      "cc": "EE",
-      "host": "31.129.42.239",
-      "port": 443,
-      "ping_ms": 131,
-      "name": "🇪🇪 Estonia — #87"
-    },
-    {
-      "cc": "EE",
-      "host": "31.129.42.239",
-      "port": 443,
-      "ping_ms": 134,
-      "name": "🇪🇪 Estonia — #86"
-    },
     {
       "cc": "SE",
       "host": "46.243.142.184",
       "port": 4443,
-      "ping_ms": 143,
+      "ping_ms": 160,
       "name": "🇸🇪 Sweden — #182"
-    },
-    {
-      "cc": "RU",
-      "host": "5.42.103.91",
-      "port": 2200,
-      "ping_ms": 157,
-      "name": "🇷🇺 Timeweb — #40"
     },
     {
       "cc": "RU",
       "host": "94.26.249.154",
       "port": 52006,
-      "ping_ms": 181,
+      "ping_ms": 229,
       "name": "🇷🇺 Selectel — #19"
+    },
+    {
+      "cc": "NL",
+      "host": "188.72.103.4",
+      "port": 443,
+      "ping_ms": 230,
+      "name": "🇳🇱 The Netherlands — #164"
+    },
+    {
+      "cc": "PL",
+      "host": "46.243.142.89",
+      "port": 9443,
+      "ping_ms": 232,
+      "name": "🇵🇱 Poland — #176"
+    },
+    {
+      "cc": "RU",
+      "host": "194.26.229.174",
+      "port": 4100,
+      "ping_ms": 241,
+      "name": "🇷🇺 Xorek.Cloud — #47"
     }
   ],
-  "elapsed_seconds": 224.09,
-  "memory_peak_mb": 1.27
+  "elapsed_seconds": 267.78,
+  "memory_peak_mb": 1.25
 }
