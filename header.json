@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-27T01:00:09.283139+00:00",
-  "total_checked": 207,
-  "total_working": 38,
-  "total_dead": 169,
-  "survival_rate_pct": 18.4,
+  "updated_utc": "2026-08-27T02:04:26.910232+00:00",
+  "total_checked": 246,
+  "total_working": 59,
+  "total_dead": 187,
+  "survival_rate_pct": 24.0,
   "countries": 9,
-  "ping_min_ms": 132,
-  "ping_median_ms": 288,
-  "ping_max_ms": 1479,
+  "ping_min_ms": 38,
+  "ping_median_ms": 342,
+  "ping_max_ms": 800,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 25,
-    "none": 11,
-    "tls": 2
+    "tls": 4,
+    "none": 17,
+    "reality": 38
   },
   "top_fastest": [
     {
-      "cc": "EE",
-      "host": "31.129.42.239",
-      "port": 443,
-      "ping_ms": 132,
-      "name": "🇪🇪 Estonia — #98"
-    },
-    {
-      "cc": "EE",
-      "host": "31.129.42.239",
-      "port": 443,
-      "ping_ms": 149,
-      "name": "🇪🇪 Estonia — #97"
+      "cc": "RU",
+      "host": "5.42.109.42",
+      "port": 8443,
+      "ping_ms": 38,
+      "name": "🇷🇺 Timeweb — #29"
     },
     {
       "cc": "RU",
-      "host": "91.222.237.55",
-      "port": 2200,
-      "ping_ms": 163,
-      "name": "🇷🇺 Timeweb — #41"
-    },
-    {
-      "cc": "RU",
-      "host": "94.26.249.154",
-      "port": 52006,
-      "ping_ms": 174,
-      "name": "🇷🇺 Selectel — #18"
-    },
-    {
-      "cc": "RU",
-      "host": "141.8.199.212",
+      "host": "31.177.83.201",
       "port": 4100,
-      "ping_ms": 188,
-      "name": "🇷🇺 Sprinthost — #21"
+      "ping_ms": 169,
+      "name": "🇷🇺 SpaceWeb — #24"
+    },
+    {
+      "cc": "RU",
+      "host": "5.42.121.52",
+      "port": 4100,
+      "ping_ms": 177,
+      "name": "🇷🇺 Timeweb — #34"
+    },
+    {
+      "cc": "RU",
+      "host": "168.222.203.14",
+      "port": 4100,
+      "ping_ms": 178,
+      "name": "🇷🇺 SpaceWeb — #22"
+    },
+    {
+      "cc": "RU",
+      "host": "185.185.69.26",
+      "port": 2200,
+      "ping_ms": 181,
+      "name": "🇷🇺 Sprinthost — #27"
     }
   ],
-  "elapsed_seconds": 214.02,
-  "memory_peak_mb": 1.41
+  "elapsed_seconds": 255.22,
+  "memory_peak_mb": 1.54
 }
