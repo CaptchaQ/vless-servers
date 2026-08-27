@@ -11905,3 +11905,30 @@
 2026-08-27 07:29:02,125 INFO   FR 188.68.218.110:443 — 255ms [🇫🇷 France — #108]
 2026-08-27 07:29:02,125 INFO   RU 185.141.227.150:9001 — 293ms [🇷🇺 Timeweb — #37]
 2026-08-27 07:29:02,175 INFO Dashboard written to /out/index.html
+2026-08-27 07:29:02,191 INFO Removed stale country file from data repo: SE.txt
+2026-08-27 07:29:02,191 INFO Removed stale country file from data repo: BG.txt
+2026-08-27 07:29:02,192 INFO Removed stale country file from data repo: LT.txt
+2026-08-27 07:29:02,192 INFO Removed stale country file from data repo: FI.txt
+2026-08-27 07:29:02,192 INFO Removed stale country file from data repo: PL.txt
+2026-08-27 07:29:02,193 INFO Synced out/ → /data
+2026-08-27 07:29:04,302 INFO Data repo pushed to origin/main
+2026-08-27 07:29:04,303 INFO Done in 291.5 s | Peak RAM: 1.2 MB | Alive: 26/184 (14.1%)
+2026-08-27 08:29:04,468 INFO ============================================================
+2026-08-27 08:29:04,468 INFO VLESS Checker starting...
+2026-08-27 08:29:04,816 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 154 links
+2026-08-27 08:29:04,818 INFO Total unique links: 154
+2026-08-27 08:29:04,904 INFO Parsed correctly: 154
+2026-08-27 08:29:10,411 INFO Alive (ping 0-800ms): 130 out of 154
+2026-08-27 08:29:10,414 INFO Phase 2: proxy ping via xray (130 servers, 10 workers)
+2026-08-27 08:31:52,267 WARNING Skipping proxy ping for 5.42.109.42:8443 — unsupported network type 'websocket'
+2026-08-27 08:33:44,381 INFO Proxy ping: 23 alive, 107 dead/unreachable (timeout 10s)
+2026-08-27 08:33:44,398 INFO Lite (top-3 per country): 14 servers + 4 info cards
+2026-08-27 08:33:44,400 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-27 08:33:44,421 INFO Written: 8 countries, stats.json ready
+2026-08-27 08:33:44,422 INFO Top 5 fastest:
+2026-08-27 08:33:44,422 INFO   RU 5.42.109.42:8443 — 54ms [🇷🇺 Timeweb — #19]
+2026-08-27 08:33:44,423 INFO   RU 185.141.227.150:9001 — 319ms [🇷🇺 Timeweb — #37]
+2026-08-27 08:33:44,423 INFO   DE 185.22.234.100:443 — 331ms [🇩🇪 Germany — #56]
+2026-08-27 08:33:44,424 INFO   RU 193.233.217.140:2200 — 352ms [🇷🇺 Aeza Group — #2]
+2026-08-27 08:33:44,424 INFO   FI 188.72.110.3:443 — 360ms [🇫🇮 Finland — #84]
+2026-08-27 08:33:44,430 INFO Dashboard written to /out/index.html
