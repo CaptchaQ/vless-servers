@@ -291,3 +291,21 @@
 2026-08-30 03:54:52,525 INFO Written: 0 countries, stats.json ready
 2026-08-30 03:54:52,525 INFO Top 5 fastest:
 2026-08-30 03:54:52,557 INFO Dashboard written to /out/index.html
+2026-08-30 03:54:52,573 INFO Synced out/ → /data
+2026-08-30 03:54:55,584 INFO Data repo pushed to origin/main
+2026-08-30 03:54:55,585 INFO Done in 244.8 s | Peak RAM: 0.3 MB | Alive: 0/0 (0.0%)
+2026-08-30 04:54:55,726 INFO ============================================================
+2026-08-30 04:54:55,727 INFO VLESS Checker starting...
+2026-08-30 04:56:15,831 WARNING http_get https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt failed (attempt 1/3): <urlopen error [Errno 101] Network unreachable>
+2026-08-30 04:57:37,422 WARNING http_get https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt failed (attempt 2/3): <urlopen error [Errno 101] Network unreachable>
+2026-08-30 04:59:00,490 ERROR Failed to fetch https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: <urlopen error [Errno 101] Network unreachable>
+2026-08-30 04:59:00,491 INFO Total unique links: 0
+2026-08-30 04:59:00,492 INFO Parsed correctly: 0
+2026-08-30 04:59:00,494 INFO Alive (ping 0-800ms): 0 out of 0
+2026-08-30 04:59:00,496 INFO Phase 2: proxy ping via xray (0 servers, 10 workers)
+2026-08-30 04:59:00,498 INFO Proxy ping: 0 alive, 0 dead/unreachable (timeout 10s)
+2026-08-30 04:59:00,505 INFO Lite (top-3 per country): 0 servers + 4 info cards
+2026-08-30 04:59:00,506 INFO Best (top-20 globally): 0 servers + 4 info cards
+2026-08-30 04:59:00,512 INFO Written: 0 countries, stats.json ready
+2026-08-30 04:59:00,513 INFO Top 5 fastest:
+2026-08-30 04:59:00,526 INFO Dashboard written to /out/index.html
