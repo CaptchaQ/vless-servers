@@ -938,3 +938,28 @@
 2026-08-31 15:18:01,558 INFO   FR 31.129.42.37:443 — 267ms [🇫🇷 France — #123]
 2026-08-31 15:18:01,559 INFO   FR 217.19.122.206:9443 — 269ms [🇫🇷 France — #117]
 2026-08-31 15:18:01,563 INFO Dashboard written to /out/index.html
+2026-08-31 15:18:01,575 INFO Removed stale country file from data repo: SC.txt
+2026-08-31 15:18:01,576 INFO Removed stale country file from data repo: FI.txt
+2026-08-31 15:18:01,576 INFO Removed stale country file from data repo: SG.txt
+2026-08-31 15:18:01,576 INFO Synced out/ → /data
+2026-08-31 15:18:03,863 INFO Data repo pushed to origin/main
+2026-08-31 15:18:03,863 INFO Done in 339.2 s | Peak RAM: 1.4 MB | Alive: 51/221 (23.1%)
+2026-08-31 16:18:04,026 INFO ============================================================
+2026-08-31 16:18:04,026 INFO VLESS Checker starting...
+2026-08-31 16:18:04,440 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 203 links
+2026-08-31 16:18:04,442 INFO Total unique links: 203
+2026-08-31 16:18:04,544 INFO Parsed correctly: 203
+2026-08-31 16:18:10,104 INFO Alive (ping 0-800ms): 180 out of 203
+2026-08-31 16:18:10,108 INFO Phase 2: proxy ping via xray (180 servers, 10 workers)
+2026-08-31 16:21:05,043 WARNING Skipping proxy ping for 5.42.109.42:8443 — unsupported network type 'websocket'
+2026-08-31 16:24:19,116 INFO Proxy ping: 41 alive, 139 dead/unreachable (timeout 10s)
+2026-08-31 16:24:19,135 INFO Lite (top-3 per country): 20 servers + 4 info cards
+2026-08-31 16:24:19,136 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-31 16:24:19,159 INFO Written: 9 countries, stats.json ready
+2026-08-31 16:24:19,159 INFO Top 5 fastest:
+2026-08-31 16:24:19,160 INFO   RU 5.42.109.42:8443 — 42ms [🇷🇺 Timeweb — #13]
+2026-08-31 16:24:19,160 INFO   RU 5.188.26.176:7443 — 250ms [🇷🇺 VPS network — #32]
+2026-08-31 16:24:19,161 INFO   RU 185.141.227.150:9001 — 312ms [🇷🇺 Timeweb — #20]
+2026-08-31 16:24:19,161 INFO   DE 185.229.9.236:49005 — 329ms [🇩🇪 Germany — #69]
+2026-08-31 16:24:19,161 INFO   PL 46.243.142.42:8443 — 330ms [🇵🇱 Poland — #192]
+2026-08-31 16:24:19,165 INFO Dashboard written to /out/index.html
