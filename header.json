@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-31T22:50:19.485499+00:00",
-  "total_checked": 182,
-  "total_working": 40,
-  "total_dead": 142,
-  "survival_rate_pct": 22.0,
-  "countries": 9,
-  "ping_min_ms": 189,
-  "ping_median_ms": 363,
-  "ping_max_ms": 1461,
+  "updated_utc": "2026-08-31T23:53:44.910701+00:00",
+  "total_checked": 176,
+  "total_working": 59,
+  "total_dead": 117,
+  "survival_rate_pct": 33.5,
+  "countries": 8,
+  "ping_min_ms": 170,
+  "ping_median_ms": 356,
+  "ping_max_ms": 1341,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "none": 3,
-    "reality": 35,
+    "reality": 45,
+    "none": 12,
     "tls": 2
   },
   "top_fastest": [
     {
+      "cc": "DE",
+      "host": "51.250.90.49",
+      "port": 443,
+      "ping_ms": 170,
+      "name": "🇩🇪 Germany — #83"
+    },
+    {
       "cc": "RU",
-      "host": "91.222.237.55",
+      "host": "5.42.121.52",
       "port": 2200,
-      "ping_ms": 189,
-      "name": "🇷🇺 Timeweb — #31"
+      "ping_ms": 179,
+      "name": "🇷🇺 Timeweb — #22"
     },
     {
-      "cc": "GB",
-      "host": "84.201.128.39",
-      "port": 443,
-      "ping_ms": 200,
-      "name": "🇬🇧 United Kingdom — #133"
+      "cc": "RU",
+      "host": "5.42.121.52",
+      "port": 4100,
+      "ping_ms": 182,
+      "name": "🇷🇺 Timeweb — #23"
     },
     {
-      "cc": "FR",
-      "host": "37.9.4.128",
-      "port": 443,
-      "ping_ms": 221,
-      "name": "🇫🇷 France — #103"
+      "cc": "RU",
+      "host": "87.228.122.108",
+      "port": 4100,
+      "ping_ms": 210,
+      "name": "🇷🇺 Selectel — #7"
     },
     {
-      "cc": "NL",
-      "host": "217.19.122.38",
-      "port": 4644,
-      "ping_ms": 245,
-      "name": "🇳🇱 The Netherlands — #148"
-    },
-    {
-      "cc": "GB",
-      "host": "185.22.235.63",
-      "port": 443,
-      "ping_ms": 259,
-      "name": "🇬🇧 United Kingdom — #124"
+      "cc": "RU",
+      "host": "194.26.229.110",
+      "port": 4100,
+      "ping_ms": 215,
+      "name": "🇷🇺 Xorek.Cloud — #37"
     }
   ],
-  "elapsed_seconds": 213.82,
-  "memory_peak_mb": 1.18
+  "elapsed_seconds": 203.08,
+  "memory_peak_mb": 1.2
 }
