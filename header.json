@@ -1,57 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-08-31T18:34:36.489879+00:00",
-  "total_checked": 205,
-  "total_working": 19,
-  "total_dead": 186,
-  "survival_rate_pct": 9.3,
-  "countries": 3,
-  "ping_min_ms": 260,
-  "ping_median_ms": 552,
-  "ping_max_ms": 1208,
+  "updated_utc": "2026-08-31T19:38:48.485473+00:00",
+  "total_checked": 192,
+  "total_working": 17,
+  "total_dead": 175,
+  "survival_rate_pct": 8.9,
+  "countries": 6,
+  "ping_min_ms": 266,
+  "ping_median_ms": 834,
+  "ping_max_ms": 1500,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 17,
-    "tls": 2
+    "reality": 15,
+    "none": 1,
+    "tls": 1
   },
   "top_fastest": [
     {
-      "cc": "RU",
-      "host": "5.188.26.176",
-      "port": 7443,
-      "ping_ms": 260,
-      "name": "🇷🇺 VPS network — #35"
-    },
-    {
       "cc": "DE",
-      "host": "194.55.239.164",
+      "host": "51.250.90.49",
       "port": 443,
-      "ping_ms": 346,
-      "name": "🇩🇪 Germany — #42"
+      "ping_ms": 266,
+      "name": "🇩🇪 Germany — #86"
     },
     {
       "cc": "RU",
       "host": "185.141.227.150",
       "port": 9001,
-      "ping_ms": 366,
-      "name": "🇷🇺 Timeweb — #32"
+      "ping_ms": 326,
+      "name": "🇷🇺 Timeweb — #17"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.150",
+      "port": 9001,
+      "ping_ms": 378,
+      "name": "🇷🇺 Timeweb — #19"
     },
     {
       "cc": "RU",
       "host": "185.141.227.150",
       "port": 9001,
       "ping_ms": 419,
-      "name": "🇷🇺 Timeweb — #31"
+      "name": "🇷🇺 Timeweb — #29"
     },
     {
       "cc": "RU",
-      "host": "185.141.227.150",
+      "host": "185.141.227.153",
       "port": 9001,
-      "ping_ms": 440,
-      "name": "🇷🇺 Timeweb — #28"
+      "ping_ms": 490,
+      "name": "🇷🇺 Timeweb — #13"
     }
   ],
-  "elapsed_seconds": 317.7,
-  "memory_peak_mb": 1.39
+  "elapsed_seconds": 249.71,
+  "memory_peak_mb": 1.25
 }
