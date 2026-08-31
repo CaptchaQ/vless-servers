@@ -1076,3 +1076,27 @@
 2026-08-31 21:46:43,460 INFO   RU 5.188.26.176:7443 — 272ms [🇷🇺 VPS network — #33]
 2026-08-31 21:46:43,460 INFO   DE 194.55.239.164:443 — 276ms [🇩🇪 Germany — #42]
 2026-08-31 21:46:43,464 INFO Dashboard written to /out/index.html
+2026-08-31 21:46:43,475 INFO Removed stale country file from data repo: SE.txt
+2026-08-31 21:46:43,475 INFO Removed stale country file from data repo: EE.txt
+2026-08-31 21:46:43,476 INFO Removed stale country file from data repo: FI.txt
+2026-08-31 21:46:43,476 INFO Synced out/ → /data
+2026-08-31 21:46:45,486 INFO Data repo pushed to origin/main
+2026-08-31 21:46:45,486 INFO Done in 197.6 s | Peak RAM: 1.1 MB | Alive: 33/180 (18.3%)
+2026-08-31 22:46:45,665 INFO ============================================================
+2026-08-31 22:46:45,665 INFO VLESS Checker starting...
+2026-08-31 22:46:46,009 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 182 links
+2026-08-31 22:46:46,011 INFO Total unique links: 182
+2026-08-31 22:46:46,103 INFO Parsed correctly: 182
+2026-08-31 22:46:51,486 INFO Alive (ping 0-800ms): 165 out of 182
+2026-08-31 22:46:51,490 INFO Phase 2: proxy ping via xray (165 servers, 10 workers)
+2026-08-31 22:50:19,455 INFO Proxy ping: 40 alive, 125 dead/unreachable (timeout 10s)
+2026-08-31 22:50:19,499 INFO Lite (top-3 per country): 17 servers + 4 info cards
+2026-08-31 22:50:19,500 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-08-31 22:50:19,528 INFO Written: 9 countries, stats.json ready
+2026-08-31 22:50:19,528 INFO Top 5 fastest:
+2026-08-31 22:50:19,529 INFO   RU 91.222.237.55:2200 — 189ms [🇷🇺 Timeweb — #31]
+2026-08-31 22:50:19,529 INFO   GB 84.201.128.39:443 — 200ms [🇬🇧 United Kingdom — #133]
+2026-08-31 22:50:19,530 INFO   FR 37.9.4.128:443 — 221ms [🇫🇷 France — #103]
+2026-08-31 22:50:19,530 INFO   NL 217.19.122.38:4644 — 245ms [🇳🇱 The Netherlands — #148]
+2026-08-31 22:50:19,531 INFO   GB 185.22.235.63:443 — 259ms [🇬🇧 United Kingdom — #124]
+2026-08-31 22:50:19,535 INFO Dashboard written to /out/index.html
