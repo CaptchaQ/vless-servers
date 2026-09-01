@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-01T16:01:15.110864+00:00",
-  "total_checked": 182,
-  "total_working": 28,
-  "total_dead": 154,
-  "survival_rate_pct": 15.4,
-  "countries": 6,
-  "ping_min_ms": 52,
-  "ping_median_ms": 532,
-  "ping_max_ms": 1355,
+  "updated_utc": "2026-09-01T17:06:58.032147+00:00",
+  "total_checked": 175,
+  "total_working": 43,
+  "total_dead": 132,
+  "survival_rate_pct": 24.6,
+  "countries": 8,
+  "ping_min_ms": 39,
+  "ping_median_ms": 456,
+  "ping_max_ms": 1492,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 2,
-    "none": 3,
-    "reality": 23
+    "tls": 5,
+    "reality": 34,
+    "none": 4
   },
   "top_fastest": [
     {
       "cc": "RU",
       "host": "5.42.109.42",
       "port": 8443,
-      "ping_ms": 52,
-      "name": "🇷🇺 Timeweb — #28"
+      "ping_ms": 39,
+      "name": "🇷🇺 Timeweb — #31"
     },
     {
       "cc": "RU",
-      "host": "77.222.47.204",
-      "port": 4100,
-      "ping_ms": 226,
-      "name": "🇷🇺 SpaceWeb — #18"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.150",
-      "port": 9001,
-      "ping_ms": 288,
-      "name": "🇷🇺 .masterhost — #8"
+      "host": "89.248.193.115",
+      "port": 52006,
+      "ping_ms": 227,
+      "name": "🇷🇺 Selectel — #16"
     },
     {
       "cc": "RU",
       "host": "185.141.227.150",
       "port": 9001,
-      "ping_ms": 299,
-      "name": "🇷🇺 Timeweb — #36"
+      "ping_ms": 260,
+      "name": "🇷🇺 .masterhost — #7"
+    },
+    {
+      "cc": "SE",
+      "host": "46.243.142.184",
+      "port": 4443,
+      "ping_ms": 266,
+      "name": "🇸🇪 Sweden — #175"
     },
     {
       "cc": "RU",
       "host": "185.141.227.150",
       "port": 9001,
-      "ping_ms": 331,
-      "name": "🇷🇺 Timeweb — #27"
+      "ping_ms": 270,
+      "name": "🇷🇺 .masterhost — #4"
     }
   ],
-  "elapsed_seconds": 252.15,
-  "memory_peak_mb": 1.24
+  "elapsed_seconds": 340.57,
+  "memory_peak_mb": 1.23
 }
