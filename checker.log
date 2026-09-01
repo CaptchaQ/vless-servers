@@ -1430,3 +1430,27 @@
 2026-09-01 13:52:59,248 INFO   RU 185.141.227.150:9001 — 397ms [🇷🇺 .masterhost — #6]
 2026-09-01 13:52:59,249 INFO   EE 178.248.236.209:10443 — 401ms [🇪🇪 Estonia — #99]
 2026-09-01 13:52:59,255 INFO Dashboard written to /out/index.html
+2026-09-01 13:52:59,265 INFO Removed stale country file from data repo: SE.txt
+2026-09-01 13:52:59,266 INFO Removed stale country file from data repo: FR.txt
+2026-09-01 13:52:59,266 INFO Synced out/ → /data
+2026-09-01 13:53:01,431 INFO Data repo pushed to origin/main
+2026-09-01 13:53:01,431 INFO Done in 252.3 s | Peak RAM: 1.4 MB | Alive: 17/180 (9.4%)
+2026-09-01 14:53:01,541 INFO ============================================================
+2026-09-01 14:53:01,541 INFO VLESS Checker starting...
+2026-09-01 14:53:01,905 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 160 links
+2026-09-01 14:53:01,907 INFO Total unique links: 160
+2026-09-01 14:53:01,991 INFO Parsed correctly: 160
+2026-09-01 14:53:07,439 INFO Alive (ping 0-800ms): 136 out of 160
+2026-09-01 14:53:07,443 INFO Phase 2: proxy ping via xray (136 servers, 10 workers)
+2026-09-01 14:55:08,328 WARNING Skipping proxy ping for 5.42.109.42:8443 — unsupported network type 'websocket'
+2026-09-01 14:57:00,492 INFO Proxy ping: 25 alive, 111 dead/unreachable (timeout 10s)
+2026-09-01 14:57:00,500 INFO Lite (top-3 per country): 12 servers + 4 info cards
+2026-09-01 14:57:00,501 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-01 14:57:00,520 INFO Written: 7 countries, stats.json ready
+2026-09-01 14:57:00,521 INFO Top 5 fastest:
+2026-09-01 14:57:00,521 INFO   RU 5.42.109.42:8443 — 49ms [🇷🇺 Timeweb — #24]
+2026-09-01 14:57:00,522 INFO   RU 185.141.227.150:9001 — 346ms [🇷🇺 .masterhost — #9]
+2026-09-01 14:57:00,523 INFO   RU 185.141.227.150:9001 — 357ms [🇷🇺 .masterhost — #8]
+2026-09-01 14:57:00,523 INFO   RU 185.141.227.150:9001 — 373ms [🇷🇺 .masterhost — #10]
+2026-09-01 14:57:00,524 INFO   DE 176.108.245.3:443 — 387ms [🇩🇪 Germany — #54]
+2026-09-01 14:57:00,529 INFO Dashboard written to /out/index.html
