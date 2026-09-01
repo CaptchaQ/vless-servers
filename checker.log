@@ -1285,3 +1285,27 @@
 2026-09-01 07:28:13,024 INFO   DE 185.229.9.236:49005 — 314ms [🇩🇪 Germany — #79]
 2026-09-01 07:28:13,024 INFO   RU 185.141.227.150:9001 — 323ms [🇷🇺 Timeweb — #29]
 2026-09-01 07:28:13,028 INFO Dashboard written to /out/index.html
+2026-09-01 07:28:13,039 INFO Removed stale country file from data repo: AT.txt
+2026-09-01 07:28:13,039 INFO Removed stale country file from data repo: US.txt
+2026-09-01 07:28:13,040 INFO Removed stale country file from data repo: PL.txt
+2026-09-01 07:28:13,040 INFO Synced out/ → /data
+2026-09-01 07:28:15,160 INFO Data repo pushed to origin/main
+2026-09-01 07:28:15,160 INFO Done in 279.3 s | Peak RAM: 1.3 MB | Alive: 38/201 (18.9%)
+2026-09-01 08:28:15,330 INFO ============================================================
+2026-09-01 08:28:15,330 INFO VLESS Checker starting...
+2026-09-01 08:28:15,932 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 199 links
+2026-09-01 08:28:15,933 INFO Total unique links: 199
+2026-09-01 08:28:16,021 INFO Parsed correctly: 199
+2026-09-01 08:28:21,987 INFO Alive (ping 0-800ms): 170 out of 199
+2026-09-01 08:28:21,991 INFO Phase 2: proxy ping via xray (170 servers, 10 workers)
+2026-09-01 08:33:58,238 INFO Proxy ping: 39 alive, 131 dead/unreachable (timeout 10s)
+2026-09-01 08:33:58,257 INFO Lite (top-3 per country): 18 servers + 4 info cards
+2026-09-01 08:33:58,258 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-01 08:33:58,283 INFO Written: 8 countries, stats.json ready
+2026-09-01 08:33:58,283 INFO Top 5 fastest:
+2026-09-01 08:33:58,284 INFO   DE 185.229.9.236:49005 — 272ms [🇩🇪 Germany — #74]
+2026-09-01 08:33:58,284 INFO   RU 185.141.227.150:9001 — 304ms [🇷🇺 Timeweb — #21]
+2026-09-01 08:33:58,285 INFO   DE 176.108.245.3:443 — 333ms [🇩🇪 Germany — #63]
+2026-09-01 08:33:58,285 INFO   RU 185.141.227.150:9001 — 333ms [🇷🇺 Timeweb — #28]
+2026-09-01 08:33:58,285 INFO   RU 185.141.227.150:9001 — 348ms [🇷🇺 Timeweb — #27]
+2026-09-01 08:33:58,290 INFO Dashboard written to /out/index.html
