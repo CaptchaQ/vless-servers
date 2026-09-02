@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-02T12:24:54.657540+00:00",
-  "total_checked": 139,
-  "total_working": 16,
-  "total_dead": 123,
-  "survival_rate_pct": 11.5,
-  "countries": 4,
-  "ping_min_ms": 274,
-  "ping_median_ms": 419,
-  "ping_max_ms": 4102,
+  "updated_utc": "2026-09-02T13:28:19.063918+00:00",
+  "total_checked": 146,
+  "total_working": 22,
+  "total_dead": 124,
+  "survival_rate_pct": 15.1,
+  "countries": 7,
+  "ping_min_ms": 348,
+  "ping_median_ms": 675,
+  "ping_max_ms": 1486,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 14,
-    "none": 1,
-    "tls": 1
+    "reality": 18,
+    "tls": 3,
+    "none": 1
   },
   "top_fastest": [
     {
       "cc": "RU",
-      "host": "195.19.164.83",
+      "host": "185.141.227.150",
+      "port": 9001,
+      "ping_ms": 348,
+      "name": "🇷🇺 .masterhost — #4"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.150",
+      "port": 9001,
+      "ping_ms": 352,
+      "name": "🇷🇺 .masterhost — #11"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.150",
+      "port": 9001,
+      "ping_ms": 364,
+      "name": "🇷🇺 .masterhost — #10"
+    },
+    {
+      "cc": "DE",
+      "host": "176.108.245.3",
       "port": 443,
-      "ping_ms": 274,
-      "name": "🇷🇺 Telecom-Birzha, LLC — #19"
-    },
-    {
-      "cc": "RU",
-      "host": "178.248.236.77",
-      "port": 58443,
-      "ping_ms": 285,
-      "name": "🇷🇺 cloud.ru — #15"
-    },
-    {
-      "cc": "RU",
-      "host": "200.165.234.45",
-      "port": 4100,
-      "ping_ms": 307,
-      "name": "🇷🇺 Timeweb — #33"
+      "ping_ms": 440,
+      "name": "🇩🇪 Germany — #45"
     },
     {
       "cc": "RU",
       "host": "185.141.227.150",
       "port": 9001,
-      "ping_ms": 309,
-      "name": "🇷🇺 .masterhost — #9"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.150",
-      "port": 9001,
-      "ping_ms": 324,
-      "name": "🇷🇺 Timeweb — #29"
+      "ping_ms": 448,
+      "name": "🇷🇺 .masterhost — #3"
     }
   ],
-  "elapsed_seconds": 230.59,
-  "memory_peak_mb": 1.01
+  "elapsed_seconds": 202.19,
+  "memory_peak_mb": 1.07
 }
