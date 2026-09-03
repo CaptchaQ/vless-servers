@@ -2323,3 +2323,27 @@
 2026-09-03 07:35:07,543 INFO   GB 46.16.36.222:11443 — 203ms [🇬🇧 United Kingdom — #97]
 2026-09-03 07:35:07,543 INFO   GB 46.16.36.222:11443 — 214ms [🇬🇧 United Kingdom — #96]
 2026-09-03 07:35:07,547 INFO Dashboard written to /out/index.html
+2026-09-03 07:35:07,558 INFO Removed stale country file from data repo: CH.txt
+2026-09-03 07:35:07,558 INFO Removed stale country file from data repo: SE.txt
+2026-09-03 07:35:07,559 INFO Removed stale country file from data repo: US.txt
+2026-09-03 07:35:07,559 INFO Synced out/ → /data
+2026-09-03 07:35:09,501 INFO Data repo pushed to origin/main
+2026-09-03 07:35:09,502 INFO Done in 241.8 s | Peak RAM: 1.2 MB | Alive: 35/175 (20.0%)
+2026-09-03 08:35:09,681 INFO ============================================================
+2026-09-03 08:35:09,681 INFO VLESS Checker starting...
+2026-09-03 08:35:10,021 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 188 links
+2026-09-03 08:35:10,023 INFO Total unique links: 188
+2026-09-03 08:35:10,140 INFO Parsed correctly: 188
+2026-09-03 08:35:16,241 INFO Alive (ping 0-800ms): 156 out of 188
+2026-09-03 08:35:16,242 INFO Phase 2: proxy ping via xray (156 servers, 10 workers)
+2026-09-03 08:40:45,926 INFO Proxy ping: 24 alive, 132 dead/unreachable (timeout 10s)
+2026-09-03 08:40:45,934 INFO Lite (top-3 per country): 15 servers + 4 info cards
+2026-09-03 08:40:45,935 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-03 08:40:45,945 INFO Written: 6 countries, stats.json ready
+2026-09-03 08:40:45,945 INFO Top 5 fastest:
+2026-09-03 08:40:45,945 INFO   FI 46.16.36.222:11447 — 189ms [🇫🇮 Finland — #90]
+2026-09-03 08:40:45,945 INFO   GB 46.16.36.222:11443 — 212ms [🇬🇧 United Kingdom — #104]
+2026-09-03 08:40:45,946 INFO   RU 185.141.227.150:9001 — 296ms [🇷🇺 Timeweb — #20]
+2026-09-03 08:40:45,946 INFO   RU 185.141.227.150:9001 — 312ms [🇷🇺 Timeweb — #27]
+2026-09-03 08:40:45,946 INFO   RU 185.141.227.150:9001 — 316ms [🇷🇺 Timeweb — #29]
+2026-09-03 08:40:45,950 INFO Dashboard written to /out/index.html
