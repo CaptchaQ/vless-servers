@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-03T17:06:35.687643+00:00",
-  "total_checked": 64,
-  "total_working": 19,
+  "updated_utc": "2026-09-03T18:08:31.214429+00:00",
+  "total_checked": 59,
+  "total_working": 14,
   "total_dead": 45,
-  "survival_rate_pct": 29.7,
-  "countries": 9,
-  "ping_min_ms": 209,
-  "ping_median_ms": 327,
-  "ping_max_ms": 600,
+  "survival_rate_pct": 23.7,
+  "countries": 7,
+  "ping_min_ms": 273,
+  "ping_median_ms": 386,
+  "ping_max_ms": 739,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 13,
+    "reality": 8,
     "tls": 5,
     "none": 1
   },
   "top_fastest": [
     {
-      "cc": "PL",
-      "host": "46.16.36.222",
-      "port": 11445,
-      "ping_ms": 209,
-      "name": "🇵🇱 Poland — #61"
-    },
-    {
-      "cc": "SE",
-      "host": "46.243.142.184",
-      "port": 4443,
-      "ping_ms": 252,
-      "name": "🇸🇪 Sweden — #64"
-    },
-    {
-      "cc": "FR",
-      "host": "37.9.4.128",
-      "port": 443,
-      "ping_ms": 256,
-      "name": "🇫🇷 France — #28"
+      "cc": "CH",
+      "host": "46.243.142.89",
+      "port": 9443,
+      "ping_ms": 273,
+      "name": "🇨🇭 Switzerland — #15"
     },
     {
       "cc": "CH",
       "host": "46.243.142.89",
       "port": 9443,
-      "ping_ms": 261,
-      "name": "🇨🇭 Switzerland — #7"
+      "ping_ms": 276,
+      "name": "🇨🇭 Switzerland — #16"
+    },
+    {
+      "cc": "DE",
+      "host": "188.72.103.4",
+      "port": 443,
+      "ping_ms": 276,
+      "name": "🇩🇪 Germany — #23"
     },
     {
       "cc": "LT",
       "host": "188.225.57.227",
       "port": 443,
-      "ping_ms": 262,
-      "name": "🇱🇹 Lithuania — #31"
+      "ping_ms": 280,
+      "name": "🇱🇹 Lithuania — #40"
+    },
+    {
+      "cc": "DE",
+      "host": "188.72.103.4",
+      "port": 443,
+      "ping_ms": 335,
+      "name": "🇩🇪 Germany — #27"
     }
   ],
-  "elapsed_seconds": 130.04,
-  "memory_peak_mb": 0.77
+  "elapsed_seconds": 113.24,
+  "memory_peak_mb": 0.74
 }
