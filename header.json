@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-03T18:08:31.214429+00:00",
-  "total_checked": 59,
-  "total_working": 14,
-  "total_dead": 45,
-  "survival_rate_pct": 23.7,
-  "countries": 7,
-  "ping_min_ms": 273,
-  "ping_median_ms": 386,
-  "ping_max_ms": 739,
+  "updated_utc": "2026-09-03T19:11:28.173963+00:00",
+  "total_checked": 92,
+  "total_working": 38,
+  "total_dead": 54,
+  "survival_rate_pct": 41.3,
+  "countries": 9,
+  "ping_min_ms": 208,
+  "ping_median_ms": 351,
+  "ping_max_ms": 1140,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 8,
-    "tls": 5,
-    "none": 1
+    "none": 3,
+    "tls": 25,
+    "reality": 10
   },
   "top_fastest": [
     {
-      "cc": "CH",
-      "host": "46.243.142.89",
-      "port": 9443,
-      "ping_ms": 273,
-      "name": "🇨🇭 Switzerland — #15"
+      "cc": "RU",
+      "host": "201.24.49.74",
+      "port": 2200,
+      "ping_ms": 208,
+      "name": "🇷🇺 Timeweb — #18"
     },
     {
-      "cc": "CH",
-      "host": "46.243.142.89",
-      "port": 9443,
-      "ping_ms": 276,
-      "name": "🇨🇭 Switzerland — #16"
+      "cc": "RU",
+      "host": "46.254.18.207",
+      "port": 443,
+      "ping_ms": 232,
+      "name": "🇷🇺 Selectel — #11"
+    },
+    {
+      "cc": "RU",
+      "host": "46.254.18.207",
+      "port": 443,
+      "ping_ms": 248,
+      "name": "🇷🇺 Selectel — #9"
+    },
+    {
+      "cc": "RU",
+      "host": "46.254.18.207",
+      "port": 443,
+      "ping_ms": 251,
+      "name": "🇷🇺 Selectel — #12"
     },
     {
       "cc": "DE",
-      "host": "188.72.103.4",
+      "host": "84.252.143.29",
       "port": 443,
-      "ping_ms": 276,
-      "name": "🇩🇪 Germany — #23"
-    },
-    {
-      "cc": "LT",
-      "host": "188.225.57.227",
-      "port": 443,
-      "ping_ms": 280,
-      "name": "🇱🇹 Lithuania — #40"
-    },
-    {
-      "cc": "DE",
-      "host": "188.72.103.4",
-      "port": 443,
-      "ping_ms": 335,
-      "name": "🇩🇪 Germany — #27"
+      "ping_ms": 253,
+      "name": "🇩🇪 Germany — #34"
     }
   ],
-  "elapsed_seconds": 113.24,
-  "memory_peak_mb": 0.74
+  "elapsed_seconds": 174.63,
+  "memory_peak_mb": 0.9
 }
