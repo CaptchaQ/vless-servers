@@ -1,50 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-03T13:59:41.358537+00:00",
+  "updated_utc": "2026-09-03T15:02:25.121708+00:00",
   "total_checked": 95,
-  "total_working": 4,
-  "total_dead": 91,
-  "survival_rate_pct": 4.2,
-  "countries": 3,
-  "ping_min_ms": 739,
-  "ping_median_ms": 842,
-  "ping_max_ms": 897,
+  "total_working": 31,
+  "total_dead": 64,
+  "survival_rate_pct": 32.6,
+  "countries": 8,
+  "ping_min_ms": 203,
+  "ping_median_ms": 350,
+  "ping_max_ms": 589,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 3,
-    "tls": 1
+    "reality": 22,
+    "tls": 9
   },
   "top_fastest": [
     {
-      "cc": "US",
-      "host": "178.248.236.209",
-      "port": 10443,
-      "ping_ms": 739,
-      "name": "🇺🇸 United States — #94"
+      "cc": "SE",
+      "host": "46.243.142.184",
+      "port": 4443,
+      "ping_ms": 203,
+      "name": "🇸🇪 Sweden — #93"
     },
     {
-      "cc": "US",
-      "host": "178.248.236.209",
-      "port": 10443,
-      "ping_ms": 824,
-      "name": "🇺🇸 United States — #95"
+      "cc": "FR",
+      "host": "46.16.36.222",
+      "port": 11444,
+      "ping_ms": 207,
+      "name": "🇫🇷 France — #53"
     },
     {
-      "cc": "LT",
-      "host": "62.152.56.73",
+      "cc": "FR",
+      "host": "37.9.4.128",
       "port": 443,
-      "ping_ms": 861,
-      "name": "🇱🇹 Lithuania — #61"
+      "ping_ms": 250,
+      "name": "🇫🇷 France — #58"
     },
     {
-      "cc": "NL",
-      "host": "188.72.103.4",
+      "cc": "FR",
+      "host": "31.129.42.37",
       "port": 443,
-      "ping_ms": 897,
-      "name": "🇳🇱 The Netherlands — #71"
+      "ping_ms": 259,
+      "name": "🇫🇷 France — #60"
+    },
+    {
+      "cc": "RU",
+      "host": "194.55.239.164",
+      "port": 443,
+      "ping_ms": 265,
+      "name": "🇷🇺 New Hosting Technologies LLC — #6"
     }
   ],
-  "elapsed_seconds": 150.2,
-  "memory_peak_mb": 0.83
+  "elapsed_seconds": 161.55,
+  "memory_peak_mb": 0.95
 }
