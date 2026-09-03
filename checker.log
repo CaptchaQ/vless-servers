@@ -2619,3 +2619,28 @@
 2026-09-03 21:16:27,188 INFO   RU 5.42.121.52:4100 — 1113ms [🇷🇺 Timeweb — #5]
 2026-09-03 21:16:27,188 INFO   PL 46.16.36.222:11445 — 1416ms [🇵🇱 Poland — #59]
 2026-09-03 21:16:27,192 INFO Dashboard written to /out/index.html
+2026-09-03 21:16:27,202 INFO Removed stale country file from data repo: NL.txt
+2026-09-03 21:16:27,202 INFO Removed stale country file from data repo: FI.txt
+2026-09-03 21:16:27,202 INFO Removed stale country file from data repo: DE.txt
+2026-09-03 21:16:27,202 INFO Removed stale country file from data repo: FR.txt
+2026-09-03 21:16:27,202 INFO Synced out/ → /data
+2026-09-03 21:16:29,297 INFO Data repo pushed to origin/main
+2026-09-03 21:16:29,298 INFO Done in 151.3 s | Peak RAM: 0.8 MB | Alive: 3/64 (4.7%)
+2026-09-03 22:16:29,408 INFO ============================================================
+2026-09-03 22:16:29,408 INFO VLESS Checker starting...
+2026-09-03 22:16:29,779 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 88 links
+2026-09-03 22:16:29,783 INFO Total unique links: 88
+2026-09-03 22:16:29,858 INFO Parsed correctly: 88
+2026-09-03 22:16:34,876 INFO Alive (ping 0-800ms): 86 out of 88
+2026-09-03 22:16:34,879 INFO Phase 2: proxy ping via xray (86 servers, 10 workers)
+2026-09-03 22:19:58,724 INFO Proxy ping: 24 alive, 62 dead/unreachable (timeout 10s)
+2026-09-03 22:19:58,730 INFO Lite (top-3 per country): 19 servers + 4 info cards
+2026-09-03 22:19:58,730 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-03 22:19:58,741 INFO Written: 9 countries, stats.json ready
+2026-09-03 22:19:58,742 INFO Top 5 fastest:
+2026-09-03 22:19:58,742 INFO   LT 188.225.57.227:443 — 199ms [🇱🇹 Lithuania — #59]
+2026-09-03 22:19:58,743 INFO   RU 46.254.18.207:443 — 209ms [🇷🇺 Selectel — #5]
+2026-09-03 22:19:58,743 INFO   RU 46.254.18.207:443 — 225ms [🇷🇺 Selectel — #3]
+2026-09-03 22:19:58,743 INFO   KZ 46.16.36.222:11448 — 250ms [🇰🇿 Kazakhstan — #56]
+2026-09-03 22:19:58,744 INFO   RU 46.254.18.207:443 — 251ms [🇷🇺 Selectel — #6]
+2026-09-03 22:19:58,749 INFO Dashboard written to /out/index.html
