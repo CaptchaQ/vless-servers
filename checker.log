@@ -2418,3 +2418,28 @@
 2026-09-03 11:53:53,740 INFO   FI 46.16.36.222:11447 — 1358ms [🇫🇮 Finland — #87]
 2026-09-03 11:53:53,741 INFO   GB 46.16.36.222:11443 — 1427ms [🇬🇧 United Kingdom — #105]
 2026-09-03 11:53:53,745 INFO Dashboard written to /out/index.html
+2026-09-03 11:53:53,755 INFO Removed stale country file from data repo: NL.txt
+2026-09-03 11:53:53,755 INFO Removed stale country file from data repo: PL.txt
+2026-09-03 11:53:53,756 INFO Removed stale country file from data repo: DE.txt
+2026-09-03 11:53:53,756 INFO Synced out/ → /data
+2026-09-03 11:53:55,691 INFO Data repo pushed to origin/main
+2026-09-03 11:53:55,692 INFO Done in 296.2 s | Peak RAM: 1.4 MB | Alive: 7/207 (3.4%)
+2026-09-03 12:53:55,802 INFO ============================================================
+2026-09-03 12:53:55,802 INFO VLESS Checker starting...
+2026-09-03 12:53:56,168 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 109 links
+2026-09-03 12:53:56,170 INFO Total unique links: 109
+2026-09-03 12:53:56,249 INFO Parsed correctly: 109
+2026-09-03 12:54:01,498 INFO Alive (ping 0-800ms): 87 out of 109
+2026-09-03 12:54:01,501 INFO Phase 2: proxy ping via xray (87 servers, 10 workers)
+2026-09-03 12:54:59,936 WARNING Skipping proxy ping for 5.42.109.42:8443 — unsupported network type 'websocket'
+2026-09-03 12:57:08,246 INFO Proxy ping: 7 alive, 80 dead/unreachable (timeout 10s)
+2026-09-03 12:57:08,250 INFO Lite (top-3 per country): 6 servers + 4 info cards
+2026-09-03 12:57:08,250 INFO Best (top-20 globally): 7 servers + 4 info cards
+2026-09-03 12:57:08,255 INFO Written: 4 countries, stats.json ready
+2026-09-03 12:57:08,256 INFO Top 5 fastest:
+2026-09-03 12:57:08,256 INFO   RU 5.42.109.42:8443 — 39ms [🇷🇺 Timeweb — #19]
+2026-09-03 12:57:08,257 INFO   DE 84.252.143.29:443 — 349ms [🇩🇪 Germany — #47]
+2026-09-03 12:57:08,257 INFO   RU 185.141.227.153:9001 — 408ms [🇷🇺 Timeweb — #11]
+2026-09-03 12:57:08,258 INFO   RU 185.141.227.153:9001 — 498ms [🇷🇺 Timeweb — #12]
+2026-09-03 12:57:08,258 INFO   BG 185.141.227.150:9002 — 639ms [🇧🇬 Bulgaria — #24]
+2026-09-03 12:57:08,263 INFO Dashboard written to /out/index.html
