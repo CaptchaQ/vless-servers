@@ -2730,3 +2730,27 @@
 2026-09-04 02:33:43,928 INFO   CH 212.41.11.31:9882 — 233ms [🇨🇭 Switzerland — #13]
 2026-09-04 02:33:43,929 INFO   SE 111.88.99.27:9872 — 239ms [🇸🇪 Sweden — #80]
 2026-09-04 02:33:43,934 INFO Dashboard written to /out/index.html
+2026-09-04 02:33:43,945 INFO Removed stale country file from data repo: LT.txt
+2026-09-04 02:33:43,945 INFO Removed stale country file from data repo: GB.txt
+2026-09-04 02:33:43,946 INFO Removed stale country file from data repo: FR.txt
+2026-09-04 02:33:43,946 INFO Synced out/ → /data
+2026-09-04 02:33:45,857 INFO Data repo pushed to origin/main
+2026-09-04 02:33:45,857 INFO Done in 194.3 s | Peak RAM: 0.8 MB | Alive: 25/80 (31.2%)
+2026-09-04 03:33:46,129 INFO ============================================================
+2026-09-04 03:33:46,130 INFO VLESS Checker starting...
+2026-09-04 03:33:46,482 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 120 links
+2026-09-04 03:33:46,513 INFO Total unique links: 120
+2026-09-04 03:33:46,602 INFO Parsed correctly: 120
+2026-09-04 03:33:51,654 INFO Alive (ping 0-800ms): 113 out of 120
+2026-09-04 03:33:51,657 INFO Phase 2: proxy ping via xray (113 servers, 10 workers)
+2026-09-04 03:36:56,736 INFO Proxy ping: 44 alive, 69 dead/unreachable (timeout 10s)
+2026-09-04 03:36:56,740 INFO Lite (top-3 per country): 20 servers + 4 info cards
+2026-09-04 03:36:56,741 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-04 03:36:56,752 INFO Written: 7 countries, stats.json ready
+2026-09-04 03:36:56,753 INFO Top 5 fastest:
+2026-09-04 03:36:56,753 INFO   RU 168.222.203.14:4100 — 173ms [🇷🇺 SpaceWeb — #3]
+2026-09-04 03:36:56,753 INFO   RU 168.222.203.14:4100 — 180ms [🇷🇺 SpaceWeb — #4]
+2026-09-04 03:36:56,754 INFO   SE 111.88.99.27:9872 — 194ms [🇸🇪 Sweden — #113]
+2026-09-04 03:36:56,754 INFO   DE 212.41.11.31:9891 — 233ms [🇩🇪 Germany — #38]
+2026-09-04 03:36:56,755 INFO   PL 46.16.36.222:11445 — 233ms [🇵🇱 Poland — #100]
+2026-09-04 03:36:56,790 INFO Dashboard written to /out/index.html
