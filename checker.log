@@ -2853,3 +2853,25 @@
 2026-09-04 08:48:47,375 INFO Written: 0 countries, stats.json ready
 2026-09-04 08:48:47,376 INFO Top 5 fastest:
 2026-09-04 08:48:47,388 INFO Dashboard written to /out/index.html
+2026-09-04 08:48:47,400 INFO Removed stale country file from data repo: PL.txt
+2026-09-04 08:48:47,400 INFO Synced out/ → /data
+2026-09-04 08:48:49,348 INFO Data repo pushed to origin/main
+2026-09-04 08:48:49,348 INFO Done in 134.5 s | Peak RAM: 0.9 MB | Alive: 0/87 (0.0%)
+2026-09-04 09:48:49,528 INFO ============================================================
+2026-09-04 09:48:49,528 INFO VLESS Checker starting...
+2026-09-04 09:48:49,881 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 93 links
+2026-09-04 09:48:49,883 INFO Total unique links: 93
+2026-09-04 09:48:49,964 INFO Parsed correctly: 93
+2026-09-04 09:48:55,115 INFO Alive (ping 0-800ms): 80 out of 93
+2026-09-04 09:48:55,118 INFO Phase 2: proxy ping via xray (80 servers, 10 workers)
+2026-09-04 09:51:13,506 INFO Proxy ping: 13 alive, 67 dead/unreachable (timeout 10s)
+2026-09-04 09:51:13,531 INFO Lite (top-3 per country): 12 servers + 4 info cards
+2026-09-04 09:51:13,531 INFO Best (top-20 globally): 13 servers + 4 info cards
+2026-09-04 09:51:13,538 INFO Written: 7 countries, stats.json ready
+2026-09-04 09:51:13,538 INFO Top 5 fastest:
+2026-09-04 09:51:13,539 INFO   SE 111.88.99.27:9872 — 238ms [🇸🇪 Sweden — #90]
+2026-09-04 09:51:13,539 INFO   DE 212.41.11.31:9891 — 277ms [🇩🇪 Germany — #18]
+2026-09-04 09:51:13,539 INFO   NL 111.88.99.27:9894 — 294ms [🇳🇱 The Netherlands — #59]
+2026-09-04 09:51:13,540 INFO   PL 176.109.92.20:444 — 335ms [🇵🇱 Poland — #81]
+2026-09-04 09:51:13,540 INFO   GB 176.109.88.216:443 — 427ms [🇬🇧 United Kingdom — #45]
+2026-09-04 09:51:13,544 INFO Dashboard written to /out/index.html
