@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-04T00:27:09.321608+00:00",
+  "updated_utc": "2026-09-04T01:30:27.426000+00:00",
   "total_checked": 110,
-  "total_working": 44,
-  "total_dead": 66,
-  "survival_rate_pct": 40.0,
-  "countries": 8,
-  "ping_min_ms": 150,
-  "ping_median_ms": 323,
-  "ping_max_ms": 1379,
+  "total_working": 51,
+  "total_dead": 59,
+  "survival_rate_pct": 46.4,
+  "countries": 9,
+  "ping_min_ms": 162,
+  "ping_median_ms": 321,
+  "ping_max_ms": 689,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 29,
-    "none": 3,
-    "tls": 12
+    "reality": 32,
+    "tls": 14,
+    "none": 5
   },
   "top_fastest": [
     {
       "cc": "SE",
-      "host": "111.88.99.27",
-      "port": 9872,
-      "ping_ms": 150,
-      "name": "🇸🇪 Sweden — #103"
-    },
-    {
-      "cc": "SE",
       "host": "46.243.142.184",
       "port": 4443,
-      "ping_ms": 176,
+      "ping_ms": 162,
       "name": "🇸🇪 Sweden — #110"
     },
     {
-      "cc": "PL",
-      "host": "46.8.209.137",
-      "port": 18083,
-      "ping_ms": 213,
-      "name": "🇵🇱 Poland — #101"
-    },
-    {
       "cc": "RU",
-      "host": "201.24.49.74",
-      "port": 2200,
-      "ping_ms": 216,
-      "name": "🇷🇺 Timeweb — #13"
+      "host": "217.199.254.215",
+      "port": 443,
+      "ping_ms": 188,
+      "name": "🇷🇺 Timeweb — #8"
     },
     {
       "cc": "DE",
+      "host": "46.8.209.137",
+      "port": 18082,
+      "ping_ms": 197,
+      "name": "🇩🇪 Germany — #31"
+    },
+    {
+      "cc": "NL",
+      "host": "188.72.103.4",
+      "port": 443,
+      "ping_ms": 202,
+      "name": "🇳🇱 The Netherlands — #71"
+    },
+    {
+      "cc": "CH",
       "host": "212.41.11.31",
-      "port": 9891,
-      "ping_ms": 217,
-      "name": "🇩🇪 Germany — #29"
+      "port": 9882,
+      "ping_ms": 213,
+      "name": "🇨🇭 Switzerland — #18"
     }
   ],
-  "elapsed_seconds": 229.92,
-  "memory_peak_mb": 1.01
+  "elapsed_seconds": 196.01,
+  "memory_peak_mb": 1.02
 }
