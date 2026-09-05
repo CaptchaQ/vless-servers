@@ -3525,3 +3525,29 @@
 2026-09-05 16:15:29,246 INFO   FI 79.174.92.85:6443 — 557ms [🇫🇮 Finland — #30]
 2026-09-05 16:15:29,246 INFO   DE 78.159.240.41:443 — 641ms [🇩🇪 Germany — #19]
 2026-09-05 16:15:29,250 INFO Dashboard written to /out/index.html
+2026-09-05 16:15:29,285 INFO Removed stale country file from data repo: CH.txt
+2026-09-05 16:15:29,285 INFO Removed stale country file from data repo: SE.txt
+2026-09-05 16:15:29,285 INFO Removed stale country file from data repo: EE.txt
+2026-09-05 16:15:29,285 INFO Removed stale country file from data repo: LT.txt
+2026-09-05 16:15:29,285 INFO Removed stale country file from data repo: FR.txt
+2026-09-05 16:15:29,286 INFO Synced out/ → /data
+2026-09-05 16:15:31,254 INFO Data repo pushed to origin/main
+2026-09-05 16:15:31,256 INFO Done in 193.9 s | Peak RAM: 0.9 MB | Alive: 13/76 (17.1%)
+2026-09-05 17:15:31,415 INFO ============================================================
+2026-09-05 17:15:31,416 INFO VLESS Checker starting...
+2026-09-05 17:15:31,798 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 104 links
+2026-09-05 17:15:31,799 INFO Total unique links: 104
+2026-09-05 17:15:31,881 INFO Parsed correctly: 104
+2026-09-05 17:15:36,901 INFO Alive (ping 0-800ms): 98 out of 104
+2026-09-05 17:15:36,904 INFO Phase 2: proxy ping via xray (98 servers, 10 workers)
+2026-09-05 17:18:59,513 INFO Proxy ping: 16 alive, 82 dead/unreachable (timeout 10s)
+2026-09-05 17:18:59,531 INFO Lite (top-3 per country): 11 servers + 4 info cards
+2026-09-05 17:18:59,533 INFO Best (top-20 globally): 16 servers + 4 info cards
+2026-09-05 17:18:59,550 INFO Written: 6 countries, stats.json ready
+2026-09-05 17:18:59,551 INFO Top 5 fastest:
+2026-09-05 17:18:59,552 INFO   NL 46.8.209.137:18083 — 267ms [🇳🇱 The Netherlands — #78]
+2026-09-05 17:18:59,552 INFO   FR 87.242.95.198:4443 — 397ms [🇫🇷 France — #42]
+2026-09-05 17:18:59,553 INFO   FR 87.242.95.198:4443 — 413ms [🇫🇷 France — #44]
+2026-09-05 17:18:59,553 INFO   FR 87.242.95.198:4443 — 436ms [🇫🇷 France — #43]
+2026-09-05 17:18:59,554 INFO   DE 78.159.240.41:443 — 438ms [🇩🇪 Germany — #20]
+2026-09-05 17:18:59,559 INFO Dashboard written to /out/index.html
