@@ -3368,3 +3368,27 @@
 2026-09-05 08:54:03,881 INFO   DE 78.159.240.41:443 — 854ms [🇩🇪 Germany — #16]
 2026-09-05 08:54:03,881 INFO   CZ 78.159.247.166:7444 — 971ms [🇨🇿 Czechia — #9]
 2026-09-05 08:54:03,886 INFO Dashboard written to /out/index.html
+2026-09-05 08:54:03,907 INFO Removed stale country file from data repo: SE.txt
+2026-09-05 08:54:03,908 INFO Removed stale country file from data repo: NL.txt
+2026-09-05 08:54:03,909 INFO Removed stale country file from data repo: FI.txt
+2026-09-05 08:54:03,910 INFO Synced out/ → /data
+2026-09-05 08:54:05,835 INFO Data repo pushed to origin/main
+2026-09-05 08:54:05,836 INFO Done in 158.3 s | Peak RAM: 0.7 MB | Alive: 5/67 (7.5%)
+2026-09-05 09:54:05,994 INFO ============================================================
+2026-09-05 09:54:05,995 INFO VLESS Checker starting...
+2026-09-05 09:54:06,350 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 111 links
+2026-09-05 09:54:06,352 INFO Total unique links: 111
+2026-09-05 09:54:06,440 INFO Parsed correctly: 111
+2026-09-05 09:54:11,451 INFO Alive (ping 0-800ms): 106 out of 111
+2026-09-05 09:54:11,455 INFO Phase 2: proxy ping via xray (106 servers, 10 workers)
+2026-09-05 09:57:46,705 INFO Proxy ping: 17 alive, 89 dead/unreachable (timeout 10s)
+2026-09-05 09:57:46,709 INFO Lite (top-3 per country): 12 servers + 4 info cards
+2026-09-05 09:57:46,709 INFO Best (top-20 globally): 17 servers + 4 info cards
+2026-09-05 09:57:46,717 INFO Written: 6 countries, stats.json ready
+2026-09-05 09:57:46,718 INFO Top 5 fastest:
+2026-09-05 09:57:46,718 INFO   NL 46.8.209.137:18083 — 156ms [🇳🇱 The Netherlands — #98]
+2026-09-05 09:57:46,719 INFO   NL 46.8.209.137:18083 — 164ms [🇳🇱 The Netherlands — #100]
+2026-09-05 09:57:46,719 INFO   NL 46.8.209.137:18083 — 166ms [🇳🇱 The Netherlands — #96]
+2026-09-05 09:57:46,720 INFO   FR 87.242.95.198:4443 — 166ms [🇫🇷 France — #44]
+2026-09-05 09:57:46,720 INFO   NL 46.8.209.137:18083 — 191ms [🇳🇱 The Netherlands — #94]
+2026-09-05 09:57:46,725 INFO Dashboard written to /out/index.html
