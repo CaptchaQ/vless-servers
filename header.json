@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-05T14:09:22.472879+00:00",
-  "total_checked": 91,
-  "total_working": 28,
-  "total_dead": 63,
-  "survival_rate_pct": 30.8,
-  "countries": 9,
-  "ping_min_ms": 228,
-  "ping_median_ms": 529,
-  "ping_max_ms": 1474,
+  "updated_utc": "2026-09-05T15:12:13.134297+00:00",
+  "total_checked": 112,
+  "total_working": 46,
+  "total_dead": 66,
+  "survival_rate_pct": 41.1,
+  "countries": 10,
+  "ping_min_ms": 184,
+  "ping_median_ms": 408,
+  "ping_max_ms": 1472,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 23,
-    "tls": 5
+    "reality": 32,
+    "tls": 14
   },
   "top_fastest": [
     {
-      "cc": "SE",
-      "host": "46.243.142.184",
-      "port": 4443,
-      "ping_ms": 228,
-      "name": "🇸🇪 Sweden — #91"
+      "cc": "CZ",
+      "host": "78.159.247.123",
+      "port": 7444,
+      "ping_ms": 184,
+      "name": "🇨🇿 Czechia — #10"
     },
     {
-      "cc": "CH",
-      "host": "46.243.142.42",
-      "port": 8443,
-      "ping_ms": 254,
-      "name": "🇨🇭 Switzerland — #4"
-    },
-    {
-      "cc": "LT",
-      "host": "188.225.84.42",
+      "cc": "EE",
+      "host": "91.215.40.6",
       "port": 443,
-      "ping_ms": 264,
-      "name": "🇱🇹 Lithuania — #37"
+      "ping_ms": 184,
+      "name": "🇪🇪 Estonia — #35"
     },
     {
-      "cc": "CH",
-      "host": "46.243.142.89",
-      "port": 9443,
-      "ping_ms": 278,
-      "name": "🇨🇭 Switzerland — #3"
+      "cc": "EE",
+      "host": "91.215.40.6",
+      "port": 443,
+      "ping_ms": 187,
+      "name": "🇪🇪 Estonia — #33"
     },
     {
-      "cc": "NL",
-      "host": "46.8.209.137",
-      "port": 18083,
-      "ping_ms": 363,
-      "name": "🇳🇱 The Netherlands — #48"
+      "cc": "GB",
+      "host": "176.109.88.216",
+      "port": 443,
+      "ping_ms": 193,
+      "name": "🇬🇧 United Kingdom — #53"
+    },
+    {
+      "cc": "EE",
+      "host": "91.215.40.6",
+      "port": 443,
+      "ping_ms": 194,
+      "name": "🇪🇪 Estonia — #32"
     }
   ],
-  "elapsed_seconds": 208.42,
-  "memory_peak_mb": 0.98
+  "elapsed_seconds": 168.2,
+  "memory_peak_mb": 1.08
 }
