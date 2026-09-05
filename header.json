@@ -1,58 +1,56 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-05T11:01:24.408729+00:00",
-  "total_checked": 111,
-  "total_working": 19,
-  "total_dead": 92,
-  "survival_rate_pct": 17.1,
+  "updated_utc": "2026-09-05T12:03:39.325618+00:00",
+  "total_checked": 95,
+  "total_working": 12,
+  "total_dead": 83,
+  "survival_rate_pct": 12.6,
   "countries": 5,
-  "ping_min_ms": 175,
-  "ping_median_ms": 514,
-  "ping_max_ms": 1183,
+  "ping_min_ms": 312,
+  "ping_median_ms": 710,
+  "ping_max_ms": 1295,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 17,
-    "none": 1,
-    "tls": 1
+    "reality": 12
   },
   "top_fastest": [
     {
-      "cc": "NL",
-      "host": "46.8.209.137",
-      "port": 18083,
-      "ping_ms": 175,
-      "name": "🇳🇱 The Netherlands — #96"
+      "cc": "GB",
+      "host": "176.109.88.216",
+      "port": 443,
+      "ping_ms": 312,
+      "name": "🇬🇧 United Kingdom — #41"
+    },
+    {
+      "cc": "DE",
+      "host": "78.159.240.41",
+      "port": 443,
+      "ping_ms": 429,
+      "name": "🇩🇪 Germany — #14"
+    },
+    {
+      "cc": "FR",
+      "host": "87.242.95.198",
+      "port": 4443,
+      "ping_ms": 498,
+      "name": "🇫🇷 France — #37"
     },
     {
       "cc": "NL",
       "host": "46.8.209.137",
       "port": 18083,
-      "ping_ms": 176,
-      "name": "🇳🇱 The Netherlands — #98"
+      "ping_ms": 517,
+      "name": "🇳🇱 The Netherlands — #84"
     },
     {
-      "cc": "NL",
-      "host": "46.8.209.137",
-      "port": 18083,
-      "ping_ms": 184,
-      "name": "🇳🇱 The Netherlands — #101"
-    },
-    {
-      "cc": "NL",
-      "host": "46.8.209.137",
-      "port": 18083,
-      "ping_ms": 189,
-      "name": "🇳🇱 The Netherlands — #95"
-    },
-    {
-      "cc": "NL",
-      "host": "46.8.209.137",
-      "port": 18083,
-      "ping_ms": 250,
-      "name": "🇳🇱 The Netherlands — #100"
+      "cc": "DE",
+      "host": "78.159.240.41",
+      "port": 443,
+      "ping_ms": 596,
+      "name": "🇩🇪 Germany — #11"
     }
   ],
-  "elapsed_seconds": 215.53,
-  "memory_peak_mb": 1.06
+  "elapsed_seconds": 132.82,
+  "memory_peak_mb": 1.0
 }
