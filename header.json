@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-06T18:56:19.270856+00:00",
-  "total_checked": 161,
-  "total_working": 12,
-  "total_dead": 149,
-  "survival_rate_pct": 7.5,
-  "countries": 5,
-  "ping_min_ms": 551,
-  "ping_median_ms": 746,
-  "ping_max_ms": 998,
+  "updated_utc": "2026-09-06T20:01:28.713041+00:00",
+  "total_checked": 180,
+  "total_working": 27,
+  "total_dead": 153,
+  "survival_rate_pct": 15.0,
+  "countries": 8,
+  "ping_min_ms": 168,
+  "ping_median_ms": 384,
+  "ping_max_ms": 1495,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 10,
-    "tls": 2
+    "reality": 23,
+    "tls": 4
   },
   "top_fastest": [
     {
-      "cc": "RU",
-      "host": "217.19.122.47",
-      "port": 443,
-      "ping_ms": 551,
-      "name": "🇷🇺 Timeweb — #6"
+      "cc": "NL",
+      "host": "46.8.209.137",
+      "port": 18083,
+      "ping_ms": 168,
+      "name": "🇳🇱 The Netherlands — #140"
     },
     {
-      "cc": "PL",
-      "host": "84.201.142.221",
-      "port": 33743,
-      "ping_ms": 624,
-      "name": "🇵🇱 Poland — #154"
+      "cc": "NL",
+      "host": "46.8.209.137",
+      "port": 18083,
+      "ping_ms": 169,
+      "name": "🇳🇱 The Netherlands — #141"
     },
     {
-      "cc": "PL",
-      "host": "84.201.142.221",
-      "port": 33743,
-      "ping_ms": 644,
-      "name": "🇵🇱 Poland — #155"
-    },
-    {
-      "cc": "DE",
-      "host": "188.72.103.4",
-      "port": 443,
-      "ping_ms": 645,
-      "name": "🇩🇪 Germany — #39"
+      "cc": "NL",
+      "host": "46.8.209.137",
+      "port": 18083,
+      "ping_ms": 192,
+      "name": "🇳🇱 The Netherlands — #138"
     },
     {
       "cc": "RU",
-      "host": "217.16.31.162",
+      "host": "217.16.31.218",
       "port": 443,
-      "ping_ms": 682,
-      "name": "🇷🇺 UFO Hosting — #9"
+      "ping_ms": 246,
+      "name": "🇷🇺 UFO Hosting — #14"
+    },
+    {
+      "cc": "CH",
+      "host": "46.243.142.42",
+      "port": 8443,
+      "ping_ms": 256,
+      "name": "🇨🇭 Switzerland — #17"
     }
   ],
-  "elapsed_seconds": 290.52,
-  "memory_peak_mb": 1.31
+  "elapsed_seconds": 307.39,
+  "memory_peak_mb": 1.4
 }
