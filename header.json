@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-06T21:07:22.411387+00:00",
-  "total_checked": 161,
-  "total_working": 35,
-  "total_dead": 126,
-  "survival_rate_pct": 21.7,
-  "countries": 7,
-  "ping_min_ms": 257,
-  "ping_median_ms": 702,
-  "ping_max_ms": 1498,
+  "updated_utc": "2026-09-06T22:12:28.897864+00:00",
+  "total_checked": 144,
+  "total_working": 41,
+  "total_dead": 103,
+  "survival_rate_pct": 28.5,
+  "countries": 9,
+  "ping_min_ms": 168,
+  "ping_median_ms": 330,
+  "ping_max_ms": 1102,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 21,
-    "tls": 13,
+    "reality": 30,
+    "tls": 10,
     "none": 1
   },
   "top_fastest": [
     {
-      "cc": "RU",
-      "host": "217.16.31.218",
+      "cc": "NL",
+      "host": "46.8.209.137",
+      "port": 18083,
+      "ping_ms": 168,
+      "name": "🇳🇱 The Netherlands — #116"
+    },
+    {
+      "cc": "NL",
+      "host": "46.8.209.137",
+      "port": 18083,
+      "ping_ms": 174,
+      "name": "🇳🇱 The Netherlands — #114"
+    },
+    {
+      "cc": "NL",
+      "host": "46.8.209.137",
+      "port": 18083,
+      "ping_ms": 177,
+      "name": "🇳🇱 The Netherlands — #117"
+    },
+    {
+      "cc": "DE",
+      "host": "188.72.103.4",
       "port": 443,
-      "ping_ms": 257,
-      "name": "🇷🇺 UFO Hosting — #18"
+      "ping_ms": 177,
+      "name": "🇩🇪 Germany — #27"
     },
     {
-      "cc": "PL",
-      "host": "84.201.142.221",
-      "port": 33743,
-      "ping_ms": 377,
-      "name": "🇵🇱 Poland — #153"
-    },
-    {
-      "cc": "FI",
-      "host": "79.174.92.85",
-      "port": 6443,
-      "ping_ms": 424,
-      "name": "🇫🇮 Finland — #55"
-    },
-    {
-      "cc": "FI",
-      "host": "79.174.92.85",
-      "port": 6443,
-      "ping_ms": 425,
-      "name": "🇫🇮 Finland — #54"
-    },
-    {
-      "cc": "RU",
-      "host": "217.16.31.162",
+      "cc": "GB",
+      "host": "185.22.235.181",
       "port": 443,
-      "ping_ms": 425,
-      "name": "🇷🇺 UFO Hosting — #16"
+      "ping_ms": 182,
+      "name": "🇬🇧 United Kingdom — #60"
     }
   ],
-  "elapsed_seconds": 351.57,
-  "memory_peak_mb": 1.3
+  "elapsed_seconds": 304.35,
+  "memory_peak_mb": 1.21
 }
