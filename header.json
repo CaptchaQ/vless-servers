@@ -1,56 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-06T14:36:46.867075+00:00",
-  "total_checked": 152,
-  "total_working": 5,
-  "total_dead": 147,
-  "survival_rate_pct": 3.3,
-  "countries": 3,
-  "ping_min_ms": 390,
-  "ping_median_ms": 417,
-  "ping_max_ms": 1498,
+  "updated_utc": "2026-09-06T15:41:14.084172+00:00",
+  "total_checked": 157,
+  "total_working": 17,
+  "total_dead": 140,
+  "survival_rate_pct": 10.8,
+  "countries": 5,
+  "ping_min_ms": 230,
+  "ping_median_ms": 579,
+  "ping_max_ms": 1471,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 5
+    "tls": 7,
+    "reality": 10
   },
   "top_fastest": [
     {
-      "cc": "GB",
-      "host": "176.109.88.216",
+      "cc": "NL",
+      "host": "188.72.103.3",
       "port": 443,
-      "ping_ms": 390,
-      "name": "🇬🇧 United Kingdom — #50"
+      "ping_ms": 230,
+      "name": "🇳🇱 The Netherlands — #133"
     },
     {
-      "cc": "GB",
-      "host": "176.109.88.216",
+      "cc": "RU",
+      "host": "217.16.31.162",
       "port": 443,
-      "ping_ms": 400,
-      "name": "🇬🇧 United Kingdom — #52"
-    },
-    {
-      "cc": "GB",
-      "host": "176.109.88.216",
-      "port": 443,
-      "ping_ms": 417,
-      "name": "🇬🇧 United Kingdom — #51"
-    },
-    {
-      "cc": "CZ",
-      "host": "78.159.247.170",
-      "port": 443,
-      "ping_ms": 849,
-      "name": "🇨🇿 Czechia — #11"
+      "ping_ms": 261,
+      "name": "🇷🇺 UFO Hosting — #10"
     },
     {
       "cc": "NL",
-      "host": "46.8.209.137",
-      "port": 18083,
-      "ping_ms": 1498,
-      "name": "🇳🇱 The Netherlands — #111"
+      "host": "188.72.103.4",
+      "port": 443,
+      "ping_ms": 293,
+      "name": "🇳🇱 The Netherlands — #90"
+    },
+    {
+      "cc": "RU",
+      "host": "217.16.31.162",
+      "port": 443,
+      "ping_ms": 296,
+      "name": "🇷🇺 UFO Hosting — #8"
+    },
+    {
+      "cc": "PL",
+      "host": "84.201.142.221",
+      "port": 33743,
+      "ping_ms": 349,
+      "name": "🇵🇱 Poland — #151"
     }
   ],
-  "elapsed_seconds": 278.29,
-  "memory_peak_mb": 1.32
+  "elapsed_seconds": 265.15,
+  "memory_peak_mb": 1.33
 }
