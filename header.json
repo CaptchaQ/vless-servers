@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-07T10:01:53.807851+00:00",
+  "updated_utc": "2026-09-07T11:05:56.988854+00:00",
   "total_checked": 110,
-  "total_working": 11,
-  "total_dead": 99,
-  "survival_rate_pct": 10.0,
-  "countries": 4,
-  "ping_min_ms": 242,
-  "ping_median_ms": 423,
-  "ping_max_ms": 1442,
+  "total_working": 47,
+  "total_dead": 63,
+  "survival_rate_pct": 42.7,
+  "countries": 10,
+  "ping_min_ms": 165,
+  "ping_median_ms": 308,
+  "ping_max_ms": 1472,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 4,
-    "reality": 7
+    "reality": 33,
+    "tls": 14
   },
   "top_fastest": [
     {
       "cc": "NL",
-      "host": "188.72.103.4",
-      "port": 443,
-      "ping_ms": 242,
-      "name": "🇳🇱 The Netherlands — #79"
-    },
-    {
-      "cc": "RU",
-      "host": "217.16.31.162",
-      "port": 443,
-      "ping_ms": 255,
-      "name": "🇷🇺 UFO Hosting — #13"
-    },
-    {
-      "cc": "RU",
-      "host": "217.16.31.162",
-      "port": 443,
-      "ping_ms": 259,
-      "name": "🇷🇺 UFO Hosting — #9"
-    },
-    {
-      "cc": "RU",
-      "host": "217.16.31.162",
-      "port": 443,
-      "ping_ms": 285,
-      "name": "🇷🇺 UFO Hosting — #12"
+      "host": "46.8.209.137",
+      "port": 18083,
+      "ping_ms": 165,
+      "name": "🇳🇱 The Netherlands — #88"
     },
     {
       "cc": "NL",
-      "host": "188.72.103.4",
+      "host": "46.8.209.137",
+      "port": 18083,
+      "ping_ms": 165,
+      "name": "🇳🇱 The Netherlands — #90"
+    },
+    {
+      "cc": "NL",
+      "host": "46.8.209.137",
+      "port": 18083,
+      "ping_ms": 168,
+      "name": "🇳🇱 The Netherlands — #91"
+    },
+    {
+      "cc": "NL",
+      "host": "46.8.209.137",
+      "port": 18083,
+      "ping_ms": 170,
+      "name": "🇳🇱 The Netherlands — #89"
+    },
+    {
+      "cc": "LT",
+      "host": "188.225.84.42",
       "port": 443,
-      "ping_ms": 421,
-      "name": "🇳🇱 The Netherlands — #75"
+      "ping_ms": 187,
+      "name": "🇱🇹 Lithuania — #70"
     }
   ],
-  "elapsed_seconds": 252.81,
-  "memory_peak_mb": 1.06
+  "elapsed_seconds": 240.89,
+  "memory_peak_mb": 0.98
 }
