@@ -3,62 +3,51 @@
     "name": "Netherlands",
     "flag": "🇳🇱",
     "count": 1,
-    "min_ms": 668,
-    "max_ms": 668,
-    "median_ms": 668,
-    "avg_ms": 668,
+    "min_ms": 458,
+    "max_ms": 458,
+    "median_ms": 458,
+    "avg_ms": 458,
     "servers": [
       {
         "host": "201.24.117.25",
         "port": 19210,
-        "ping_ms": 668,
-        "name": "🇳🇱 The Netherlands — #90",
-        "ping_attempts": 3,
-        "ping_min": 668,
-        "ping_max": 12711,
-        "ping_jitter": 12043
+        "ping_ms": 458,
+        "name": "🇳🇱 The Netherlands — #29",
+        "ping_attempts": 5,
+        "ping_min": 458,
+        "ping_max": 629,
+        "ping_jitter": 171
       }
     ]
   },
   "RU": {
     "name": "Russia",
     "flag": "🇷🇺",
-    "count": 1,
-    "min_ms": 478,
-    "max_ms": 478,
-    "median_ms": 478,
-    "avg_ms": 478,
+    "count": 2,
+    "min_ms": 525,
+    "max_ms": 1364,
+    "median_ms": 944,
+    "avg_ms": 944,
     "servers": [
       {
-        "host": "217.16.31.218",
+        "host": "95.163.214.43",
         "port": 443,
-        "ping_ms": 478,
-        "name": "🇷🇺 UFO Hosting — #15",
-        "ping_attempts": 4,
-        "ping_min": 478,
-        "ping_max": 11763,
-        "ping_jitter": 11285
-      }
-    ]
-  },
-  "SE": {
-    "name": "Sweden",
-    "flag": "🇸🇪",
-    "count": 1,
-    "min_ms": 673,
-    "max_ms": 673,
-    "median_ms": 673,
-    "avg_ms": 673,
-    "servers": [
-      {
-        "host": "176.109.69.127",
-        "port": 443,
-        "ping_ms": 673,
-        "name": "🇸🇪 Sweden — #104",
+        "ping_ms": 525,
+        "name": "🇷🇺 VK — #1",
         "ping_attempts": 2,
-        "ping_min": 673,
-        "ping_max": 4445,
-        "ping_jitter": 3772
+        "ping_min": 525,
+        "ping_max": 6123,
+        "ping_jitter": 5598
+      },
+      {
+        "host": "217.16.31.162",
+        "port": 443,
+        "ping_ms": 1364,
+        "name": "🇷🇺 UFO Hosting — #11",
+        "ping_attempts": 3,
+        "ping_min": 1364,
+        "ping_max": 5309,
+        "ping_jitter": 3945
       }
     ]
   }

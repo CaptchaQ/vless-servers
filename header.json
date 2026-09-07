@@ -1,14 +1,14 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-07T16:24:26.716243+00:00",
-  "total_checked": 106,
+  "updated_utc": "2026-09-07T17:26:34.665899+00:00",
+  "total_checked": 31,
   "total_working": 3,
-  "total_dead": 103,
-  "survival_rate_pct": 2.8,
-  "countries": 3,
-  "ping_min_ms": 478,
-  "ping_median_ms": 668,
-  "ping_max_ms": 673,
+  "total_dead": 28,
+  "survival_rate_pct": 9.7,
+  "countries": 2,
+  "ping_min_ms": 458,
+  "ping_median_ms": 525,
+  "ping_max_ms": 1364,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
@@ -16,27 +16,27 @@
   },
   "top_fastest": [
     {
-      "cc": "RU",
-      "host": "217.16.31.218",
-      "port": 443,
-      "ping_ms": 478,
-      "name": "🇷🇺 UFO Hosting — #15"
-    },
-    {
       "cc": "NL",
       "host": "201.24.117.25",
       "port": 19210,
-      "ping_ms": 668,
-      "name": "🇳🇱 The Netherlands — #90"
+      "ping_ms": 458,
+      "name": "🇳🇱 The Netherlands — #29"
     },
     {
-      "cc": "SE",
-      "host": "176.109.69.127",
+      "cc": "RU",
+      "host": "95.163.214.43",
       "port": 443,
-      "ping_ms": 673,
-      "name": "🇸🇪 Sweden — #104"
+      "ping_ms": 525,
+      "name": "🇷🇺 VK — #1"
+    },
+    {
+      "cc": "RU",
+      "host": "217.16.31.162",
+      "port": 443,
+      "ping_ms": 1364,
+      "name": "🇷🇺 UFO Hosting — #11"
     }
   ],
-  "elapsed_seconds": 210.49,
-  "memory_peak_mb": 0.92
+  "elapsed_seconds": 125.66,
+  "memory_peak_mb": 0.55
 }
