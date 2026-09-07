@@ -1,56 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-07T20:36:52.841156+00:00",
-  "total_checked": 97,
-  "total_working": 6,
-  "total_dead": 91,
-  "survival_rate_pct": 6.2,
+  "updated_utc": "2026-09-07T21:40:16.854156+00:00",
+  "total_checked": 87,
+  "total_working": 11,
+  "total_dead": 76,
+  "survival_rate_pct": 12.6,
   "countries": 3,
-  "ping_min_ms": 259,
-  "ping_median_ms": 305,
-  "ping_max_ms": 434,
+  "ping_min_ms": 164,
+  "ping_median_ms": 274,
+  "ping_max_ms": 773,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 6
+    "reality": 10,
+    "tls": 1
   },
   "top_fastest": [
     {
       "cc": "DE",
-      "host": "185.22.235.203",
-      "port": 443,
-      "ping_ms": 259,
+      "host": "46.254.19.179",
+      "port": 8443,
+      "ping_ms": 164,
       "name": "🇩🇪 Germany — #28"
     },
     {
-      "cc": "EE",
-      "host": "91.215.40.6",
-      "port": 443,
-      "ping_ms": 264,
-      "name": "🇪🇪 Estonia — #54"
+      "cc": "DE",
+      "host": "185.229.9.236",
+      "port": 43005,
+      "ping_ms": 219,
+      "name": "🇩🇪 Germany — #37"
     },
     {
-      "cc": "EE",
-      "host": "91.215.40.6",
+      "cc": "RU",
+      "host": "217.16.31.162",
       "port": 443,
-      "ping_ms": 301,
-      "name": "🇪🇪 Estonia — #55"
+      "ping_ms": 262,
+      "name": "🇷🇺 UFO Hosting — #11"
     },
     {
       "cc": "NL",
       "host": "217.16.27.113",
       "port": 443,
-      "ping_ms": 309,
-      "name": "🇳🇱 The Netherlands — #89"
+      "ping_ms": 267,
+      "name": "🇳🇱 The Netherlands — #77"
     },
     {
       "cc": "DE",
-      "host": "46.254.19.179",
-      "port": 8443,
-      "ping_ms": 395,
-      "name": "🇩🇪 Germany — #29"
+      "host": "185.22.235.203",
+      "port": 443,
+      "ping_ms": 273,
+      "name": "🇩🇪 Germany — #27"
     }
   ],
-  "elapsed_seconds": 271.62,
-  "memory_peak_mb": 0.86
+  "elapsed_seconds": 201.93,
+  "memory_peak_mb": 0.83
 }
