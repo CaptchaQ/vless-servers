@@ -1,18 +1,56 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-08T16:42:21.582523+00:00",
-  "total_checked": 87,
-  "total_working": 0,
-  "total_dead": 87,
-  "survival_rate_pct": 0.0,
-  "countries": 0,
-  "ping_min_ms": null,
-  "ping_median_ms": null,
-  "ping_max_ms": null,
+  "updated_utc": "2026-09-08T17:46:22.673584+00:00",
+  "total_checked": 103,
+  "total_working": 8,
+  "total_dead": 95,
+  "survival_rate_pct": 7.8,
+  "countries": 3,
+  "ping_min_ms": 314,
+  "ping_median_ms": 585,
+  "ping_max_ms": 1088,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
-  "protocols": {},
-  "top_fastest": [],
-  "elapsed_seconds": 166.56,
-  "memory_peak_mb": 0.81
+  "protocols": {
+    "reality": 8
+  },
+  "top_fastest": [
+    {
+      "cc": "DE",
+      "host": "185.22.235.203",
+      "port": 443,
+      "ping_ms": 314,
+      "name": "🇩🇪 Germany — #31"
+    },
+    {
+      "cc": "FI",
+      "host": "79.174.92.85",
+      "port": 6443,
+      "ping_ms": 432,
+      "name": "🇫🇮 Finland — #60"
+    },
+    {
+      "cc": "FI",
+      "host": "79.174.92.85",
+      "port": 6443,
+      "ping_ms": 540,
+      "name": "🇫🇮 Finland — #55"
+    },
+    {
+      "cc": "FI",
+      "host": "79.174.92.85",
+      "port": 6443,
+      "ping_ms": 565,
+      "name": "🇫🇮 Finland — #58"
+    },
+    {
+      "cc": "FI",
+      "host": "79.174.92.85",
+      "port": 6443,
+      "ping_ms": 605,
+      "name": "🇫🇮 Finland — #57"
+    }
+  ],
+  "elapsed_seconds": 238.71,
+  "memory_peak_mb": 0.89
 }
