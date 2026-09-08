@@ -1,57 +1,35 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-08T07:15:24.224261+00:00",
-  "total_checked": 93,
-  "total_working": 13,
-  "total_dead": 80,
-  "survival_rate_pct": 14.0,
-  "countries": 5,
-  "ping_min_ms": 204,
-  "ping_median_ms": 302,
-  "ping_max_ms": 791,
+  "updated_utc": "2026-09-08T08:19:06.276918+00:00",
+  "total_checked": 83,
+  "total_working": 2,
+  "total_dead": 81,
+  "survival_rate_pct": 2.4,
+  "countries": 2,
+  "ping_min_ms": 320,
+  "ping_median_ms": 547,
+  "ping_max_ms": 774,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 10,
-    "tls": 3
+    "reality": 2
   },
   "top_fastest": [
     {
-      "cc": "LT",
-      "host": "188.225.84.42",
+      "cc": "DE",
+      "host": "185.22.235.203",
       "port": 443,
-      "ping_ms": 204,
-      "name": "🇱🇹 Lithuania — #60"
+      "ping_ms": 320,
+      "name": "🇩🇪 Germany — #19"
     },
     {
-      "cc": "FR",
-      "host": "31.129.42.37",
+      "cc": "RU",
+      "host": "217.16.31.218",
       "port": 443,
-      "ping_ms": 207,
-      "name": "🇫🇷 France — #50"
-    },
-    {
-      "cc": "CH",
-      "host": "46.243.142.89",
-      "port": 9443,
-      "ping_ms": 253,
-      "name": "🇨🇭 Switzerland — #18"
-    },
-    {
-      "cc": "CH",
-      "host": "46.243.142.89",
-      "port": 9443,
-      "ping_ms": 258,
-      "name": "🇨🇭 Switzerland — #15"
-    },
-    {
-      "cc": "CH",
-      "host": "46.243.142.184",
-      "port": 4443,
-      "ping_ms": 266,
-      "name": "🇨🇭 Switzerland — #16"
+      "ping_ms": 774,
+      "name": "🇷🇺 UFO Hosting — #8"
     }
   ],
-  "elapsed_seconds": 189.27,
-  "memory_peak_mb": 0.89
+  "elapsed_seconds": 219.92,
+  "memory_peak_mb": 0.99
 }
