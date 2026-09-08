@@ -1,22 +1,73 @@
 {
+  "DE": {
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "count": 4,
+    "min_ms": 334,
+    "max_ms": 592,
+    "median_ms": 393,
+    "avg_ms": 428,
+    "servers": [
+      {
+        "host": "185.229.9.236",
+        "port": 43005,
+        "ping_ms": 334,
+        "name": "🇩🇪 Germany — #36",
+        "ping_attempts": 2,
+        "ping_min": 334,
+        "ping_max": 349,
+        "ping_jitter": 15
+      },
+      {
+        "host": "185.22.235.203",
+        "port": 443,
+        "ping_ms": 344,
+        "name": "🇩🇪 Germany — #32",
+        "ping_attempts": 3,
+        "ping_min": 344,
+        "ping_max": 642,
+        "ping_jitter": 298
+      },
+      {
+        "host": "91.240.86.12",
+        "port": 443,
+        "ping_ms": 443,
+        "name": "🇩🇪 Germany — #38",
+        "ping_attempts": 1,
+        "ping_min": 443,
+        "ping_max": 443,
+        "ping_jitter": 0
+      },
+      {
+        "host": "31.131.255.31",
+        "port": 9891,
+        "ping_ms": 592,
+        "name": "🇩🇪 Germany — #31",
+        "ping_attempts": 3,
+        "ping_min": 592,
+        "ping_max": 2832,
+        "ping_jitter": 2240
+      }
+    ]
+  },
   "LT": {
     "name": "Lithuania",
     "flag": "🇱🇹",
     "count": 1,
-    "min_ms": 451,
-    "max_ms": 451,
-    "median_ms": 451,
-    "avg_ms": 451,
+    "min_ms": 635,
+    "max_ms": 635,
+    "median_ms": 635,
+    "avg_ms": 635,
     "servers": [
       {
-        "host": "95.129.236.216",
+        "host": "188.225.84.42",
         "port": 443,
-        "ping_ms": 451,
-        "name": "🇱🇹 Lithuania — #67",
-        "ping_attempts": 1,
-        "ping_min": 451,
-        "ping_max": 451,
-        "ping_jitter": 0
+        "ping_ms": 635,
+        "name": "🇱🇹 Lithuania — #75",
+        "ping_attempts": 4,
+        "ping_min": 635,
+        "ping_max": 1701,
+        "ping_jitter": 1066
       }
     ]
   },
@@ -24,20 +75,20 @@
     "name": "Netherlands",
     "flag": "🇳🇱",
     "count": 1,
-    "min_ms": 448,
-    "max_ms": 448,
-    "median_ms": 448,
-    "avg_ms": 448,
+    "min_ms": 408,
+    "max_ms": 408,
+    "median_ms": 408,
+    "avg_ms": 408,
     "servers": [
       {
         "host": "201.24.117.25",
         "port": 19210,
-        "ping_ms": 448,
-        "name": "🇳🇱 The Netherlands — #73",
+        "ping_ms": 408,
+        "name": "🇳🇱 The Netherlands — #81",
         "ping_attempts": 4,
-        "ping_min": 448,
-        "ping_max": 475,
-        "ping_jitter": 27
+        "ping_min": 408,
+        "ping_max": 478,
+        "ping_jitter": 70
       }
     ]
   }
