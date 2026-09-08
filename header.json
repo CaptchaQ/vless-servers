@@ -1,56 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-08T17:46:22.673584+00:00",
-  "total_checked": 103,
-  "total_working": 8,
-  "total_dead": 95,
-  "survival_rate_pct": 7.8,
+  "updated_utc": "2026-09-08T18:50:02.179014+00:00",
+  "total_checked": 97,
+  "total_working": 5,
+  "total_dead": 92,
+  "survival_rate_pct": 5.2,
   "countries": 3,
-  "ping_min_ms": 314,
-  "ping_median_ms": 585,
-  "ping_max_ms": 1088,
+  "ping_min_ms": 327,
+  "ping_median_ms": 521,
+  "ping_max_ms": 1301,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 8
+    "reality": 4,
+    "tls": 1
   },
   "top_fastest": [
     {
       "cc": "DE",
       "host": "185.22.235.203",
       "port": 443,
-      "ping_ms": 314,
-      "name": "🇩🇪 Germany — #31"
+      "ping_ms": 327,
+      "name": "🇩🇪 Germany — #33"
     },
     {
-      "cc": "FI",
-      "host": "79.174.92.85",
-      "port": 6443,
-      "ping_ms": 432,
-      "name": "🇫🇮 Finland — #60"
+      "cc": "DE",
+      "host": "213.219.214.33",
+      "port": 443,
+      "ping_ms": 345,
+      "name": "🇩🇪 Germany — #49"
     },
     {
-      "cc": "FI",
-      "host": "79.174.92.85",
-      "port": 6443,
-      "ping_ms": 540,
-      "name": "🇫🇮 Finland — #55"
+      "cc": "GB",
+      "host": "212.193.156.45",
+      "port": 443,
+      "ping_ms": 521,
+      "name": "🇬🇧 United Kingdom — #66"
     },
     {
-      "cc": "FI",
-      "host": "79.174.92.85",
-      "port": 6443,
-      "ping_ms": 565,
-      "name": "🇫🇮 Finland — #58"
+      "cc": "RU",
+      "host": "217.16.31.162",
+      "port": 443,
+      "ping_ms": 812,
+      "name": "🇷🇺 UFO Hosting — #10"
     },
     {
-      "cc": "FI",
-      "host": "79.174.92.85",
-      "port": 6443,
-      "ping_ms": 605,
-      "name": "🇫🇮 Finland — #57"
+      "cc": "RU",
+      "host": "217.16.31.162",
+      "port": 443,
+      "ping_ms": 1301,
+      "name": "🇷🇺 UFO Hosting — #11"
     }
   ],
-  "elapsed_seconds": 238.71,
-  "memory_peak_mb": 0.89
+  "elapsed_seconds": 217.2,
+  "memory_peak_mb": 0.91
 }
