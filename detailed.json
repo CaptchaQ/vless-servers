@@ -1,84 +1,147 @@
 {
+  "CZ": {
+    "name": "Czech Republic",
+    "flag": "🇨🇿",
+    "count": 2,
+    "min_ms": 499,
+    "max_ms": 1069,
+    "median_ms": 784,
+    "avg_ms": 784,
+    "servers": [
+      {
+        "host": "78.159.247.214",
+        "port": 443,
+        "ping_ms": 499,
+        "name": "🇨🇿 Czechia — #34",
+        "ping_attempts": 5,
+        "ping_min": 499,
+        "ping_max": 837,
+        "ping_jitter": 338
+      },
+      {
+        "host": "78.159.247.153",
+        "port": 443,
+        "ping_ms": 1069,
+        "name": "🇨🇿 Czechia — #33",
+        "ping_attempts": 4,
+        "ping_min": 1069,
+        "ping_max": 8500,
+        "ping_jitter": 7431
+      }
+    ]
+  },
   "DE": {
     "name": "Germany",
     "flag": "🇩🇪",
     "count": 1,
-    "min_ms": 436,
-    "max_ms": 436,
-    "median_ms": 436,
-    "avg_ms": 436,
+    "min_ms": 351,
+    "max_ms": 351,
+    "median_ms": 351,
+    "avg_ms": 351,
     "servers": [
       {
-        "host": "95.129.236.76",
+        "host": "185.22.235.203",
         "port": 443,
-        "ping_ms": 436,
-        "name": "🇩🇪 Germany — #51",
-        "ping_attempts": 1,
-        "ping_min": 436,
-        "ping_max": 436,
-        "ping_jitter": 0
+        "ping_ms": 351,
+        "name": "🇩🇪 Germany — #37",
+        "ping_attempts": 2,
+        "ping_min": 351,
+        "ping_max": 487,
+        "ping_jitter": 136
+      }
+    ]
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "count": 1,
+    "min_ms": 319,
+    "max_ms": 319,
+    "median_ms": 319,
+    "avg_ms": 319,
+    "servers": [
+      {
+        "host": "185.178.208.167",
+        "port": 443,
+        "ping_ms": 319,
+        "name": "🇬🇧 United Kingdom — #72",
+        "ping_attempts": 3,
+        "ping_min": 319,
+        "ping_max": 348,
+        "ping_jitter": 29
       }
     ]
   },
   "NL": {
     "name": "Netherlands",
     "flag": "🇳🇱",
-    "count": 1,
-    "min_ms": 407,
-    "max_ms": 407,
-    "median_ms": 407,
-    "avg_ms": 407,
+    "count": 2,
+    "min_ms": 458,
+    "max_ms": 469,
+    "median_ms": 463,
+    "avg_ms": 464,
     "servers": [
+      {
+        "host": "188.225.62.104",
+        "port": 443,
+        "ping_ms": 458,
+        "name": "🇳🇱 The Netherlands — #102",
+        "ping_attempts": 1,
+        "ping_min": 458,
+        "ping_max": 458,
+        "ping_jitter": 0
+      },
       {
         "host": "201.24.117.25",
         "port": 19210,
-        "ping_ms": 407,
-        "name": "🇳🇱 The Netherlands — #67",
-        "ping_attempts": 4,
-        "ping_min": 407,
-        "ping_max": 465,
-        "ping_jitter": 58
+        "ping_ms": 469,
+        "name": "🇳🇱 The Netherlands — #87",
+        "ping_attempts": 3,
+        "ping_min": 469,
+        "ping_max": 503,
+        "ping_jitter": 34
       }
     ]
   },
-  "RU": {
-    "name": "Russia",
-    "flag": "🇷🇺",
-    "count": 3,
-    "min_ms": 590,
-    "max_ms": 1404,
-    "median_ms": 1227,
-    "avg_ms": 1074,
+  "PL": {
+    "name": "Poland",
+    "flag": "🇵🇱",
+    "count": 1,
+    "min_ms": 709,
+    "max_ms": 709,
+    "median_ms": 709,
+    "avg_ms": 709,
     "servers": [
       {
-        "host": "217.16.31.162",
-        "port": 443,
-        "ping_ms": 590,
-        "name": "🇷🇺 UFO Hosting — #9",
+        "host": "84.201.142.221",
+        "port": 33743,
+        "ping_ms": 709,
+        "name": "🇵🇱 Poland — #103",
         "ping_attempts": 5,
-        "ping_min": 590,
-        "ping_max": 10072,
-        "ping_jitter": 9482
-      },
+        "ping_min": 709,
+        "ping_max": 1125,
+        "ping_jitter": 416
+      }
+    ]
+  },
+  "SE": {
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "count": 1,
+    "min_ms": 893,
+    "max_ms": 893,
+    "median_ms": 893,
+    "avg_ms": 893,
+    "servers": [
       {
-        "host": "217.16.31.162",
+        "host": "176.109.69.127",
         "port": 443,
-        "ping_ms": 1227,
-        "name": "🇷🇺 UFO Hosting — #8",
-        "ping_attempts": 3,
-        "ping_min": 1227,
-        "ping_max": 6288,
-        "ping_jitter": 5061
-      },
-      {
-        "host": "217.16.31.162",
-        "port": 443,
-        "ping_ms": 1404,
-        "name": "🇷🇺 UFO Hosting — #10",
-        "ping_attempts": 4,
-        "ping_min": 1404,
-        "ping_max": 7628,
-        "ping_jitter": 6224
+        "ping_ms": 893,
+        "name": "🇸🇪 Sweden — #110",
+        "ping_attempts": 5,
+        "ping_min": 893,
+        "ping_max": 2158,
+        "ping_jitter": 1265
       }
     ]
   }
