@@ -1,18 +1,28 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-10T07:49:34.790063+00:00",
-  "total_checked": 95,
-  "total_working": 0,
-  "total_dead": 95,
-  "survival_rate_pct": 0.0,
-  "countries": 0,
-  "ping_min_ms": null,
-  "ping_median_ms": null,
-  "ping_max_ms": null,
+  "updated_utc": "2026-09-10T08:51:47.698423+00:00",
+  "total_checked": 103,
+  "total_working": 1,
+  "total_dead": 102,
+  "survival_rate_pct": 1.0,
+  "countries": 1,
+  "ping_min_ms": 405,
+  "ping_median_ms": 405,
+  "ping_max_ms": 405,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
-  "protocols": {},
-  "top_fastest": [],
-  "elapsed_seconds": 100.47,
+  "protocols": {
+    "reality": 1
+  },
+  "top_fastest": [
+    {
+      "cc": "NL",
+      "host": "201.24.117.25",
+      "port": 19210,
+      "ping_ms": 405,
+      "name": "🇳🇱 The Netherlands — #86"
+    }
+  ],
+  "elapsed_seconds": 130.43,
   "memory_peak_mb": 0.88
 }
