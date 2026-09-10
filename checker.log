@@ -5999,3 +5999,28 @@
 2026-09-10 19:14:54,086 INFO   DE 185.229.9.74:443 — 518ms [🇩🇪 Germany — #20]
 2026-09-10 19:14:54,087 INFO   DE 212.233.78.90:443 — 536ms [🇩🇪 Germany — #33]
 2026-09-10 19:14:54,095 INFO Dashboard written to /out/index.html
+2026-09-10 19:14:54,131 INFO Removed stale country file from data repo: CH.txt
+2026-09-10 19:14:54,131 INFO Removed stale country file from data repo: LT.txt
+2026-09-10 19:14:54,131 INFO Removed stale country file from data repo: GB.txt
+2026-09-10 19:14:54,131 INFO Removed stale country file from data repo: FR.txt
+2026-09-10 19:14:54,131 INFO Synced out/ → /data
+2026-09-10 19:14:56,365 INFO Data repo pushed to origin/main
+2026-09-10 19:14:56,366 INFO Done in 189.3 s | Peak RAM: 0.8 MB | Alive: 12/77 (15.6%)
+2026-09-10 20:14:56,527 INFO ============================================================
+2026-09-10 20:14:56,557 INFO VLESS Checker starting...
+2026-09-10 20:14:56,915 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 107 links
+2026-09-10 20:14:56,917 INFO Total unique links: 107
+2026-09-10 20:14:56,995 INFO Parsed correctly: 107
+2026-09-10 20:15:02,106 INFO Alive (ping 0-800ms): 94 out of 107
+2026-09-10 20:15:02,109 INFO Phase 2: proxy ping via xray (94 servers, 10 workers)
+2026-09-10 20:18:06,444 INFO Proxy ping: 30 alive, 64 dead/unreachable (timeout 10s)
+2026-09-10 20:18:06,451 INFO Lite (top-3 per country): 20 servers + 4 info cards
+2026-09-10 20:18:06,451 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-10 20:18:06,461 INFO Written: 8 countries, stats.json ready
+2026-09-10 20:18:06,461 INFO Top 5 fastest:
+2026-09-10 20:18:06,462 INFO   CH 46.243.142.184:4443 — 248ms [🇨🇭 Switzerland — #13]
+2026-09-10 20:18:06,462 INFO   NL 188.225.62.104:443 — 251ms [🇳🇱 The Netherlands — #91]
+2026-09-10 20:18:06,462 INFO   CH 46.243.142.89:9443 — 258ms [🇨🇭 Switzerland — #15]
+2026-09-10 20:18:06,463 INFO   RU 95.143.188.10:443 — 278ms [🇷🇺 Selectel — #10]
+2026-09-10 20:18:06,463 INFO   CH 46.243.142.42:8443 — 279ms [🇨🇭 Switzerland — #11]
+2026-09-10 20:18:06,467 INFO Dashboard written to /out/index.html
