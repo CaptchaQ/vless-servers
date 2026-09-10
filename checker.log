@@ -5649,3 +5649,27 @@
 2026-09-10 00:27:25,215 INFO   DE 185.229.9.74:443 — 210ms [🇩🇪 Germany — #45]
 2026-09-10 00:27:25,215 INFO   NL 217.16.27.113:443 — 211ms [🇳🇱 The Netherlands — #101]
 2026-09-10 00:27:25,221 INFO Dashboard written to /out/index.html
+2026-09-10 00:27:25,232 INFO Removed stale country file from data repo: SE.txt
+2026-09-10 00:27:25,233 INFO Removed stale country file from data repo: GB.txt
+2026-09-10 00:27:25,233 INFO Removed stale country file from data repo: FR.txt
+2026-09-10 00:27:25,233 INFO Synced out/ → /data
+2026-09-10 00:27:27,116 INFO Data repo pushed to origin/main
+2026-09-10 00:27:27,117 INFO Done in 222.9 s | Peak RAM: 1.0 MB | Alive: 19/108 (17.6%)
+2026-09-10 01:27:27,236 INFO ============================================================
+2026-09-10 01:27:27,237 INFO VLESS Checker starting...
+2026-09-10 01:27:27,606 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 115 links
+2026-09-10 01:27:27,608 INFO Total unique links: 115
+2026-09-10 01:27:27,700 INFO Parsed correctly: 115
+2026-09-10 01:27:32,959 INFO Alive (ping 0-800ms): 92 out of 115
+2026-09-10 01:27:32,963 INFO Phase 2: proxy ping via xray (92 servers, 10 workers)
+2026-09-10 01:31:09,866 INFO Proxy ping: 21 alive, 71 dead/unreachable (timeout 10s)
+2026-09-10 01:31:09,884 INFO Lite (top-3 per country): 14 servers + 4 info cards
+2026-09-10 01:31:09,886 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-10 01:31:09,907 INFO Written: 7 countries, stats.json ready
+2026-09-10 01:31:09,907 INFO Top 5 fastest:
+2026-09-10 01:31:09,908 INFO   DE 91.240.86.12:443 — 228ms [🇩🇪 Germany — #41]
+2026-09-10 01:31:09,908 INFO   CH 46.243.142.42:8443 — 239ms [🇨🇭 Switzerland — #8]
+2026-09-10 01:31:09,909 INFO   DE 91.240.86.186:443 — 254ms [🇩🇪 Germany — #47]
+2026-09-10 01:31:09,909 INFO   DE 185.229.9.175:443 — 258ms [🇩🇪 Germany — #38]
+2026-09-10 01:31:09,910 INFO   LT 188.225.32.115:443 — 269ms [🇱🇹 Lithuania — #82]
+2026-09-10 01:31:09,915 INFO Dashboard written to /out/index.html
