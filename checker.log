@@ -5714,3 +5714,27 @@
 2026-09-10 03:38:15,142 INFO   SE 185.178.208.176:443 — 807ms [🇸🇪 Sweden — #125]
 2026-09-10 03:38:15,143 INFO   GB 46.235.186.168:443 — 842ms [🇬🇧 United Kingdom — #82]
 2026-09-10 03:38:15,182 INFO Dashboard written to /out/index.html
+2026-09-10 03:38:15,198 INFO Removed stale country file from data repo: CH.txt
+2026-09-10 03:38:15,198 INFO Removed stale country file from data repo: LT.txt
+2026-09-10 03:38:15,199 INFO Removed stale country file from data repo: DE.txt
+2026-09-10 03:38:15,199 INFO Removed stale country file from data repo: CZ.txt
+2026-09-10 03:38:15,200 INFO Synced out/ → /data
+2026-09-10 03:38:17,851 INFO Data repo pushed to origin/main
+2026-09-10 03:38:17,852 INFO Done in 184.1 s | Peak RAM: 1.0 MB | Alive: 3/125 (2.4%)
+2026-09-10 04:38:18,017 INFO ============================================================
+2026-09-10 04:38:18,017 INFO VLESS Checker starting...
+2026-09-10 04:38:18,371 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 129 links
+2026-09-10 04:38:18,373 INFO Total unique links: 129
+2026-09-10 04:38:18,458 INFO Parsed correctly: 129
+2026-09-10 04:38:28,557 INFO Alive (ping 0-800ms): 97 out of 129
+2026-09-10 04:38:28,560 INFO Phase 2: proxy ping via xray (97 servers, 10 workers)
+2026-09-10 04:41:25,248 INFO Proxy ping: 4 alive, 93 dead/unreachable (timeout 10s)
+2026-09-10 04:41:25,260 INFO Lite (top-3 per country): 4 servers + 4 info cards
+2026-09-10 04:41:25,261 INFO Best (top-20 globally): 4 servers + 4 info cards
+2026-09-10 04:41:25,274 INFO Written: 2 countries, stats.json ready
+2026-09-10 04:41:25,275 INFO Top 5 fastest:
+2026-09-10 04:41:25,276 INFO   NL 201.24.117.25:19210 — 395ms [🇳🇱 The Netherlands — #111]
+2026-09-10 04:41:25,277 INFO   NL 188.72.103.4:443 — 437ms [🇳🇱 The Netherlands — #101]
+2026-09-10 04:41:25,278 INFO   NL 217.16.27.113:443 — 1389ms [🇳🇱 The Netherlands — #124]
+2026-09-10 04:41:25,279 INFO   CZ 78.159.247.153:443 — 1415ms [🇨🇿 Czechia — #12]
+2026-09-10 04:41:25,286 INFO Dashboard written to /out/index.html
