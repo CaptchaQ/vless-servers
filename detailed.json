@@ -1,105 +1,32 @@
 {
-  "CH": {
-    "name": "Switzerland",
-    "flag": "🇨🇭",
-    "count": 1,
-    "min_ms": 317,
-    "max_ms": 317,
-    "median_ms": 317,
-    "avg_ms": 317,
-    "servers": [
-      {
-        "host": "46.243.142.184",
-        "port": 4443,
-        "ping_ms": 317,
-        "name": "🇨🇭 Switzerland — #11",
-        "ping_attempts": 3,
-        "ping_min": 317,
-        "ping_max": 3117,
-        "ping_jitter": 2800
-      }
-    ]
-  },
   "DE": {
     "name": "Germany",
     "flag": "🇩🇪",
     "count": 2,
-    "min_ms": 764,
-    "max_ms": 1190,
-    "median_ms": 977,
-    "avg_ms": 977,
+    "min_ms": 295,
+    "max_ms": 587,
+    "median_ms": 441,
+    "avg_ms": 441,
     "servers": [
       {
-        "host": "188.225.45.152",
+        "host": "185.229.9.74",
         "port": 443,
-        "ping_ms": 764,
-        "name": "🇩🇪 Germany — #17",
+        "ping_ms": 295,
+        "name": "🇩🇪 Germany — #24",
         "ping_attempts": 2,
-        "ping_min": 764,
-        "ping_max": 2603,
-        "ping_jitter": 1839
+        "ping_min": 295,
+        "ping_max": 462,
+        "ping_jitter": 167
       },
       {
         "host": "188.225.45.152",
         "port": 443,
-        "ping_ms": 1190,
-        "name": "🇩🇪 Germany — #16",
-        "ping_attempts": 4,
-        "ping_min": 1190,
-        "ping_max": 2770,
-        "ping_jitter": 1580
-      }
-    ]
-  },
-  "GB": {
-    "name": "United Kingdom",
-    "flag": "🇬🇧",
-    "count": 1,
-    "min_ms": 907,
-    "max_ms": 907,
-    "median_ms": 907,
-    "avg_ms": 907,
-    "servers": [
-      {
-        "host": "31.131.251.32",
-        "port": 443,
-        "ping_ms": 907,
-        "name": "🇬🇧 United Kingdom — #47",
-        "ping_attempts": 4,
-        "ping_min": 907,
-        "ping_max": 2516,
-        "ping_jitter": 1609
-      }
-    ]
-  },
-  "LT": {
-    "name": "Lithuania",
-    "flag": "🇱🇹",
-    "count": 2,
-    "min_ms": 340,
-    "max_ms": 376,
-    "median_ms": 358,
-    "avg_ms": 358,
-    "servers": [
-      {
-        "host": "188.225.32.115",
-        "port": 443,
-        "ping_ms": 340,
-        "name": "🇱🇹 Lithuania — #58",
-        "ping_attempts": 4,
-        "ping_min": 340,
-        "ping_max": 3420,
-        "ping_jitter": 3080
-      },
-      {
-        "host": "188.225.32.115",
-        "port": 443,
-        "ping_ms": 376,
-        "name": "🇱🇹 Lithuania — #56",
-        "ping_attempts": 2,
-        "ping_min": 376,
-        "ping_max": 4921,
-        "ping_jitter": 4545
+        "ping_ms": 587,
+        "name": "🇩🇪 Germany — #19",
+        "ping_attempts": 5,
+        "ping_min": 587,
+        "ping_max": 2814,
+        "ping_jitter": 2227
       }
     ]
   },
@@ -107,102 +34,122 @@
     "name": "Netherlands",
     "flag": "🇳🇱",
     "count": 1,
-    "min_ms": 557,
-    "max_ms": 557,
-    "median_ms": 557,
-    "avg_ms": 557,
+    "min_ms": 261,
+    "max_ms": 261,
+    "median_ms": 261,
+    "avg_ms": 261,
     "servers": [
       {
-        "host": "46.148.235.16",
-        "port": 9894,
-        "ping_ms": 557,
-        "name": "🇳🇱 The Netherlands — #67",
-        "ping_attempts": 3,
-        "ping_min": 557,
-        "ping_max": 2365,
-        "ping_jitter": 1808
+        "host": "188.225.62.104",
+        "port": 443,
+        "ping_ms": 261,
+        "name": "🇳🇱 The Netherlands — #77",
+        "ping_attempts": 1,
+        "ping_min": 261,
+        "ping_max": 261,
+        "ping_jitter": 0
       }
     ]
   },
   "PL": {
     "name": "Poland",
     "flag": "🇵🇱",
-    "count": 1,
-    "min_ms": 251,
-    "max_ms": 251,
-    "median_ms": 251,
-    "avg_ms": 251,
+    "count": 2,
+    "min_ms": 331,
+    "max_ms": 1299,
+    "median_ms": 815,
+    "avg_ms": 815,
     "servers": [
       {
         "host": "95.143.191.92",
         "port": 9844,
-        "ping_ms": 251,
+        "ping_ms": 331,
+        "name": "🇵🇱 Poland — #82",
+        "ping_attempts": 3,
+        "ping_min": 331,
+        "ping_max": 3345,
+        "ping_jitter": 3014
+      },
+      {
+        "host": "95.143.191.92",
+        "port": 9844,
+        "ping_ms": 1299,
         "name": "🇵🇱 Poland — #84",
         "ping_attempts": 3,
-        "ping_min": 251,
-        "ping_max": 3196,
-        "ping_jitter": 2945
+        "ping_min": 1299,
+        "ping_max": 4911,
+        "ping_jitter": 3612
       }
     ]
   },
   "RS": {
     "name": "Serbia",
     "flag": "🇷🇸",
-    "count": 5,
-    "min_ms": 321,
-    "max_ms": 979,
-    "median_ms": 343,
-    "avg_ms": 473,
+    "count": 6,
+    "min_ms": 312,
+    "max_ms": 868,
+    "median_ms": 425,
+    "avg_ms": 511,
     "servers": [
       {
         "host": "95.143.191.98",
         "port": 9889,
-        "ping_ms": 321,
-        "name": "🇷🇸 Serbia — #85",
-        "ping_attempts": 3,
-        "ping_min": 321,
-        "ping_max": 3391,
-        "ping_jitter": 3070
-      },
-      {
-        "host": "95.143.191.98",
-        "port": 9889,
-        "ping_ms": 328,
-        "name": "🇷🇸 Serbia — #90",
-        "ping_attempts": 3,
-        "ping_min": 328,
-        "ping_max": 4858,
-        "ping_jitter": 4530
-      },
-      {
-        "host": "95.143.191.98",
-        "port": 9889,
-        "ping_ms": 343,
-        "name": "🇷🇸 Serbia — #87",
-        "ping_attempts": 5,
-        "ping_min": 343,
-        "ping_max": 3119,
-        "ping_jitter": 2776
-      },
-      {
-        "host": "95.143.191.98",
-        "port": 9889,
-        "ping_ms": 395,
-        "name": "🇷🇸 Serbia — #86",
+        "ping_ms": 312,
+        "name": "🇷🇸 Serbia — #89",
         "ping_attempts": 2,
-        "ping_min": 395,
-        "ping_max": 5028,
-        "ping_jitter": 4633
+        "ping_min": 312,
+        "ping_max": 4462,
+        "ping_jitter": 4150
+      },
+      {
+        "host": "95.143.191.98",
+        "port": 9889,
+        "ping_ms": 331,
+        "name": "🇷🇸 Serbia — #85",
+        "ping_attempts": 2,
+        "ping_min": 331,
+        "ping_max": 10127,
+        "ping_jitter": 9796
+      },
+      {
+        "host": "95.143.191.98",
+        "port": 9889,
+        "ping_ms": 341,
+        "name": "🇷🇸 Serbia — #86",
+        "ping_attempts": 3,
+        "ping_min": 341,
+        "ping_max": 5089,
+        "ping_jitter": 4748
+      },
+      {
+        "host": "95.143.191.98",
+        "port": 9889,
+        "ping_ms": 509,
+        "name": "🇷🇸 Serbia — #88",
+        "ping_attempts": 3,
+        "ping_min": 509,
+        "ping_max": 6330,
+        "ping_jitter": 5821
+      },
+      {
+        "host": "95.143.191.98",
+        "port": 9889,
+        "ping_ms": 706,
+        "name": "🇷🇸 Serbia — #90",
+        "ping_attempts": 2,
+        "ping_min": 706,
+        "ping_max": 8539,
+        "ping_jitter": 7833
       },
       {
         "host": "188.225.39.107",
         "port": 14443,
-        "ping_ms": 979,
+        "ping_ms": 868,
         "name": "🇷🇸 Serbia — #91",
         "ping_attempts": 5,
-        "ping_min": 979,
-        "ping_max": 2098,
-        "ping_jitter": 1119
+        "ping_min": 868,
+        "ping_max": 4319,
+        "ping_jitter": 3451
       }
     ]
   },
@@ -210,50 +157,50 @@
     "name": "Russia",
     "flag": "🇷🇺",
     "count": 4,
-    "min_ms": 259,
-    "max_ms": 358,
-    "median_ms": 322,
-    "avg_ms": 316,
+    "min_ms": 252,
+    "max_ms": 323,
+    "median_ms": 253,
+    "avg_ms": 270,
     "servers": [
       {
         "host": "95.143.188.10",
         "port": 443,
-        "ping_ms": 259,
+        "ping_ms": 252,
+        "name": "🇷🇺 Selectel — #6",
+        "ping_attempts": 5,
+        "ping_min": 252,
+        "ping_max": 351,
+        "ping_jitter": 99
+      },
+      {
+        "host": "95.143.188.10",
+        "port": 443,
+        "ping_ms": 252,
+        "name": "🇷🇺 Selectel — #9",
+        "ping_attempts": 4,
+        "ping_min": 252,
+        "ping_max": 3677,
+        "ping_jitter": 3425
+      },
+      {
+        "host": "95.143.188.10",
+        "port": 443,
+        "ping_ms": 254,
         "name": "🇷🇺 Selectel — #8",
         "ping_attempts": 5,
-        "ping_min": 259,
-        "ping_max": 366,
-        "ping_jitter": 107
+        "ping_min": 254,
+        "ping_max": 346,
+        "ping_jitter": 92
       },
       {
         "host": "95.143.188.10",
         "port": 443,
-        "ping_ms": 321,
-        "name": "🇷🇺 Selectel — #6",
-        "ping_attempts": 4,
-        "ping_min": 321,
-        "ping_max": 338,
-        "ping_jitter": 17
-      },
-      {
-        "host": "95.143.188.10",
-        "port": 443,
-        "ping_ms": 324,
+        "ping_ms": 323,
         "name": "🇷🇺 Selectel — #7",
         "ping_attempts": 4,
-        "ping_min": 324,
-        "ping_max": 368,
-        "ping_jitter": 44
-      },
-      {
-        "host": "95.143.188.10",
-        "port": 443,
-        "ping_ms": 358,
-        "name": "🇷🇺 Selectel — #9",
-        "ping_attempts": 3,
-        "ping_min": 358,
-        "ping_max": 371,
-        "ping_jitter": 13
+        "ping_min": 323,
+        "ping_max": 373,
+        "ping_jitter": 50
       }
     ]
   }
