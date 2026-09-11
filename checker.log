@@ -6502,3 +6502,28 @@
 2026-09-11 19:19:15,201 INFO   DE 185.229.9.236:43005 — 450ms [🇩🇪 Germany — #28]
 2026-09-11 19:19:15,202 INFO   NL 188.225.78.192:443 — 499ms [🇳🇱 The Netherlands — #72]
 2026-09-11 19:19:15,229 INFO Dashboard written to /out/index.html
+2026-09-11 19:19:15,242 INFO Removed stale country file from data repo: RS.txt
+2026-09-11 19:19:15,242 INFO Removed stale country file from data repo: AT.txt
+2026-09-11 19:19:15,242 INFO Removed stale country file from data repo: RU.txt
+2026-09-11 19:19:15,243 INFO Removed stale country file from data repo: FR.txt
+2026-09-11 19:19:15,243 INFO Synced out/ → /data
+2026-09-11 19:19:17,543 INFO Data repo pushed to origin/main
+2026-09-11 19:19:17,544 INFO Done in 328.2 s | Peak RAM: 0.9 MB | Alive: 13/113 (11.5%)
+2026-09-11 20:19:17,712 INFO ============================================================
+2026-09-11 20:19:17,713 INFO VLESS Checker starting...
+2026-09-11 20:19:18,084 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 114 links
+2026-09-11 20:19:18,086 INFO Total unique links: 114
+2026-09-11 20:19:18,159 INFO Parsed correctly: 114
+2026-09-11 20:19:23,321 INFO Alive (ping 0-800ms): 102 out of 114
+2026-09-11 20:19:23,324 INFO Phase 2: proxy ping via xray (102 servers, 10 workers)
+2026-09-11 20:23:49,276 INFO Proxy ping: 11 alive, 91 dead/unreachable (timeout 10s)
+2026-09-11 20:23:49,296 INFO Lite (top-3 per country): 8 servers + 4 info cards
+2026-09-11 20:23:49,298 INFO Best (top-20 globally): 11 servers + 4 info cards
+2026-09-11 20:23:49,323 INFO Written: 4 countries, stats.json ready
+2026-09-11 20:23:49,325 INFO Top 5 fastest:
+2026-09-11 20:23:49,327 INFO   AT 188.225.24.89:8449 — 483ms [🇦🇹 Austria — #21]
+2026-09-11 20:23:49,328 INFO   AT 188.68.218.205:443 — 483ms [🇦🇹 Austria — #15]
+2026-09-11 20:23:49,330 INFO   RS 188.225.39.107:14443 — 490ms [🇷🇸 Serbia — #112]
+2026-09-11 20:23:49,332 INFO   AT 188.68.218.205:443 — 500ms [🇦🇹 Austria — #16]
+2026-09-11 20:23:49,334 INFO   AT 188.225.24.89:8449 — 506ms [🇦🇹 Austria — #19]
+2026-09-11 20:23:49,349 INFO Dashboard written to /out/index.html
