@@ -6727,3 +6727,27 @@
 2026-09-12 05:52:49,280 INFO   NL 185.141.227.155:20002 — 450ms [🇳🇱 The Netherlands — #80]
 2026-09-12 05:52:49,282 INFO   AT 188.68.218.205:443 — 453ms [🇦🇹 Austria — #8]
 2026-09-12 05:52:49,292 INFO Dashboard written to /out/index.html
+2026-09-12 05:52:49,307 INFO Removed stale country file from data repo: SE.txt
+2026-09-12 05:52:49,308 INFO Removed stale country file from data repo: RU.txt
+2026-09-12 05:52:49,308 INFO Removed stale country file from data repo: IS.txt
+2026-09-12 05:52:49,308 INFO Synced out/ → /data
+2026-09-12 05:52:51,241 INFO Data repo pushed to origin/main
+2026-09-12 05:52:51,242 INFO Done in 153.6 s | Peak RAM: 1.0 MB | Alive: 13/107 (12.1%)
+2026-09-12 06:52:51,381 INFO ============================================================
+2026-09-12 06:52:51,382 INFO VLESS Checker starting...
+2026-09-12 06:52:51,760 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 106 links
+2026-09-12 06:52:51,760 INFO Total unique links: 106
+2026-09-12 06:52:51,816 INFO Parsed correctly: 106
+2026-09-12 06:52:56,985 INFO Alive (ping 0-800ms): 92 out of 106
+2026-09-12 06:52:56,989 INFO Phase 2: proxy ping via xray (92 servers, 10 workers)
+2026-09-12 06:55:14,677 INFO Proxy ping: 8 alive, 84 dead/unreachable (timeout 10s)
+2026-09-12 06:55:14,684 INFO Lite (top-3 per country): 8 servers + 4 info cards
+2026-09-12 06:55:14,685 INFO Best (top-20 globally): 8 servers + 4 info cards
+2026-09-12 06:55:14,690 INFO Written: 4 countries, stats.json ready
+2026-09-12 06:55:14,690 INFO Top 5 fastest:
+2026-09-12 06:55:14,690 INFO   DE 188.225.45.152:443 — 374ms [🇩🇪 Germany — #20]
+2026-09-12 06:55:14,691 INFO   DE 188.225.45.152:443 — 413ms [🇩🇪 Germany — #21]
+2026-09-12 06:55:14,691 INFO   NL 217.16.27.113:443 — 467ms [🇳🇱 The Netherlands — #102]
+2026-09-12 06:55:14,692 INFO   RS 188.225.39.107:14443 — 490ms [🇷🇸 Serbia — #104]
+2026-09-12 06:55:14,692 INFO   NL 185.141.227.155:20002 — 631ms [🇳🇱 The Netherlands — #85]
+2026-09-12 06:55:14,696 INFO Dashboard written to /out/index.html
