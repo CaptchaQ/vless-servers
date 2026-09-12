@@ -1,42 +1,56 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-12T20:31:20.323068+00:00",
-  "total_checked": 33,
-  "total_working": 3,
-  "total_dead": 30,
-  "survival_rate_pct": 9.1,
-  "countries": 2,
-  "ping_min_ms": 428,
-  "ping_median_ms": 604,
-  "ping_max_ms": 1213,
+  "updated_utc": "2026-09-12T21:34:12.998154+00:00",
+  "total_checked": 38,
+  "total_working": 10,
+  "total_dead": 28,
+  "survival_rate_pct": 26.3,
+  "countries": 5,
+  "ping_min_ms": 444,
+  "ping_median_ms": 597,
+  "ping_max_ms": 1359,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 3
+    "reality": 10
   },
   "top_fastest": [
     {
       "cc": "AT",
       "host": "188.68.218.205",
       "port": 443,
-      "ping_ms": 428,
+      "ping_ms": 444,
       "name": "🇦🇹 Austria — #9"
     },
     {
-      "cc": "GB",
-      "host": "188.225.27.78",
+      "cc": "NL",
+      "host": "46.243.235.188",
       "port": 443,
-      "ping_ms": 604,
-      "name": "🇬🇧 United Kingdom — #15"
+      "ping_ms": 454,
+      "name": "🇳🇱 The Netherlands — #20"
     },
     {
       "cc": "AT",
       "host": "188.68.218.205",
       "port": 443,
-      "ping_ms": 1213,
-      "name": "🇦🇹 Austria — #11"
+      "ping_ms": 477,
+      "name": "🇦🇹 Austria — #8"
+    },
+    {
+      "cc": "GB",
+      "host": "188.225.27.78",
+      "port": 443,
+      "ping_ms": 507,
+      "name": "🇬🇧 United Kingdom — #18"
+    },
+    {
+      "cc": "NL",
+      "host": "188.225.75.183",
+      "port": 12443,
+      "ping_ms": 550,
+      "name": "🇳🇱 The Netherlands — #28"
     }
   ],
-  "elapsed_seconds": 172.38,
+  "elapsed_seconds": 170.51,
   "memory_peak_mb": 0.52
 }
