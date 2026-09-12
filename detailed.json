@@ -2,21 +2,62 @@
   "AT": {
     "name": "Austria",
     "flag": "🇦🇹",
-    "count": 1,
-    "min_ms": 1310,
-    "max_ms": 1310,
-    "median_ms": 1310,
-    "avg_ms": 1310,
+    "count": 3,
+    "min_ms": 482,
+    "max_ms": 1326,
+    "median_ms": 676,
+    "avg_ms": 828,
     "servers": [
       {
         "host": "188.68.218.205",
         "port": 443,
-        "ping_ms": 1310,
+        "ping_ms": 482,
+        "name": "🇦🇹 Austria — #7",
+        "ping_attempts": 5,
+        "ping_min": 482,
+        "ping_max": 10143,
+        "ping_jitter": 9661
+      },
+      {
+        "host": "188.68.218.205",
+        "port": 443,
+        "ping_ms": 676,
         "name": "🇦🇹 Austria — #11",
         "ping_attempts": 3,
-        "ping_min": 1310,
-        "ping_max": 3208,
-        "ping_jitter": 1898
+        "ping_min": 676,
+        "ping_max": 8839,
+        "ping_jitter": 8163
+      },
+      {
+        "host": "188.68.218.205",
+        "port": 443,
+        "ping_ms": 1326,
+        "name": "🇦🇹 Austria — #10",
+        "ping_attempts": 2,
+        "ping_min": 1326,
+        "ping_max": 3440,
+        "ping_jitter": 2114
+      }
+    ]
+  },
+  "RS": {
+    "name": "Serbia",
+    "flag": "🇷🇸",
+    "count": 1,
+    "min_ms": 737,
+    "max_ms": 737,
+    "median_ms": 737,
+    "avg_ms": 737,
+    "servers": [
+      {
+        "host": "188.225.39.107",
+        "port": 14443,
+        "ping_ms": 737,
+        "name": "🇷🇸 Serbia — #23",
+        "ping_attempts": 5,
+        "ping_min": 737,
+        "ping_max": 4460,
+        "ping_jitter": 3723
       }
     ]
   }
