@@ -1,18 +1,18 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-13T05:56:08.023740+00:00",
-  "total_checked": 112,
-  "total_working": 16,
-  "total_dead": 96,
-  "survival_rate_pct": 14.3,
+  "updated_utc": "2026-09-13T06:58:40.576170+00:00",
+  "total_checked": 102,
+  "total_working": 22,
+  "total_dead": 80,
+  "survival_rate_pct": 21.6,
   "countries": 9,
-  "ping_min_ms": 176,
-  "ping_median_ms": 642,
-  "ping_max_ms": 1471,
+  "ping_min_ms": 196,
+  "ping_median_ms": 461,
+  "ping_max_ms": 1462,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 14,
+    "reality": 20,
     "tls": 2
   },
   "top_fastest": [
@@ -20,38 +20,38 @@
       "cc": "KZ",
       "host": "62.233.39.9",
       "port": 8443,
-      "ping_ms": 176,
-      "name": "🇰🇿 Kazakhstan — #71"
+      "ping_ms": 196,
+      "name": "🇰🇿 Kazakhstan — #66"
+    },
+    {
+      "cc": "PL",
+      "host": "178.248.236.209",
+      "port": 10443,
+      "ping_ms": 200,
+      "name": "🇵🇱 Poland — #93"
+    },
+    {
+      "cc": "NL",
+      "host": "185.241.195.202",
+      "port": 9444,
+      "ping_ms": 201,
+      "name": "🇳🇱 The Netherlands — #91"
+    },
+    {
+      "cc": "GB",
+      "host": "62.233.39.9",
+      "port": 443,
+      "ping_ms": 211,
+      "name": "🇬🇧 United Kingdom — #53"
     },
     {
       "cc": "RU",
       "host": "45.91.55.208",
       "port": 443,
-      "ping_ms": 228,
+      "ping_ms": 223,
       "name": "🇷🇺 Delta — #5"
-    },
-    {
-      "cc": "PL",
-      "host": "178.248.236.209",
-      "port": 10443,
-      "ping_ms": 358,
-      "name": "🇵🇱 Poland — #108"
-    },
-    {
-      "cc": "DE",
-      "host": "185.229.9.175",
-      "port": 443,
-      "ping_ms": 363,
-      "name": "🇩🇪 Germany — #38"
-    },
-    {
-      "cc": "PL",
-      "host": "178.248.236.209",
-      "port": 10443,
-      "ping_ms": 375,
-      "name": "🇵🇱 Poland — #107"
     }
   ],
-  "elapsed_seconds": 169.76,
-  "memory_peak_mb": 0.95
+  "elapsed_seconds": 150.4,
+  "memory_peak_mb": 0.91
 }
