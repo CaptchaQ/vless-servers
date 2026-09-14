@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-14T03:43:31.330666+00:00",
-  "total_checked": 140,
-  "total_working": 37,
-  "total_dead": 103,
-  "survival_rate_pct": 26.4,
-  "countries": 13,
-  "ping_min_ms": 201,
-  "ping_median_ms": 404,
-  "ping_max_ms": 3622,
+  "updated_utc": "2026-09-14T04:48:06.518526+00:00",
+  "total_checked": 143,
+  "total_working": 31,
+  "total_dead": 112,
+  "survival_rate_pct": 21.7,
+  "countries": 11,
+  "ping_min_ms": 228,
+  "ping_median_ms": 677,
+  "ping_max_ms": 1493,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 33,
-    "tls": 4
+    "reality": 25,
+    "tls": 6
   },
   "top_fastest": [
-    {
-      "cc": "GB",
-      "host": "62.233.39.9",
-      "port": 8443,
-      "ping_ms": 201,
-      "name": "🇬🇧 United Kingdom — #76"
-    },
-    {
-      "cc": "GB",
-      "host": "62.233.39.9",
-      "port": 8443,
-      "ping_ms": 217,
-      "name": "🇬🇧 United Kingdom — #74"
-    },
     {
       "cc": "RU",
       "host": "45.91.55.208",
       "port": 443,
-      "ping_ms": 219,
+      "ping_ms": 228,
       "name": "🇷🇺 Delta — #5"
     },
     {
-      "cc": "KZ",
-      "host": "62.233.39.9",
-      "port": 8443,
-      "ping_ms": 221,
-      "name": "🇰🇿 Kazakhstan — #97"
+      "cc": "NL",
+      "host": "217.16.27.113",
+      "port": 443,
+      "ping_ms": 230,
+      "name": "🇳🇱 The Netherlands — #125"
+    },
+    {
+      "cc": "DE",
+      "host": "201.24.50.67",
+      "port": 9892,
+      "ping_ms": 242,
+      "name": "🇩🇪 Germany — #40"
     },
     {
       "cc": "GB",
       "host": "62.233.39.9",
       "port": 443,
-      "ping_ms": 241,
-      "name": "🇬🇧 United Kingdom — #77"
+      "ping_ms": 260,
+      "name": "🇬🇧 United Kingdom — #75"
+    },
+    {
+      "cc": "GB",
+      "host": "62.233.39.9",
+      "port": 443,
+      "ping_ms": 265,
+      "name": "🇬🇧 United Kingdom — #82"
     }
   ],
-  "elapsed_seconds": 194.16,
-  "memory_peak_mb": 1.1
+  "elapsed_seconds": 272.64,
+  "memory_peak_mb": 1.11
 }
