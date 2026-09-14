@@ -7827,3 +7827,29 @@
 2026-09-14 09:02:15,134 INFO   GB 185.22.235.181:443 — 367ms [🇬🇧 United Kingdom — #82]
 2026-09-14 09:02:15,135 INFO   DE 46.182.24.147:443 — 1282ms [🇩🇪 Germany — #41]
 2026-09-14 09:02:15,141 INFO Dashboard written to /out/index.html
+2026-09-14 09:02:15,152 INFO Removed stale country file from data repo: NL.txt
+2026-09-14 09:02:15,153 INFO Removed stale country file from data repo: AT.txt
+2026-09-14 09:02:15,153 INFO Removed stale country file from data repo: LT.txt
+2026-09-14 09:02:15,153 INFO Removed stale country file from data repo: KZ.txt
+2026-09-14 09:02:15,153 INFO Removed stale country file from data repo: CZ.txt
+2026-09-14 09:02:15,154 INFO Synced out/ → /data
+2026-09-14 09:02:17,198 INFO Data repo pushed to origin/main
+2026-09-14 09:02:17,198 INFO Done in 261.8 s | Peak RAM: 1.0 MB | Alive: 6/123 (4.9%)
+2026-09-14 10:02:17,380 INFO ============================================================
+2026-09-14 10:02:17,381 INFO VLESS Checker starting...
+2026-09-14 10:02:17,725 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 151 links
+2026-09-14 10:02:17,726 INFO Total unique links: 151
+2026-09-14 10:02:17,818 INFO Parsed correctly: 151
+2026-09-14 10:02:23,106 INFO Alive (ping 0-800ms): 137 out of 151
+2026-09-14 10:02:23,107 INFO Phase 2: proxy ping via xray (137 servers, 10 workers)
+2026-09-14 10:05:19,999 INFO Proxy ping: 5 alive, 132 dead/unreachable (timeout 10s)
+2026-09-14 10:05:20,008 INFO Lite (top-3 per country): 5 servers + 4 info cards
+2026-09-14 10:05:20,009 INFO Best (top-20 globally): 5 servers + 4 info cards
+2026-09-14 10:05:20,021 INFO Written: 5 countries, stats.json ready
+2026-09-14 10:05:20,022 INFO Top 5 fastest:
+2026-09-14 10:05:20,023 INFO   NL 217.16.27.113:443 — 365ms [🇳🇱 The Netherlands — #141]
+2026-09-14 10:05:20,024 INFO   PL 178.248.236.209:10443 — 368ms [🇵🇱 Poland — #148]
+2026-09-14 10:05:20,024 INFO   RS 188.225.45.152:443 — 458ms [🇷🇸 Serbia — #149]
+2026-09-14 10:05:20,025 INFO   RU 45.91.55.208:443 — 1281ms [🇷🇺 Delta — #5]
+2026-09-14 10:05:20,025 INFO   DE 201.24.50.67:9892 — 1368ms [🇩🇪 Germany — #34]
+2026-09-14 10:05:20,032 INFO Dashboard written to /out/index.html
