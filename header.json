@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-14T13:13:05.854608+00:00",
-  "total_checked": 87,
-  "total_working": 13,
-  "total_dead": 74,
-  "survival_rate_pct": 14.9,
+  "updated_utc": "2026-09-14T14:15:34.682316+00:00",
+  "total_checked": 95,
+  "total_working": 30,
+  "total_dead": 65,
+  "survival_rate_pct": 31.6,
   "countries": 8,
-  "ping_min_ms": 273,
-  "ping_median_ms": 786,
-  "ping_max_ms": 1498,
+  "ping_min_ms": 259,
+  "ping_median_ms": 466,
+  "ping_max_ms": 1464,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 8,
-    "tls": 5
+    "reality": 27,
+    "tls": 3
   },
   "top_fastest": [
     {
       "cc": "DE",
       "host": "185.229.9.236",
       "port": 43005,
-      "ping_ms": 273,
-      "name": "🇩🇪 Germany — #35"
+      "ping_ms": 259,
+      "name": "🇩🇪 Germany — #41"
+    },
+    {
+      "cc": "DE",
+      "host": "185.229.9.175",
+      "port": 443,
+      "ping_ms": 287,
+      "name": "🇩🇪 Germany — #43"
     },
     {
       "cc": "RU",
       "host": "45.91.55.208",
       "port": 443,
-      "ping_ms": 297,
+      "ping_ms": 357,
       "name": "🇷🇺 Delta — #5"
     },
     {
       "cc": "DE",
       "host": "91.240.86.12",
       "port": 443,
-      "ping_ms": 436,
-      "name": "🇩🇪 Germany — #33"
-    },
-    {
-      "cc": "NL",
-      "host": "217.16.27.113",
-      "port": 443,
-      "ping_ms": 507,
-      "name": "🇳🇱 The Netherlands — #77"
+      "ping_ms": 365,
+      "name": "🇩🇪 Germany — #38"
     },
     {
       "cc": "DE",
-      "host": "185.229.9.74",
+      "host": "46.182.24.147",
       "port": 443,
-      "ping_ms": 605,
-      "name": "🇩🇪 Germany — #41"
+      "ping_ms": 374,
+      "name": "🇩🇪 Germany — #22"
     }
   ],
-  "elapsed_seconds": 151.19,
-  "memory_peak_mb": 0.84
+  "elapsed_seconds": 146.53,
+  "memory_peak_mb": 0.9
 }
