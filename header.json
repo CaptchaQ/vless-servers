@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-18T21:04:10.257500+00:00",
-  "total_checked": 83,
-  "total_working": 11,
-  "total_dead": 72,
-  "survival_rate_pct": 13.3,
-  "countries": 5,
-  "ping_min_ms": 222,
-  "ping_median_ms": 267,
-  "ping_max_ms": 1037,
+  "updated_utc": "2026-09-18T22:07:19.395590+00:00",
+  "total_checked": 89,
+  "total_working": 50,
+  "total_dead": 39,
+  "survival_rate_pct": 56.2,
+  "countries": 7,
+  "ping_min_ms": 152,
+  "ping_median_ms": 281,
+  "ping_max_ms": 1465,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 10,
-    "tls": 1
+    "reality": 38,
+    "tls": 12
   },
   "top_fastest": [
     {
-      "cc": "DE",
-      "host": "46.243.142.227",
-      "port": 10443,
-      "ping_ms": 222,
-      "name": "🇩🇪 Germany — #19"
+      "cc": "NL",
+      "host": "46.243.142.184",
+      "port": 8444,
+      "ping_ms": 152,
+      "name": "🇳🇱 The Netherlands — #73"
     },
     {
-      "cc": "DE",
-      "host": "46.243.142.227",
-      "port": 10443,
-      "ping_ms": 235,
-      "name": "🇩🇪 Germany — #20"
-    },
-    {
-      "cc": "PL",
-      "host": "176.123.161.222",
-      "port": 9892,
-      "ping_ms": 243,
-      "name": "🇵🇱 Poland — #81"
-    },
-    {
-      "cc": "FR",
-      "host": "176.123.162.100",
-      "port": 9880,
-      "ping_ms": 245,
-      "name": "🇫🇷 France — #46"
-    },
-    {
-      "cc": "DE",
-      "host": "185.229.9.175",
+      "cc": "GB",
+      "host": "185.22.235.63",
       "port": 443,
-      "ping_ms": 248,
-      "name": "🇩🇪 Germany — #24"
+      "ping_ms": 153,
+      "name": "🇬🇧 United Kingdom — #57"
+    },
+    {
+      "cc": "NL",
+      "host": "46.243.142.184",
+      "port": 8444,
+      "ping_ms": 155,
+      "name": "🇳🇱 The Netherlands — #79"
+    },
+    {
+      "cc": "GB",
+      "host": "185.22.235.181",
+      "port": 443,
+      "ping_ms": 162,
+      "name": "🇬🇧 United Kingdom — #59"
+    },
+    {
+      "cc": "GB",
+      "host": "185.22.235.181",
+      "port": 443,
+      "ping_ms": 163,
+      "name": "🇬🇧 United Kingdom — #58"
     }
   ],
-  "elapsed_seconds": 182.7,
-  "memory_peak_mb": 0.88
+  "elapsed_seconds": 186.9,
+  "memory_peak_mb": 0.85
 }
