@@ -10134,3 +10134,24 @@
 2026-09-18 23:13:26,110 INFO   DE 46.243.142.227:10443 — 183ms [🇩🇪 Germany — #12]
 2026-09-18 23:13:26,110 INFO   GB 62.233.39.9:443 — 190ms [🇬🇧 United Kingdom — #57]
 2026-09-18 23:13:26,114 INFO Dashboard written to /out/index.html
+2026-09-18 23:13:26,127 INFO Synced out/ → /data
+2026-09-18 23:15:42,007 ERROR Data repo push failed: fatal: unable to access 'https://github.com/CaptchaQ/vless-servers.git/': Failed to connect to github.com:443 after 135828 ms: Could not connect to server
+2026-09-18 23:15:42,008 INFO Done in 233.0 s | Peak RAM: 1.0 MB | Alive: 51/113 (45.1%)
+2026-09-19 00:15:42,168 INFO ============================================================
+2026-09-19 00:15:42,168 INFO VLESS Checker starting...
+2026-09-19 00:15:42,510 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 111 links
+2026-09-19 00:15:42,511 INFO Total unique links: 111
+2026-09-19 00:15:42,573 INFO Parsed correctly: 111
+2026-09-19 00:15:47,723 INFO Alive (ping 0-800ms): 101 out of 111
+2026-09-19 00:15:47,726 INFO Phase 2: proxy ping via xray (101 servers, 10 workers)
+2026-09-19 00:19:40,454 INFO Proxy ping: 51 alive, 50 dead/unreachable (timeout 10s)
+2026-09-19 00:19:40,467 INFO Lite (top-3 per country): 19 servers + 4 info cards
+2026-09-19 00:19:40,468 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-19 00:19:40,488 INFO Written: 9 countries, stats.json ready
+2026-09-19 00:19:40,489 INFO Top 5 fastest:
+2026-09-19 00:19:40,489 INFO   DE 46.243.142.227:10443 — 110ms [🇩🇪 Germany — #10]
+2026-09-19 00:19:40,489 INFO   NL 84.201.146.8:443 — 114ms [🇳🇱 The Netherlands — #77]
+2026-09-19 00:19:40,490 INFO   RU 147.45.175.81:443 — 120ms [🇷🇺 Timeweb — #6]
+2026-09-19 00:19:40,490 INFO   GB 185.22.235.181:443 — 152ms [🇬🇧 United Kingdom — #59]
+2026-09-19 00:19:40,491 INFO   NL 46.243.142.184:8444 — 152ms [🇳🇱 The Netherlands — #93]
+2026-09-19 00:19:40,495 INFO Dashboard written to /out/index.html
