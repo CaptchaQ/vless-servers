@@ -10409,3 +10409,27 @@
 2026-09-19 12:03:47,220 INFO   NL 188.225.62.104:443 — 174ms [🇳🇱 The Netherlands — #95]
 2026-09-19 12:03:47,220 INFO   NL 46.243.142.184:8444 — 181ms [🇳🇱 The Netherlands — #70]
 2026-09-19 12:03:47,225 INFO Dashboard written to /out/index.html
+2026-09-19 12:03:47,238 INFO Removed stale country file from data repo: CH.txt
+2026-09-19 12:03:47,238 INFO Removed stale country file from data repo: GB.txt
+2026-09-19 12:03:47,238 INFO Removed stale country file from data repo: FR.txt
+2026-09-19 12:03:47,238 INFO Synced out/ → /data
+2026-09-19 12:06:01,272 ERROR Data repo push failed: fatal: unable to access 'https://github.com/CaptchaQ/vless-servers.git/': Failed to connect to github.com:443 after 133981 ms: Could not connect to server
+2026-09-19 12:06:01,273 INFO Done in 145.0 s | Peak RAM: 1.0 MB | Alive: 27/98 (27.6%)
+2026-09-19 13:06:01,441 INFO ============================================================
+2026-09-19 13:06:01,441 INFO VLESS Checker starting...
+2026-09-19 13:06:01,754 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 106 links
+2026-09-19 13:06:01,756 INFO Total unique links: 106
+2026-09-19 13:06:01,831 INFO Parsed correctly: 106
+2026-09-19 13:06:06,933 INFO Alive (ping 0-800ms): 99 out of 106
+2026-09-19 13:06:06,936 INFO Phase 2: proxy ping via xray (99 servers, 10 workers)
+2026-09-19 13:09:48,399 INFO Proxy ping: 57 alive, 42 dead/unreachable (timeout 10s)
+2026-09-19 13:09:48,422 INFO Lite (top-3 per country): 20 servers + 4 info cards
+2026-09-19 13:09:48,424 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-19 13:09:48,452 INFO Written: 8 countries, stats.json ready
+2026-09-19 13:09:48,453 INFO Top 5 fastest:
+2026-09-19 13:09:48,453 INFO   NL 46.243.142.184:8444 — 158ms [🇳🇱 The Netherlands — #94]
+2026-09-19 13:09:48,454 INFO   NL 46.243.142.184:8444 — 165ms [🇳🇱 The Netherlands — #83]
+2026-09-19 13:09:48,454 INFO   NL 46.243.142.184:8444 — 165ms [🇳🇱 The Netherlands — #92]
+2026-09-19 13:09:48,455 INFO   GB 185.22.235.181:443 — 165ms [🇬🇧 United Kingdom — #60]
+2026-09-19 13:09:48,455 INFO   GB 87.242.127.110:9443 — 170ms [🇬🇧 United Kingdom — #62]
+2026-09-19 13:09:48,460 INFO Dashboard written to /out/index.html
