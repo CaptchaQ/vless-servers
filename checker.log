@@ -10155,3 +10155,29 @@
 2026-09-19 00:19:40,490 INFO   GB 185.22.235.181:443 — 152ms [🇬🇧 United Kingdom — #59]
 2026-09-19 00:19:40,491 INFO   NL 46.243.142.184:8444 — 152ms [🇳🇱 The Netherlands — #93]
 2026-09-19 00:19:40,495 INFO Dashboard written to /out/index.html
+2026-09-19 00:19:40,510 INFO Removed stale country file from data repo: LT.txt
+2026-09-19 00:19:40,510 INFO Synced out/ → /data
+2026-09-19 00:20:18,528 INFO Data repo pushed to origin/main
+2026-09-19 00:20:18,528 INFO Done in 238.3 s | Peak RAM: 1.0 MB | Alive: 51/111 (45.9%)
+2026-09-19 01:20:18,681 INFO ============================================================
+2026-09-19 01:20:18,681 INFO VLESS Checker starting...
+2026-09-19 01:20:19,048 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 132 links
+2026-09-19 01:20:19,050 INFO Total unique links: 132
+2026-09-19 01:20:19,128 INFO Parsed correctly: 132
+2026-09-19 01:20:24,321 INFO Alive (ping 0-800ms): 124 out of 132
+2026-09-19 01:20:24,325 INFO Phase 2: proxy ping via xray (124 servers, 10 workers)
+2026-09-19 01:20:24,328 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-19 01:20:24,329 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-19 01:20:24,331 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-19 01:20:24,334 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-19 01:24:37,619 INFO Proxy ping: 72 alive, 52 dead/unreachable (timeout 10s)
+2026-09-19 01:24:37,637 INFO Lite (top-3 per country): 25 servers + 4 info cards
+2026-09-19 01:24:37,638 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-19 01:24:37,663 INFO Written: 10 countries, stats.json ready
+2026-09-19 01:24:37,664 INFO Top 5 fastest:
+2026-09-19 01:24:37,664 INFO   NL 178.176.128.128:443 — 6ms [🇳🇱 The Netherlands — #88]
+2026-09-19 01:24:37,664 INFO   PL 178.176.128.128:443 — 6ms [🇵🇱 Poland — #126]
+2026-09-19 01:24:37,665 INFO   NL 178.176.128.128:443 — 7ms [🇳🇱 The Netherlands — #87]
+2026-09-19 01:24:37,665 INFO   EE 178.176.128.128:443 — 17ms [🇪🇪 Estonia — #55]
+2026-09-19 01:24:37,665 INFO   RU 147.45.175.81:443 — 109ms [🇷🇺 Timeweb — #10]
+2026-09-19 01:24:37,670 INFO Dashboard written to /out/index.html
