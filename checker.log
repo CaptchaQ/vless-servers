@@ -10675,3 +10675,32 @@
 2026-09-20 00:48:49,224 INFO   NL 46.243.142.184:8444 — 169ms [🇳🇱 The Netherlands — #99]
 2026-09-20 00:48:49,225 INFO   DE 46.243.142.227:10443 — 198ms [🇩🇪 Germany — #12]
 2026-09-20 00:48:49,230 INFO Dashboard written to /out/index.html
+2026-09-20 00:48:49,243 INFO Removed stale country file from data repo: IN.txt
+2026-09-20 00:48:49,243 INFO Removed stale country file from data repo: FR.txt
+2026-09-20 00:48:49,243 INFO Synced out/ → /data
+2026-09-20 00:48:51,382 INFO Data repo pushed to origin/main
+2026-09-20 00:48:51,383 INFO Done in 173.8 s | Peak RAM: 1.0 MB | Alive: 42/119 (35.3%)
+2026-09-20 01:48:51,537 INFO ============================================================
+2026-09-20 01:48:51,537 INFO VLESS Checker starting...
+2026-09-20 01:48:51,900 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 147 links
+2026-09-20 01:48:51,902 INFO Total unique links: 147
+2026-09-20 01:48:51,983 INFO Parsed correctly: 147
+2026-09-20 01:48:57,164 INFO Alive (ping 0-800ms): 138 out of 147
+2026-09-20 01:48:57,166 INFO Phase 2: proxy ping via xray (138 servers, 10 workers)
+2026-09-20 01:48:57,167 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-20 01:48:57,168 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-20 01:48:57,170 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-20 01:48:57,171 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-20 01:48:57,172 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-20 01:48:57,174 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-20 01:54:14,451 INFO Proxy ping: 54 alive, 84 dead/unreachable (timeout 10s)
+2026-09-20 01:54:14,464 INFO Lite (top-3 per country): 21 servers + 4 info cards
+2026-09-20 01:54:14,466 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-20 01:54:14,486 INFO Written: 11 countries, stats.json ready
+2026-09-20 01:54:14,486 INFO Top 5 fastest:
+2026-09-20 01:54:14,487 INFO   PL 178.176.128.128:443 — 3ms [🇵🇱 Poland — #141]
+2026-09-20 01:54:14,487 INFO   LT 178.176.128.128:443 — 3ms [🇱🇹 Lithuania — #81]
+2026-09-20 01:54:14,487 INFO   EE 178.176.128.128:443 — 3ms [🇪🇪 Estonia — #57]
+2026-09-20 01:54:14,488 INFO   EE 178.176.128.128:443 — 3ms [🇪🇪 Estonia — #55]
+2026-09-20 01:54:14,488 INFO   EE 178.176.128.128:443 — 3ms [🇪🇪 Estonia — #56]
+2026-09-20 01:54:14,492 INFO Dashboard written to /out/index.html
