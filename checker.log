@@ -10779,3 +10779,28 @@
 2026-09-20 05:01:52,890 INFO   NL 46.243.142.184:8444 — 158ms [🇳🇱 The Netherlands — #93]
 2026-09-20 05:01:52,890 INFO   NL 46.243.142.184:8444 — 160ms [🇳🇱 The Netherlands — #96]
 2026-09-20 05:01:52,894 INFO Dashboard written to /out/index.html
+2026-09-20 05:01:52,908 INFO Removed stale country file from data repo: SE.txt
+2026-09-20 05:01:52,908 INFO Removed stale country file from data repo: LT.txt
+2026-09-20 05:01:52,908 INFO Removed stale country file from data repo: PL.txt
+2026-09-20 05:01:52,909 INFO Removed stale country file from data repo: RU.txt
+2026-09-20 05:01:52,909 INFO Synced out/ → /data
+2026-09-20 05:01:54,940 INFO Data repo pushed to origin/main
+2026-09-20 05:01:54,941 INFO Done in 130.2 s | Peak RAM: 1.0 MB | Alive: 43/111 (38.7%)
+2026-09-20 06:01:55,100 INFO ============================================================
+2026-09-20 06:01:55,100 INFO VLESS Checker starting...
+2026-09-20 06:01:55,450 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 119 links
+2026-09-20 06:01:55,451 INFO Total unique links: 119
+2026-09-20 06:01:55,532 INFO Parsed correctly: 119
+2026-09-20 06:02:00,635 INFO Alive (ping 0-800ms): 111 out of 119
+2026-09-20 06:02:00,639 INFO Phase 2: proxy ping via xray (111 servers, 10 workers)
+2026-09-20 06:04:07,115 INFO Proxy ping: 55 alive, 56 dead/unreachable (timeout 10s)
+2026-09-20 06:04:07,135 INFO Lite (top-3 per country): 10 servers + 4 info cards
+2026-09-20 06:04:07,136 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-20 06:04:07,158 INFO Written: 5 countries, stats.json ready
+2026-09-20 06:04:07,158 INFO Top 5 fastest:
+2026-09-20 06:04:07,158 INFO   LT 95.129.236.216:443 — 158ms [🇱🇹 Lithuania — #59]
+2026-09-20 06:04:07,159 INFO   NL 46.243.142.184:8444 — 165ms [🇳🇱 The Netherlands — #111]
+2026-09-20 06:04:07,159 INFO   NL 46.243.142.184:8444 — 168ms [🇳🇱 The Netherlands — #108]
+2026-09-20 06:04:07,160 INFO   NL 188.72.103.4:443 — 170ms [🇳🇱 The Netherlands — #109]
+2026-09-20 06:04:07,160 INFO   NL 188.72.103.4:443 — 171ms [🇳🇱 The Netherlands — #112]
+2026-09-20 06:04:07,165 INFO Dashboard written to /out/index.html
