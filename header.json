@@ -1,57 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-21T12:42:37.943411+00:00",
-  "total_checked": 103,
-  "total_working": 33,
+  "updated_utc": "2026-09-21T13:45:19.915745+00:00",
+  "total_checked": 110,
+  "total_working": 40,
   "total_dead": 70,
-  "survival_rate_pct": 32.0,
-  "countries": 6,
-  "ping_min_ms": 239,
-  "ping_median_ms": 500,
-  "ping_max_ms": 1440,
+  "survival_rate_pct": 36.4,
+  "countries": 7,
+  "ping_min_ms": 269,
+  "ping_median_ms": 506,
+  "ping_max_ms": 1113,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 4,
-    "reality": 29
+    "reality": 37,
+    "none": 1,
+    "tls": 2
   },
   "top_fastest": [
-    {
-      "cc": "DE",
-      "host": "188.72.103.4",
-      "port": 443,
-      "ping_ms": 239,
-      "name": "🇩🇪 Germany — #10"
-    },
-    {
-      "cc": "SE",
-      "host": "176.108.246.58",
-      "port": 9881,
-      "ping_ms": 241,
-      "name": "🇸🇪 Sweden — #102"
-    },
-    {
-      "cc": "DE",
-      "host": "188.72.103.4",
-      "port": 443,
-      "ping_ms": 251,
-      "name": "🇩🇪 Germany — #11"
-    },
     {
       "cc": "PL",
       "host": "176.123.161.222",
       "port": 9892,
-      "ping_ms": 255,
-      "name": "🇵🇱 Poland — #101"
+      "ping_ms": 269,
+      "name": "🇵🇱 Poland — #105"
     },
     {
-      "cc": "FR",
-      "host": "176.123.162.100",
-      "port": 9880,
-      "ping_ms": 259,
-      "name": "🇫🇷 France — #45"
+      "cc": "RU",
+      "host": "95.163.155.137",
+      "port": 31585,
+      "ping_ms": 310,
+      "name": "🇷🇺 LLC Digital Network — #5"
+    },
+    {
+      "cc": "NL",
+      "host": "188.225.77.241",
+      "port": 443,
+      "ping_ms": 419,
+      "name": "🇳🇱 The Netherlands — #86"
+    },
+    {
+      "cc": "NL",
+      "host": "188.225.42.6",
+      "port": 443,
+      "ping_ms": 428,
+      "name": "🇳🇱 The Netherlands — #81"
+    },
+    {
+      "cc": "GB",
+      "host": "185.22.235.181",
+      "port": 443,
+      "ping_ms": 429,
+      "name": "🇬🇧 United Kingdom — #53"
     }
   ],
-  "elapsed_seconds": 151.88,
-  "memory_peak_mb": 0.92
+  "elapsed_seconds": 159.35,
+  "memory_peak_mb": 0.93
 }
