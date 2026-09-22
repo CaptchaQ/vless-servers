@@ -1,35 +1,56 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-22T09:33:46.351352+00:00",
-  "total_checked": 75,
-  "total_working": 2,
-  "total_dead": 73,
-  "survival_rate_pct": 2.7,
-  "countries": 2,
-  "ping_min_ms": 242,
-  "ping_median_ms": 255,
-  "ping_max_ms": 268,
+  "updated_utc": "2026-09-22T10:35:20.250056+00:00",
+  "total_checked": 74,
+  "total_working": 10,
+  "total_dead": 64,
+  "survival_rate_pct": 13.5,
+  "countries": 4,
+  "ping_min_ms": 226,
+  "ping_median_ms": 278,
+  "ping_max_ms": 702,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 2
+    "reality": 10
   },
   "top_fastest": [
     {
-      "cc": "FR",
-      "host": "176.123.162.100",
-      "port": 9880,
-      "ping_ms": 242,
-      "name": "🇫🇷 France — #48"
+      "cc": "DE",
+      "host": "91.240.86.12",
+      "port": 443,
+      "ping_ms": 226,
+      "name": "🇩🇪 Germany — #15"
     },
     {
-      "cc": "NL",
-      "host": "45.11.27.86",
+      "cc": "SE",
+      "host": "176.108.246.58",
+      "port": 9881,
+      "ping_ms": 236,
+      "name": "🇸🇪 Sweden — #73"
+    },
+    {
+      "cc": "PL",
+      "host": "176.123.161.222",
+      "port": 9892,
+      "ping_ms": 252,
+      "name": "🇵🇱 Poland — #72"
+    },
+    {
+      "cc": "DE",
+      "host": "91.240.86.186",
       "port": 443,
-      "ping_ms": 268,
-      "name": "🇳🇱 The Netherlands — #61"
+      "ping_ms": 262,
+      "name": "🇩🇪 Germany — #14"
+    },
+    {
+      "cc": "DE",
+      "host": "91.240.87.166",
+      "port": 443,
+      "ping_ms": 270,
+      "name": "🇩🇪 Germany — #16"
     }
   ],
-  "elapsed_seconds": 167.84,
-  "memory_peak_mb": 0.84
+  "elapsed_seconds": 91.62,
+  "memory_peak_mb": 0.77
 }
