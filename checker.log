@@ -11870,3 +11870,29 @@
 2026-09-22 07:29:23,663 INFO   DE 195.133.198.200:7443 — 937ms [🇩🇪 Germany — #18]
 2026-09-22 07:29:23,664 INFO   DE 195.133.198.200:7443 — 1025ms [🇩🇪 Germany — #17]
 2026-09-22 07:29:23,671 INFO Dashboard written to /out/index.html
+2026-09-22 07:29:23,684 INFO Removed stale country file from data repo: SE.txt
+2026-09-22 07:29:23,685 INFO Removed stale country file from data repo: NL.txt
+2026-09-22 07:29:23,685 INFO Removed stale country file from data repo: PL.txt
+2026-09-22 07:29:23,685 INFO Removed stale country file from data repo: IN.txt
+2026-09-22 07:29:23,685 INFO Removed stale country file from data repo: FR.txt
+2026-09-22 07:29:23,686 INFO Synced out/ → /data
+2026-09-22 07:29:25,770 INFO Data repo pushed to origin/main
+2026-09-22 07:29:25,771 INFO Done in 178.1 s | Peak RAM: 0.8 MB | Alive: 5/89 (5.6%)
+2026-09-22 08:29:26,329 INFO ============================================================
+2026-09-22 08:29:26,330 INFO VLESS Checker starting...
+2026-09-22 08:29:26,670 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 94 links
+2026-09-22 08:29:26,671 INFO Total unique links: 94
+2026-09-22 08:29:26,723 INFO Parsed correctly: 94
+2026-09-22 08:29:31,946 INFO Alive (ping 0-800ms): 68 out of 94
+2026-09-22 08:29:31,949 INFO Phase 2: proxy ping via xray (68 servers, 10 workers)
+2026-09-22 08:30:55,909 INFO Proxy ping: 9 alive, 59 dead/unreachable (timeout 10s)
+2026-09-22 08:30:55,915 INFO Lite (top-3 per country): 9 servers + 4 info cards
+2026-09-22 08:30:55,915 INFO Best (top-20 globally): 9 servers + 4 info cards
+2026-09-22 08:30:55,921 INFO Written: 6 countries, stats.json ready
+2026-09-22 08:30:55,922 INFO Top 5 fastest:
+2026-09-22 08:30:55,922 INFO   FR 176.123.162.100:9880 — 234ms [🇫🇷 France — #68]
+2026-09-22 08:30:55,923 INFO   DE 91.240.87.166:443 — 238ms [🇩🇪 Germany — #11]
+2026-09-22 08:30:55,923 INFO   SE 176.108.246.110:9830 — 241ms [🇸🇪 Sweden — #93]
+2026-09-22 08:30:55,923 INFO   SE 176.108.246.58:9881 — 242ms [🇸🇪 Sweden — #92]
+2026-09-22 08:30:55,924 INFO   PL 176.123.161.222:9892 — 252ms [🇵🇱 Poland — #91]
+2026-09-22 08:30:55,982 INFO Dashboard written to /out/index.html
