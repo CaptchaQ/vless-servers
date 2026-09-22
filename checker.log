@@ -11801,3 +11801,28 @@
 2026-09-22 04:23:48,014 INFO   FR 176.123.162.100:9880 — 227ms [🇫🇷 France — #67]
 2026-09-22 04:23:48,014 INFO   SE 176.108.246.58:9881 — 230ms [🇸🇪 Sweden — #95]
 2026-09-22 04:23:48,018 INFO Dashboard written to /out/index.html
+2026-09-22 04:23:48,034 INFO Removed stale country file from data repo: CH.txt
+2026-09-22 04:23:48,034 INFO Removed stale country file from data repo: LT.txt
+2026-09-22 04:23:48,035 INFO Removed stale country file from data repo: RU.txt
+2026-09-22 04:23:48,035 INFO Removed stale country file from data repo: IN.txt
+2026-09-22 04:23:48,036 INFO Synced out/ → /data
+2026-09-22 04:23:50,207 INFO Data repo pushed to origin/main
+2026-09-22 04:23:50,208 INFO Done in 140.3 s | Peak RAM: 0.9 MB | Alive: 10/97 (10.3%)
+2026-09-22 05:23:50,364 INFO ============================================================
+2026-09-22 05:23:50,364 INFO VLESS Checker starting...
+2026-09-22 05:23:50,655 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 87 links
+2026-09-22 05:23:50,656 INFO Total unique links: 87
+2026-09-22 05:23:50,716 INFO Parsed correctly: 87
+2026-09-22 05:23:55,867 INFO Alive (ping 0-800ms): 74 out of 87
+2026-09-22 05:23:55,869 INFO Phase 2: proxy ping via xray (74 servers, 10 workers)
+2026-09-22 05:24:46,193 INFO Proxy ping: 16 alive, 58 dead/unreachable (timeout 10s)
+2026-09-22 05:24:46,197 INFO Lite (top-3 per country): 13 servers + 4 info cards
+2026-09-22 05:24:46,198 INFO Best (top-20 globally): 16 servers + 4 info cards
+2026-09-22 05:24:46,206 INFO Written: 7 countries, stats.json ready
+2026-09-22 05:24:46,207 INFO Top 5 fastest:
+2026-09-22 05:24:46,207 INFO   NL 46.243.142.184:8444 — 159ms [🇳🇱 The Netherlands — #81]
+2026-09-22 05:24:46,207 INFO   SE 176.108.246.110:9830 — 204ms [🇸🇪 Sweden — #86]
+2026-09-22 05:24:46,208 INFO   DE 91.240.86.12:443 — 207ms [🇩🇪 Germany — #22]
+2026-09-22 05:24:46,208 INFO   DE 91.240.87.166:443 — 213ms [🇩🇪 Germany — #13]
+2026-09-22 05:24:46,208 INFO   FR 188.68.218.160:443 — 228ms [🇫🇷 France — #62]
+2026-09-22 05:24:46,212 INFO Dashboard written to /out/index.html
