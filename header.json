@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-23T18:35:09.684161+00:00",
-  "total_checked": 104,
-  "total_working": 36,
-  "total_dead": 68,
-  "survival_rate_pct": 34.6,
-  "countries": 10,
-  "ping_min_ms": 240,
-  "ping_median_ms": 470,
-  "ping_max_ms": 1386,
+  "updated_utc": "2026-09-23T19:37:28.512437+00:00",
+  "total_checked": 105,
+  "total_working": 38,
+  "total_dead": 67,
+  "survival_rate_pct": 36.2,
+  "countries": 7,
+  "ping_min_ms": 200,
+  "ping_median_ms": 455,
+  "ping_max_ms": 1443,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 31,
-    "tls": 5
+    "reality": 34,
+    "tls": 4
   },
   "top_fastest": [
     {
-      "cc": "PL",
-      "host": "176.123.161.222",
-      "port": 9892,
-      "ping_ms": 240,
-      "name": "🇵🇱 Poland — #95"
-    },
-    {
-      "cc": "NL",
-      "host": "188.72.103.4",
+      "cc": "DE",
+      "host": "185.229.9.74",
       "port": 443,
-      "ping_ms": 281,
-      "name": "🇳🇱 The Netherlands — #91"
-    },
-    {
-      "cc": "GB",
-      "host": "87.242.127.110",
-      "port": 9443,
-      "ping_ms": 290,
-      "name": "🇬🇧 United Kingdom — #64"
-    },
-    {
-      "cc": "NL",
-      "host": "188.225.62.104",
-      "port": 443,
-      "ping_ms": 297,
-      "name": "🇳🇱 The Netherlands — #81"
+      "ping_ms": 200,
+      "name": "🇩🇪 Germany — #28"
     },
     {
       "cc": "SE",
       "host": "176.108.246.58",
       "port": 9881,
-      "ping_ms": 309,
-      "name": "🇸🇪 Sweden — #98"
+      "ping_ms": 266,
+      "name": "🇸🇪 Sweden — #99"
+    },
+    {
+      "cc": "NL",
+      "host": "84.201.146.8",
+      "port": 443,
+      "ping_ms": 295,
+      "name": "🇳🇱 The Netherlands — #78"
+    },
+    {
+      "cc": "NL",
+      "host": "188.225.45.152",
+      "port": 12096,
+      "ping_ms": 326,
+      "name": "🇳🇱 The Netherlands — #80"
+    },
+    {
+      "cc": "NL",
+      "host": "188.225.62.104",
+      "port": 443,
+      "ping_ms": 328,
+      "name": "🇳🇱 The Netherlands — #87"
     }
   ],
-  "elapsed_seconds": 117.73,
-  "memory_peak_mb": 1.04
+  "elapsed_seconds": 135.84,
+  "memory_peak_mb": 0.94
 }
