@@ -12651,3 +12651,27 @@
 2026-09-23 19:37:28,540 INFO   NL 188.225.45.152:12096 — 326ms [🇳🇱 The Netherlands — #80]
 2026-09-23 19:37:28,541 INFO   NL 188.225.62.104:443 — 328ms [🇳🇱 The Netherlands — #87]
 2026-09-23 19:37:28,545 INFO Dashboard written to /out/index.html
+2026-09-23 19:37:28,570 INFO Removed stale country file from data repo: FI.txt
+2026-09-23 19:37:28,571 INFO Removed stale country file from data repo: PL.txt
+2026-09-23 19:37:28,571 INFO Removed stale country file from data repo: GB.txt
+2026-09-23 19:37:28,571 INFO Synced out/ → /data
+2026-09-23 19:37:31,704 INFO Data repo pushed to origin/main
+2026-09-23 19:37:31,705 INFO Done in 135.8 s | Peak RAM: 0.9 MB | Alive: 38/105 (36.2%)
+2026-09-23 20:37:31,899 INFO ============================================================
+2026-09-23 20:37:31,899 INFO VLESS Checker starting...
+2026-09-23 20:37:32,246 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 103 links
+2026-09-23 20:37:32,247 INFO Total unique links: 103
+2026-09-23 20:37:32,317 INFO Parsed correctly: 103
+2026-09-23 20:37:37,491 INFO Alive (ping 0-800ms): 94 out of 103
+2026-09-23 20:37:37,496 INFO Phase 2: proxy ping via xray (94 servers, 10 workers)
+2026-09-23 20:38:49,770 INFO Proxy ping: 43 alive, 51 dead/unreachable (timeout 10s)
+2026-09-23 20:38:49,789 INFO Lite (top-3 per country): 19 servers + 4 info cards
+2026-09-23 20:38:49,791 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-23 20:38:49,814 INFO Written: 9 countries, stats.json ready
+2026-09-23 20:38:49,814 INFO Top 5 fastest:
+2026-09-23 20:38:49,815 INFO   DE 188.225.72.20:443 — 210ms [🇩🇪 Germany — #48]
+2026-09-23 20:38:49,815 INFO   PL 176.123.161.222:9892 — 219ms [🇵🇱 Poland — #95]
+2026-09-23 20:38:49,816 INFO   LT 188.225.24.201:443 — 230ms [🇱🇹 Lithuania — #71]
+2026-09-23 20:38:49,816 INFO   DE 91.240.87.166:443 — 230ms [🇩🇪 Germany — #17]
+2026-09-23 20:38:49,816 INFO   FR 176.123.162.100:9880 — 237ms [🇫🇷 France — #61]
+2026-09-23 20:38:49,821 INFO Dashboard written to /out/index.html
