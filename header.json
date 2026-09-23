@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-23T11:21:26.938295+00:00",
-  "total_checked": 76,
-  "total_working": 37,
-  "total_dead": 39,
-  "survival_rate_pct": 48.7,
-  "countries": 9,
-  "ping_min_ms": 160,
-  "ping_median_ms": 575,
-  "ping_max_ms": 1301,
+  "updated_utc": "2026-09-23T12:23:34.498729+00:00",
+  "total_checked": 81,
+  "total_working": 21,
+  "total_dead": 60,
+  "survival_rate_pct": 25.9,
+  "countries": 10,
+  "ping_min_ms": 206,
+  "ping_median_ms": 365,
+  "ping_max_ms": 2341,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 30,
-    "tls": 7
+    "tls": 7,
+    "reality": 14
   },
   "top_fastest": [
     {
-      "cc": "NL",
-      "host": "46.243.142.184",
-      "port": 8444,
-      "ping_ms": 160,
-      "name": "🇳🇱 The Netherlands — #67"
+      "cc": "GB",
+      "host": "176.109.85.83",
+      "port": 443,
+      "ping_ms": 206,
+      "name": "🇬🇧 United Kingdom — #54"
     },
     {
-      "cc": "NL",
-      "host": "185.241.195.151",
-      "port": 9444,
-      "ping_ms": 180,
-      "name": "🇳🇱 The Netherlands — #71"
-    },
-    {
-      "cc": "PL",
-      "host": "176.123.161.222",
-      "port": 9892,
-      "ping_ms": 226,
-      "name": "🇵🇱 Poland — #72"
+      "cc": "GB",
+      "host": "185.22.235.181",
+      "port": 443,
+      "ping_ms": 242,
+      "name": "🇬🇧 United Kingdom — #60"
     },
     {
       "cc": "DE",
-      "host": "188.72.103.4",
+      "host": "185.229.9.175",
       "port": 443,
-      "ping_ms": 236,
-      "name": "🇩🇪 Germany — #43"
+      "ping_ms": 244,
+      "name": "🇩🇪 Germany — #11"
     },
     {
       "cc": "CH",
-      "host": "94.139.255.25",
-      "port": 11443,
-      "ping_ms": 251,
-      "name": "🇨🇭 Switzerland — #7"
+      "host": "94.139.255.254",
+      "port": 5443,
+      "ping_ms": 248,
+      "name": "🇨🇭 Switzerland — #9"
+    },
+    {
+      "cc": "SE",
+      "host": "176.108.246.58",
+      "port": 9881,
+      "ping_ms": 255,
+      "name": "🇸🇪 Sweden — #76"
     }
   ],
-  "elapsed_seconds": 128.47,
-  "memory_peak_mb": 0.8
+  "elapsed_seconds": 125.07,
+  "memory_peak_mb": 0.83
 }
