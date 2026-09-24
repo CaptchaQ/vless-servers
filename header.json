@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-23T23:43:54.471736+00:00",
-  "total_checked": 108,
-  "total_working": 34,
-  "total_dead": 74,
-  "survival_rate_pct": 31.5,
-  "countries": 8,
-  "ping_min_ms": 201,
-  "ping_median_ms": 336,
-  "ping_max_ms": 1491,
+  "updated_utc": "2026-09-24T00:46:22.812078+00:00",
+  "total_checked": 121,
+  "total_working": 58,
+  "total_dead": 63,
+  "survival_rate_pct": 47.9,
+  "countries": 10,
+  "ping_min_ms": 158,
+  "ping_median_ms": 342,
+  "ping_max_ms": 878,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 28,
-    "tls": 6
+    "reality": 37,
+    "tls": 21
   },
   "top_fastest": [
     {
-      "cc": "DE",
-      "host": "91.240.87.166",
-      "port": 443,
-      "ping_ms": 201,
-      "name": "🇩🇪 Germany — #17"
+      "cc": "NL",
+      "host": "46.243.142.184",
+      "port": 8444,
+      "ping_ms": 158,
+      "name": "🇳🇱 The Netherlands — #100"
     },
     {
       "cc": "NL",
-      "host": "188.225.62.104",
+      "host": "81.94.148.178",
+      "port": 7445,
+      "ping_ms": 160,
+      "name": "🇳🇱 The Netherlands — #105"
+    },
+    {
+      "cc": "DE",
+      "host": "185.229.9.175",
       "port": 443,
-      "ping_ms": 205,
-      "name": "🇳🇱 The Netherlands — #99"
+      "ping_ms": 171,
+      "name": "🇩🇪 Germany — #12"
     },
     {
       "cc": "DE",
       "host": "91.240.86.12",
       "port": 443,
-      "ping_ms": 206,
-      "name": "🇩🇪 Germany — #20"
-    },
-    {
-      "cc": "SE",
-      "host": "176.108.246.110",
-      "port": 9830,
-      "ping_ms": 210,
-      "name": "🇸🇪 Sweden — #105"
+      "ping_ms": 185,
+      "name": "🇩🇪 Germany — #22"
     },
     {
       "cc": "DE",
-      "host": "158.160.189.29",
+      "host": "188.72.103.4",
       "port": 443,
-      "ping_ms": 213,
-      "name": "🇩🇪 Germany — #67"
+      "ping_ms": 191,
+      "name": "🇩🇪 Germany — #59"
     }
   ],
-  "elapsed_seconds": 108.39,
-  "memory_peak_mb": 1.05
+  "elapsed_seconds": 145.44,
+  "memory_peak_mb": 0.98
 }
