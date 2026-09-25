@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-25T18:35:01.350872+00:00",
-  "total_checked": 126,
-  "total_working": 61,
-  "total_dead": 65,
-  "survival_rate_pct": 48.4,
-  "countries": 9,
-  "ping_min_ms": 187,
-  "ping_median_ms": 446,
-  "ping_max_ms": 1138,
+  "updated_utc": "2026-09-25T19:37:23.977145+00:00",
+  "total_checked": 117,
+  "total_working": 46,
+  "total_dead": 71,
+  "survival_rate_pct": 39.3,
+  "countries": 6,
+  "ping_min_ms": 221,
+  "ping_median_ms": 457,
+  "ping_max_ms": 1351,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 49,
-    "tls": 12
+    "tls": 9,
+    "reality": 37
   },
   "top_fastest": [
     {
-      "cc": "NL",
-      "host": "46.243.142.184",
-      "port": 8444,
-      "ping_ms": 187,
-      "name": "🇳🇱 The Netherlands — #112"
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 221,
+      "name": "🇷🇺 Timeweb — #9"
     },
     {
       "cc": "RU",
       "host": "185.141.227.180",
       "port": 2053,
-      "ping_ms": 198,
+      "ping_ms": 224,
       "name": "🇷🇺 Timeweb — #12"
     },
     {
-      "cc": "DE",
-      "host": "91.240.87.166",
-      "port": 443,
-      "ping_ms": 243,
-      "name": "🇩🇪 Germany — #25"
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 226,
+      "name": "🇷🇺 Timeweb — #15"
+    },
+    {
+      "cc": "SE",
+      "host": "176.108.246.58",
+      "port": 9881,
+      "ping_ms": 275,
+      "name": "🇸🇪 Sweden — #114"
     },
     {
       "cc": "RU",
       "host": "185.141.227.180",
       "port": 2053,
-      "ping_ms": 269,
-      "name": "🇷🇺 Timeweb — #15"
-    },
-    {
-      "cc": "FR",
-      "host": "176.123.162.100",
-      "port": 9880,
-      "ping_ms": 271,
-      "name": "🇫🇷 France — #65"
+      "ping_ms": 289,
+      "name": "🇷🇺 Timeweb — #16"
     }
   ],
-  "elapsed_seconds": 184.79,
-  "memory_peak_mb": 1.02
+  "elapsed_seconds": 139.88,
+  "memory_peak_mb": 0.98
 }
