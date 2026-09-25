@@ -310,3 +310,30 @@
 2026-09-25 00:42:36,918 INFO   DE 91.240.87.166:443 — 192ms [🇩🇪 Germany — #32]
 2026-09-25 00:42:36,919 INFO   DE 91.240.86.12:443 — 195ms [🇩🇪 Germany — #35]
 2026-09-25 00:42:36,923 INFO Dashboard written to /out/index.html
+2026-09-25 00:42:37,048 INFO Synced out/ → /data
+2026-09-25 00:42:39,539 INFO Data repo pushed to origin/main
+2026-09-25 00:42:39,540 INFO Done in 143.0 s | Peak RAM: 1.1 MB | Alive: 87/144 (60.4%)
+2026-09-25 01:42:40,949 INFO ============================================================
+2026-09-25 01:42:40,979 INFO VLESS Checker starting...
+2026-09-25 01:42:41,402 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 182 links
+2026-09-25 01:42:41,403 INFO Total unique links: 182
+2026-09-25 01:42:41,487 INFO Parsed correctly: 182
+2026-09-25 01:42:46,740 INFO Alive (ping 0-800ms): 171 out of 182
+2026-09-25 01:42:46,744 INFO Phase 2: proxy ping via xray (171 servers, 10 workers)
+2026-09-25 01:42:46,746 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-25 01:42:46,748 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-25 01:42:46,749 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-25 01:42:46,751 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-25 01:42:46,752 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-25 01:42:46,754 WARNING Skipping proxy ping for 178.176.128.128:443 — unsupported network type 'httpupgrade'
+2026-09-25 01:46:29,813 INFO Proxy ping: 109 alive, 62 dead/unreachable (timeout 10s)
+2026-09-25 01:46:29,853 INFO Lite (top-3 per country): 31 servers + 4 info cards
+2026-09-25 01:46:29,853 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-25 01:46:29,928 INFO Written: 12 countries, stats.json ready
+2026-09-25 01:46:29,928 INFO Top 5 fastest:
+2026-09-25 01:46:29,928 INFO   LT 178.176.128.128:443 — 3ms [🇱🇹 Lithuania — #107]
+2026-09-25 01:46:29,929 INFO   LT 178.176.128.128:443 — 3ms [🇱🇹 Lithuania — #106]
+2026-09-25 01:46:29,929 INFO   EE 178.176.128.128:443 — 3ms [🇪🇪 Estonia — #92]
+2026-09-25 01:46:29,929 INFO   NL 178.176.128.128:443 — 3ms [🇳🇱 The Netherlands — #131]
+2026-09-25 01:46:29,930 INFO   EE 178.176.128.128:443 — 4ms [🇪🇪 Estonia — #94]
+2026-09-25 01:46:30,088 INFO Dashboard written to /out/index.html
