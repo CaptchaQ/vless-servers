@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-26T00:46:10.820279+00:00",
-  "total_checked": 82,
-  "total_working": 33,
-  "total_dead": 49,
-  "survival_rate_pct": 40.2,
-  "countries": 10,
-  "ping_min_ms": 157,
+  "updated_utc": "2026-09-26T01:47:56.930052+00:00",
+  "total_checked": 127,
+  "total_working": 67,
+  "total_dead": 60,
+  "survival_rate_pct": 52.8,
+  "countries": 11,
+  "ping_min_ms": 3,
   "ping_median_ms": 251,
-  "ping_max_ms": 1119,
+  "ping_max_ms": 1005,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 19,
-    "tls": 14
+    "tls": 30,
+    "reality": 37
   },
   "top_fastest": [
     {
+      "cc": "EE",
+      "host": "178.176.128.128",
+      "port": 443,
+      "ping_ms": 3,
+      "name": "🇪🇪 Estonia — #84"
+    },
+    {
+      "cc": "EE",
+      "host": "178.176.128.128",
+      "port": 443,
+      "ping_ms": 3,
+      "name": "🇪🇪 Estonia — #85"
+    },
+    {
+      "cc": "LT",
+      "host": "178.176.128.128",
+      "port": 443,
+      "ping_ms": 3,
+      "name": "🇱🇹 Lithuania — #97"
+    },
+    {
+      "cc": "LT",
+      "host": "178.176.128.128",
+      "port": 443,
+      "ping_ms": 3,
+      "name": "🇱🇹 Lithuania — #96"
+    },
+    {
       "cc": "NL",
-      "host": "46.243.142.184",
-      "port": 8444,
-      "ping_ms": 157,
-      "name": "🇳🇱 The Netherlands — #74"
-    },
-    {
-      "cc": "DE",
-      "host": "37.18.14.168",
-      "port": 10654,
-      "ping_ms": 161,
-      "name": "🇩🇪 Germany — #23"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 179,
-      "name": "🇷🇺 Timeweb — #16"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 194,
-      "name": "🇷🇺 Timeweb — #15"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 209,
-      "name": "🇷🇺 Timeweb — #9"
+      "host": "178.176.128.128",
+      "port": 443,
+      "ping_ms": 3,
+      "name": "🇳🇱 The Netherlands — #104"
     }
   ],
-  "elapsed_seconds": 57.23,
-  "memory_peak_mb": 0.84
+  "elapsed_seconds": 103.06,
+  "memory_peak_mb": 1.02
 }
