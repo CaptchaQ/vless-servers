@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-09-26T03:50:24.921003+00:00",
-  "total_checked": 90,
-  "total_working": 29,
-  "total_dead": 61,
-  "survival_rate_pct": 32.2,
-  "countries": 9,
+  "updated_utc": "2026-09-26T04:51:33.194402+00:00",
+  "total_checked": 82,
+  "total_working": 33,
+  "total_dead": 49,
+  "survival_rate_pct": 40.2,
+  "countries": 10,
   "ping_min_ms": 201,
-  "ping_median_ms": 341,
-  "ping_max_ms": 943,
+  "ping_median_ms": 298,
+  "ping_max_ms": 824,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 20,
-    "tls": 9
+    "tls": 14,
+    "reality": 19
   },
   "top_fastest": [
-    {
-      "cc": "CH",
-      "host": "94.139.255.254",
-      "port": 5443,
-      "ping_ms": 201,
-      "name": "🇨🇭 Switzerland — #16"
-    },
-    {
-      "cc": "GB",
-      "host": "84.38.181.249",
-      "port": 443,
-      "ping_ms": 210,
-      "name": "🇬🇧 United Kingdom — #63"
-    },
-    {
-      "cc": "PL",
-      "host": "176.123.161.222",
-      "port": 9892,
-      "ping_ms": 211,
-      "name": "🇵🇱 Poland — #79"
-    },
     {
       "cc": "RU",
       "host": "185.141.227.180",
       "port": 2053,
-      "ping_ms": 214,
+      "ping_ms": 201,
       "name": "🇷🇺 Timeweb — #13"
     },
     {
       "cc": "RU",
       "host": "185.141.227.180",
       "port": 2053,
-      "ping_ms": 215,
-      "name": "🇷🇺 Timeweb — #11"
+      "ping_ms": 203,
+      "name": "🇷🇺 Timeweb — #19"
+    },
+    {
+      "cc": "SE",
+      "host": "176.108.246.110",
+      "port": 9830,
+      "ping_ms": 208,
+      "name": "🇸🇪 Sweden — #78"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 208,
+      "name": "🇷🇺 Timeweb — #18"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 214,
+      "name": "🇷🇺 Timeweb — #14"
     }
   ],
-  "elapsed_seconds": 99.8,
-  "memory_peak_mb": 0.87
+  "elapsed_seconds": 63.45,
+  "memory_peak_mb": 0.84
 }
