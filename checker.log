@@ -1707,3 +1707,28 @@
 2026-09-27 18:37:01,360 INFO   NL 188.225.58.238:443 — 436ms [🇳🇱 The Netherlands — #112]
 2026-09-27 18:37:01,360 INFO   LT 188.225.25.142:443 — 451ms [🇱🇹 Lithuania — #92]
 2026-09-27 18:37:01,364 INFO Dashboard written to /out/index.html
+2026-09-27 18:37:01,378 INFO Removed stale country file from data repo: CH.txt
+2026-09-27 18:37:01,379 INFO Removed stale country file from data repo: SE.txt
+2026-09-27 18:37:01,379 INFO Removed stale country file from data repo: TR.txt
+2026-09-27 18:37:01,379 INFO Removed stale country file from data repo: FR.txt
+2026-09-27 18:37:01,379 INFO Synced out/ → /data
+2026-09-27 18:37:03,400 INFO Data repo pushed to origin/main
+2026-09-27 18:37:03,401 INFO Done in 146.8 s | Peak RAM: 1.0 MB | Alive: 38/124 (30.6%)
+2026-09-27 19:37:03,569 INFO ============================================================
+2026-09-27 19:37:03,569 INFO VLESS Checker starting...
+2026-09-27 19:37:03,982 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 143 links
+2026-09-27 19:37:03,984 INFO Total unique links: 143
+2026-09-27 19:37:04,106 INFO Parsed correctly: 143
+2026-09-27 19:37:09,237 INFO Alive (ping 0-800ms): 131 out of 143
+2026-09-27 19:37:09,241 INFO Phase 2: proxy ping via xray (131 servers, 10 workers)
+2026-09-27 19:40:09,077 INFO Proxy ping: 61 alive, 70 dead/unreachable (timeout 10s)
+2026-09-27 19:40:09,096 INFO Lite (top-3 per country): 20 servers + 4 info cards
+2026-09-27 19:40:09,098 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-09-27 19:40:09,127 INFO Written: 10 countries, stats.json ready
+2026-09-27 19:40:09,127 INFO Top 5 fastest:
+2026-09-27 19:40:09,128 INFO   RU 201.51.4.39:443 — 219ms [🇷🇺 Timeweb — #12]
+2026-09-27 19:40:09,128 INFO   SE 176.108.246.110:9830 — 388ms [🇸🇪 Sweden — #132]
+2026-09-27 19:40:09,129 INFO   PL 176.123.161.222:9892 — 389ms [🇵🇱 Poland — #124]
+2026-09-27 19:40:09,129 INFO   NL 188.225.42.6:443 — 390ms [🇳🇱 The Netherlands — #119]
+2026-09-27 19:40:09,129 INFO   LT 188.225.25.195:443 — 392ms [🇱🇹 Lithuania — #96]
+2026-09-27 19:40:09,133 INFO Dashboard written to /out/index.html
