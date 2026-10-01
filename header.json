@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-10-01T12:29:51.431990+00:00",
-  "total_checked": 120,
-  "total_working": 46,
-  "total_dead": 74,
-  "survival_rate_pct": 38.3,
-  "countries": 9,
-  "ping_min_ms": 192,
-  "ping_median_ms": 748,
-  "ping_max_ms": 1476,
+  "updated_utc": "2026-10-01T13:33:41.894845+00:00",
+  "total_checked": 129,
+  "total_working": 44,
+  "total_dead": 85,
+  "survival_rate_pct": 34.1,
+  "countries": 6,
+  "ping_min_ms": 175,
+  "ping_median_ms": 704,
+  "ping_max_ms": 1466,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 25,
-    "reality": 21
+    "reality": 23,
+    "tls": 21
   },
   "top_fastest": [
     {
+      "cc": "CH",
+      "host": "45.9.24.125",
+      "port": 8443,
+      "ping_ms": 175,
+      "name": "🇨🇭 Switzerland — #33"
+    },
+    {
+      "cc": "NL",
+      "host": "46.243.142.192",
+      "port": 8444,
+      "ping_ms": 176,
+      "name": "🇳🇱 The Netherlands — #108"
+    },
+    {
       "cc": "RU",
-      "host": "78.159.246.179",
+      "host": "185.141.227.180",
       "port": 2053,
-      "ping_ms": 192,
+      "ping_ms": 198,
+      "name": "🇷🇺 Timeweb — #23"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 199,
       "name": "🇷🇺 Timeweb — #28"
     },
     {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 212,
-      "name": "🇷🇺 Timeweb — #22"
-    },
-    {
-      "cc": "DE",
-      "host": "5.178.85.132",
-      "port": 443,
-      "ping_ms": 221,
-      "name": "🇩🇪 Germany — #74"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 260,
-      "name": "🇷🇺 Timeweb — #21"
-    },
-    {
-      "cc": "DE",
-      "host": "185.178.208.140",
-      "port": 443,
-      "ping_ms": 264,
-      "name": "🇩🇪 Germany — #72"
+      "cc": "NL",
+      "host": "46.243.142.192",
+      "port": 8444,
+      "ping_ms": 202,
+      "name": "🇳🇱 The Netherlands — #107"
     }
   ],
-  "elapsed_seconds": 160.3,
-  "memory_peak_mb": 1.04
+  "elapsed_seconds": 227.72,
+  "memory_peak_mb": 1.06
 }
