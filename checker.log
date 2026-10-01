@@ -3520,3 +3520,27 @@
 2026-10-01 07:11:28,180 INFO   RU 185.141.227.180:2053 — 226ms [🇷🇺 Timeweb — #25]
 2026-10-01 07:11:28,181 INFO   CH 94.139.255.254:5443 — 237ms [🇨🇭 Switzerland — #37]
 2026-10-01 07:11:28,185 INFO Dashboard written to /out/index.html
+2026-10-01 07:11:28,193 INFO Removed stale country file from data repo: EE.txt
+2026-10-01 07:11:28,193 INFO Removed stale country file from data repo: RO.txt
+2026-10-01 07:11:28,194 INFO Removed stale country file from data repo: CZ.txt
+2026-10-01 07:11:28,194 INFO Synced out/ → /data
+2026-10-01 07:11:30,385 INFO Data repo pushed to origin/main
+2026-10-01 07:11:30,386 INFO Done in 279.3 s | Peak RAM: 1.1 MB | Alive: 78/148 (52.7%)
+2026-10-01 08:11:30,547 INFO ============================================================
+2026-10-01 08:11:30,548 INFO VLESS Checker starting...
+2026-10-01 08:11:30,870 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 132 links
+2026-10-01 08:11:30,872 INFO Total unique links: 132
+2026-10-01 08:11:30,958 INFO Parsed correctly: 132
+2026-10-01 08:11:35,978 INFO Alive (ping 0-800ms): 119 out of 132
+2026-10-01 08:11:35,982 INFO Phase 2: proxy ping via xray (119 servers, 10 workers)
+2026-10-01 08:16:06,495 INFO Proxy ping: 60 alive, 59 dead/unreachable (timeout 10s)
+2026-10-01 08:16:06,518 INFO Lite (top-3 per country): 26 servers + 4 info cards
+2026-10-01 08:16:06,519 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-10-01 08:16:06,543 INFO Written: 10 countries, stats.json ready
+2026-10-01 08:16:06,543 INFO Top 5 fastest:
+2026-10-01 08:16:06,544 INFO   NL 46.243.142.192:8444 — 159ms [🇳🇱 The Netherlands — #106]
+2026-10-01 08:16:06,544 INFO   NL 46.243.142.192:8444 — 165ms [🇳🇱 The Netherlands — #107]
+2026-10-01 08:16:06,545 INFO   RU 185.141.227.180:2053 — 209ms [🇷🇺 Timeweb — #21]
+2026-10-01 08:16:06,545 INFO   CH 46.243.205.226:11443 — 238ms [🇨🇭 Switzerland — #27]
+2026-10-01 08:16:06,546 INFO   CH 45.9.24.125:8443 — 248ms [🇨🇭 Switzerland — #26]
+2026-10-01 08:16:06,550 INFO Dashboard written to /out/index.html
