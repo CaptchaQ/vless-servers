@@ -3544,3 +3544,27 @@
 2026-10-01 08:16:06,545 INFO   CH 46.243.205.226:11443 — 238ms [🇨🇭 Switzerland — #27]
 2026-10-01 08:16:06,546 INFO   CH 45.9.24.125:8443 — 248ms [🇨🇭 Switzerland — #26]
 2026-10-01 08:16:06,550 INFO Dashboard written to /out/index.html
+2026-10-01 08:16:06,558 INFO Removed stale country file from data repo: US.txt
+2026-10-01 08:16:06,558 INFO Removed stale country file from data repo: GB.txt
+2026-10-01 08:16:06,558 INFO Removed stale country file from data repo: AE.txt
+2026-10-01 08:16:06,559 INFO Synced out/ → /data
+2026-10-01 08:16:09,687 INFO Data repo pushed to origin/main
+2026-10-01 08:16:09,688 INFO Done in 276.0 s | Peak RAM: 1.1 MB | Alive: 60/132 (45.5%)
+2026-10-01 09:16:09,818 INFO ============================================================
+2026-10-01 09:16:09,819 INFO VLESS Checker starting...
+2026-10-01 09:16:10,142 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 140 links
+2026-10-01 09:16:10,144 INFO Total unique links: 140
+2026-10-01 09:16:10,234 INFO Parsed correctly: 140
+2026-10-01 09:16:15,257 INFO Alive (ping 0-800ms): 132 out of 140
+2026-10-01 09:16:15,261 INFO Phase 2: proxy ping via xray (132 servers, 10 workers)
+2026-10-01 09:20:56,943 INFO Proxy ping: 56 alive, 76 dead/unreachable (timeout 10s)
+2026-10-01 09:20:56,962 INFO Lite (top-3 per country): 17 servers + 4 info cards
+2026-10-01 09:20:56,964 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-10-01 09:20:56,987 INFO Written: 8 countries, stats.json ready
+2026-10-01 09:20:56,987 INFO Top 5 fastest:
+2026-10-01 09:20:56,988 INFO   NL 46.243.142.192:8444 — 151ms [🇳🇱 The Netherlands — #119]
+2026-10-01 09:20:56,988 INFO   RU 78.159.246.179:2053 — 196ms [🇷🇺 Timeweb — #36]
+2026-10-01 09:20:56,989 INFO   RU 185.141.227.180:2053 — 208ms [🇷🇺 Timeweb — #29]
+2026-10-01 09:20:56,989 INFO   RU 185.141.227.180:2053 — 217ms [🇷🇺 Timeweb — #28]
+2026-10-01 09:20:56,989 INFO   RU 185.141.227.180:2053 — 218ms [🇷🇺 Timeweb — #30]
+2026-10-01 09:20:56,993 INFO Dashboard written to /out/index.html
