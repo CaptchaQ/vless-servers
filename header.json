@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-10-02T21:18:12.812849+00:00",
-  "total_checked": 145,
-  "total_working": 86,
-  "total_dead": 59,
-  "survival_rate_pct": 59.3,
-  "countries": 9,
-  "ping_min_ms": 158,
-  "ping_median_ms": 442,
-  "ping_max_ms": 1408,
+  "updated_utc": "2026-10-02T22:20:44.372233+00:00",
+  "total_checked": 138,
+  "total_working": 99,
+  "total_dead": 39,
+  "survival_rate_pct": 71.7,
+  "countries": 11,
+  "ping_min_ms": 184,
+  "ping_median_ms": 409,
+  "ping_max_ms": 1291,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 45,
-    "tls": 41
+    "reality": 53,
+    "tls": 46
   },
   "top_fastest": [
     {
       "cc": "NL",
       "host": "46.243.142.192",
       "port": 8444,
-      "ping_ms": 158,
-      "name": "🇳🇱 The Netherlands — #117"
+      "ping_ms": 184,
+      "name": "🇳🇱 The Netherlands — #114"
+    },
+    {
+      "cc": "RU",
+      "host": "78.159.246.179",
+      "port": 2053,
+      "ping_ms": 210,
+      "name": "🇷🇺 Timeweb — #47"
     },
     {
       "cc": "RU",
       "host": "185.141.227.180",
       "port": 2053,
-      "ping_ms": 199,
-      "name": "🇷🇺 Timeweb — #36"
+      "ping_ms": 213,
+      "name": "🇷🇺 Timeweb — #39"
+    },
+    {
+      "cc": "FI",
+      "host": "81.94.148.120",
+      "port": 7449,
+      "ping_ms": 218,
+      "name": "🇫🇮 Finland — #91"
     },
     {
       "cc": "RU",
-      "host": "185.141.227.180",
+      "host": "78.159.246.179",
       "port": 2053,
-      "ping_ms": 225,
-      "name": "🇷🇺 Timeweb — #33"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 236,
-      "name": "🇷🇺 Timeweb — #40"
-    },
-    {
-      "cc": "PL",
-      "host": "176.108.241.126",
-      "port": 9892,
-      "ping_ms": 247,
-      "name": "🇵🇱 Poland — #123"
+      "ping_ms": 230,
+      "name": "🇷🇺 Timeweb — #45"
     }
   ],
-  "elapsed_seconds": 141.93,
-  "memory_peak_mb": 1.05
+  "elapsed_seconds": 148.92,
+  "memory_peak_mb": 1.02
 }
