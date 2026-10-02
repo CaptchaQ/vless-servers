@@ -4249,3 +4249,27 @@
 2026-10-02 17:03:04,791 INFO   DE 84.201.180.177:7443 — 358ms [🇩🇪 Germany — #79]
 2026-10-02 17:03:04,792 INFO   DE 31.177.111.114:443 — 409ms [🇩🇪 Germany — #89]
 2026-10-02 17:03:04,844 INFO Dashboard written to /out/index.html
+2026-10-02 17:03:05,355 INFO Removed stale country file from data repo: US.txt
+2026-10-02 17:03:05,356 INFO Removed stale country file from data repo: GB.txt
+2026-10-02 17:03:05,356 INFO Removed stale country file from data repo: KR.txt
+2026-10-02 17:03:05,357 INFO Synced out/ → /data
+2026-10-02 17:03:08,882 INFO Data repo pushed to origin/main
+2026-10-02 17:03:08,884 INFO Done in 334.4 s | Peak RAM: 1.1 MB | Alive: 50/163 (30.7%)
+2026-10-02 18:03:09,233 INFO ============================================================
+2026-10-02 18:03:09,233 INFO VLESS Checker starting...
+2026-10-02 18:03:09,630 INFO Subscription https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt: 148 links
+2026-10-02 18:03:09,632 INFO Total unique links: 148
+2026-10-02 18:03:09,712 INFO Parsed correctly: 148
+2026-10-02 18:03:14,996 INFO Alive (ping 0-800ms): 134 out of 148
+2026-10-02 18:03:15,001 INFO Phase 2: proxy ping via xray (134 servers, 10 workers)
+2026-10-02 18:08:06,360 INFO Proxy ping: 75 alive, 59 dead/unreachable (timeout 10s)
+2026-10-02 18:08:06,392 INFO Lite (top-3 per country): 20 servers + 4 info cards
+2026-10-02 18:08:06,393 INFO Best (top-20 globally): 20 servers + 4 info cards
+2026-10-02 18:08:06,422 INFO Written: 8 countries, stats.json ready
+2026-10-02 18:08:06,422 INFO Top 5 fastest:
+2026-10-02 18:08:06,423 INFO   KR 185.91.53.165:8444 — 182ms [🇰🇷 South Korea — #113]
+2026-10-02 18:08:06,423 INFO   KR 31.129.42.9:8444 — 183ms [🇰🇷 South Korea — #115]
+2026-10-02 18:08:06,423 INFO   KR 185.91.53.165:8444 — 183ms [🇰🇷 South Korea — #111]
+2026-10-02 18:08:06,424 INFO   KR 31.129.42.9:8444 — 184ms [🇰🇷 South Korea — #116]
+2026-10-02 18:08:06,424 INFO   KR 185.91.53.165:8444 — 187ms [🇰🇷 South Korea — #112]
+2026-10-02 18:08:06,429 INFO Dashboard written to /out/index.html
