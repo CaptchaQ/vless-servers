@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-10-05T13:02:56.021720+00:00",
-  "total_checked": 102,
-  "total_working": 22,
-  "total_dead": 80,
-  "survival_rate_pct": 21.6,
-  "countries": 4,
-  "ping_min_ms": 765,
-  "ping_median_ms": 1025,
-  "ping_max_ms": 1411,
+  "updated_utc": "2026-10-05T14:07:05.088894+00:00",
+  "total_checked": 109,
+  "total_working": 53,
+  "total_dead": 56,
+  "survival_rate_pct": 48.6,
+  "countries": 8,
+  "ping_min_ms": 219,
+  "ping_median_ms": 675,
+  "ping_max_ms": 1479,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 10,
-    "tls": 12
+    "reality": 29,
+    "tls": 24
   },
   "top_fastest": [
     {
-      "cc": "NL",
-      "host": "188.225.57.78",
+      "cc": "GB",
+      "host": "188.225.25.14",
       "port": 443,
-      "ping_ms": 765,
-      "name": "🇳🇱 The Netherlands — #82"
+      "ping_ms": 219,
+      "name": "🇬🇧 United Kingdom — #49"
+    },
+    {
+      "cc": "NO",
+      "host": "87.242.95.164",
+      "port": 9443,
+      "ping_ms": 246,
+      "name": "🇳🇴 Norway — #93"
     },
     {
       "cc": "NL",
-      "host": "188.225.57.78",
+      "host": "31.130.155.114",
       "port": 443,
-      "ping_ms": 769,
-      "name": "🇳🇱 The Netherlands — #77"
-    },
-    {
-      "cc": "DE",
-      "host": "91.240.87.166",
-      "port": 443,
-      "ping_ms": 788,
-      "name": "🇩🇪 Germany — #42"
-    },
-    {
-      "cc": "RU",
-      "host": "78.159.246.179",
-      "port": 2053,
-      "ping_ms": 791,
-      "name": "🇷🇺 Timeweb — #21"
+      "ping_ms": 298,
+      "name": "🇳🇱 The Netherlands — #75"
     },
     {
       "cc": "NL",
-      "host": "188.225.58.238",
-      "port": 443,
-      "ping_ms": 791,
-      "name": "🇳🇱 The Netherlands — #78"
+      "host": "37.139.42.208",
+      "port": 9444,
+      "ping_ms": 312,
+      "name": "🇳🇱 The Netherlands — #92"
+    },
+    {
+      "cc": "NL",
+      "host": "46.243.234.157",
+      "port": 7443,
+      "ping_ms": 349,
+      "name": "🇳🇱 The Netherlands — #91"
     }
   ],
-  "elapsed_seconds": 234.97,
-  "memory_peak_mb": 0.85
+  "elapsed_seconds": 246.39,
+  "memory_peak_mb": 0.9
 }
