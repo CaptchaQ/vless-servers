@@ -3,20 +3,41 @@
     "name": "Russia",
     "flag": "🇷🇺",
     "count": 1,
-    "min_ms": 366,
-    "max_ms": 366,
-    "median_ms": 366,
-    "avg_ms": 366,
+    "min_ms": 261,
+    "max_ms": 261,
+    "median_ms": 261,
+    "avg_ms": 261,
     "servers": [
       {
         "host": "78.159.250.84",
         "port": 2053,
-        "ping_ms": 366,
-        "name": "🇷🇺 Timeweb — #5",
+        "ping_ms": 261,
+        "name": "🇷🇺 VK — #1",
         "ping_attempts": 5,
-        "ping_min": 366,
-        "ping_max": 605,
-        "ping_jitter": 239
+        "ping_min": 261,
+        "ping_max": 2134,
+        "ping_jitter": 1873
+      }
+    ]
+  },
+  "TR": {
+    "name": "Turkey",
+    "flag": "🇹🇷",
+    "count": 1,
+    "min_ms": 586,
+    "max_ms": 586,
+    "median_ms": 586,
+    "avg_ms": 586,
+    "servers": [
+      {
+        "host": "201.24.125.126",
+        "port": 443,
+        "ping_ms": 586,
+        "name": "🇹🇷 Türkiye — #50",
+        "ping_attempts": 5,
+        "ping_min": 586,
+        "ping_max": 653,
+        "ping_jitter": 67
       }
     ]
   }
