@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-10-07T09:39:17.915488+00:00",
-  "total_checked": 73,
-  "total_working": 31,
-  "total_dead": 42,
-  "survival_rate_pct": 42.5,
-  "countries": 7,
-  "ping_min_ms": 134,
-  "ping_median_ms": 291,
-  "ping_max_ms": 1365,
+  "updated_utc": "2026-10-07T10:41:00.254917+00:00",
+  "total_checked": 70,
+  "total_working": 25,
+  "total_dead": 45,
+  "survival_rate_pct": 35.7,
+  "countries": 6,
+  "ping_min_ms": 223,
+  "ping_median_ms": 342,
+  "ping_max_ms": 1051,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "reality": 11,
-    "tls": 20
+    "tls": 20,
+    "reality": 5
   },
   "top_fastest": [
     {
-      "cc": "NL",
-      "host": "45.139.26.179",
-      "port": 443,
-      "ping_ms": 134,
-      "name": "🇳🇱 The Netherlands — #53"
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 223,
+      "name": "🇷🇺 VK — #4"
     },
     {
-      "cc": "GB",
-      "host": "188.225.25.14",
-      "port": 443,
-      "ping_ms": 239,
-      "name": "🇬🇧 United Kingdom — #49"
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 243,
+      "name": "🇷🇺 Timeweb — #20"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 245,
+      "name": "🇷🇺 Timeweb — #19"
     },
     {
       "cc": "RU",
       "host": "185.141.227.180",
       "port": 2053,
       "ping_ms": 249,
-      "name": "🇷🇺 VK — #7"
-    },
-    {
-      "cc": "NO",
-      "host": "87.242.95.164",
-      "port": 9443,
-      "ping_ms": 257,
-      "name": "🇳🇴 Norway — #55"
+      "name": "🇷🇺 VK — #6"
     },
     {
       "cc": "RU",
       "host": "185.141.227.180",
       "port": 2053,
-      "ping_ms": 257,
-      "name": "🇷🇺 VK — #5"
+      "ping_ms": 264,
+      "name": "🇷🇺 VK — #3"
     }
   ],
-  "elapsed_seconds": 104.8,
-  "memory_peak_mb": 0.74
+  "elapsed_seconds": 99.61,
+  "memory_peak_mb": 0.71
 }
