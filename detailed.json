@@ -2,93 +2,135 @@
   "DE": {
     "name": "Germany",
     "flag": "🇩🇪",
-    "count": 2,
-    "min_ms": 322,
-    "max_ms": 1428,
-    "median_ms": 875,
-    "avg_ms": 875,
+    "count": 3,
+    "min_ms": 909,
+    "max_ms": 1379,
+    "median_ms": 995,
+    "avg_ms": 1094,
     "servers": [
       {
         "host": "176.108.252.139",
         "port": 9881,
-        "ping_ms": 322,
-        "name": "🇩🇪 Germany — #30",
-        "ping_attempts": 4,
-        "ping_min": 322,
-        "ping_max": 1820,
-        "ping_jitter": 1498
+        "ping_ms": 909,
+        "name": "🇩🇪 Germany — #29",
+        "ping_attempts": 5,
+        "ping_min": 909,
+        "ping_max": 2902,
+        "ping_jitter": 1993
       },
       {
         "host": "176.108.252.139",
         "port": 9881,
-        "ping_ms": 1428,
-        "name": "🇩🇪 Germany — #31",
-        "ping_attempts": 3,
-        "ping_min": 1428,
-        "ping_max": 9293,
-        "ping_jitter": 7865
+        "ping_ms": 995,
+        "name": "🇩🇪 Germany — #27",
+        "ping_attempts": 2,
+        "ping_min": 995,
+        "ping_max": 2097,
+        "ping_jitter": 1102
+      },
+      {
+        "host": "37.18.14.168",
+        "port": 10654,
+        "ping_ms": 1379,
+        "name": "🇩🇪 Germany — #25",
+        "ping_attempts": 2,
+        "ping_min": 1379,
+        "ping_max": 5347,
+        "ping_jitter": 3968
+      }
+    ]
+  },
+  "FI": {
+    "name": "Finland",
+    "flag": "🇫🇮",
+    "count": 1,
+    "min_ms": 291,
+    "max_ms": 291,
+    "median_ms": 291,
+    "avg_ms": 291,
+    "servers": [
+      {
+        "host": "31.131.251.17",
+        "port": 443,
+        "ping_ms": 291,
+        "name": "🇫🇮 Finland — #47",
+        "ping_attempts": 5,
+        "ping_min": 291,
+        "ping_max": 5650,
+        "ping_jitter": 5359
       }
     ]
   },
   "FR": {
     "name": "France",
     "flag": "🇫🇷",
-    "count": 2,
-    "min_ms": 210,
-    "max_ms": 992,
-    "median_ms": 601,
-    "avg_ms": 601,
+    "count": 1,
+    "min_ms": 524,
+    "max_ms": 524,
+    "median_ms": 524,
+    "avg_ms": 524,
     "servers": [
       {
         "host": "31.131.251.17",
         "port": 443,
-        "ping_ms": 210,
-        "name": "🇫🇷 France — #52",
+        "ping_ms": 524,
+        "name": "🇫🇷 France — #49",
+        "ping_attempts": 1,
+        "ping_min": 524,
+        "ping_max": 524,
+        "ping_jitter": 0
+      }
+    ]
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "count": 2,
+    "min_ms": 218,
+    "max_ms": 1444,
+    "median_ms": 831,
+    "avg_ms": 831,
+    "servers": [
+      {
+        "host": "188.225.25.14",
+        "port": 443,
+        "ping_ms": 218,
+        "name": "🇬🇧 United Kingdom — #55",
         "ping_attempts": 2,
-        "ping_min": 210,
-        "ping_max": 215,
-        "ping_jitter": 5
+        "ping_min": 218,
+        "ping_max": 235,
+        "ping_jitter": 17
       },
       {
-        "host": "31.131.251.17",
+        "host": "84.38.181.249",
         "port": 443,
-        "ping_ms": 992,
-        "name": "🇫🇷 France — #50",
-        "ping_attempts": 2,
-        "ping_min": 992,
-        "ping_max": 1670,
-        "ping_jitter": 678
+        "ping_ms": 1444,
+        "name": "🇬🇧 United Kingdom — #52",
+        "ping_attempts": 1,
+        "ping_min": 1444,
+        "ping_max": 1444,
+        "ping_jitter": 0
       }
     ]
   },
   "NL": {
     "name": "Netherlands",
     "flag": "🇳🇱",
-    "count": 2,
-    "min_ms": 731,
-    "max_ms": 845,
-    "median_ms": 788,
-    "avg_ms": 788,
+    "count": 1,
+    "min_ms": 397,
+    "max_ms": 397,
+    "median_ms": 397,
+    "avg_ms": 397,
     "servers": [
       {
-        "host": "82.202.178.134",
-        "port": 2147,
-        "ping_ms": 731,
-        "name": "🇳🇱 The Netherlands — #59",
-        "ping_attempts": 4,
-        "ping_min": 731,
-        "ping_max": 7233,
-        "ping_jitter": 6502
-      },
-      {
-        "host": "31.130.155.114",
+        "host": "46.254.17.226",
         "port": 443,
-        "ping_ms": 845,
+        "ping_ms": 397,
         "name": "🇳🇱 The Netherlands — #56",
         "ping_attempts": 2,
-        "ping_min": 845,
-        "ping_max": 1294,
-        "ping_jitter": 449
+        "ping_min": 397,
+        "ping_max": 1811,
+        "ping_jitter": 1414
       }
     ]
   },
@@ -96,221 +138,161 @@
     "name": "Poland",
     "flag": "🇵🇱",
     "count": 1,
-    "min_ms": 549,
-    "max_ms": 549,
-    "median_ms": 549,
-    "avg_ms": 549,
+    "min_ms": 1350,
+    "max_ms": 1350,
+    "median_ms": 1350,
+    "avg_ms": 1350,
     "servers": [
       {
-        "host": "45.132.176.190",
-        "port": 9892,
-        "ping_ms": 549,
-        "name": "🇵🇱 Poland — #64",
-        "ping_attempts": 1,
-        "ping_min": 549,
-        "ping_max": 549,
-        "ping_jitter": 0
+        "host": "91.215.43.248",
+        "port": 443,
+        "ping_ms": 1350,
+        "name": "🇵🇱 Poland — #59",
+        "ping_attempts": 3,
+        "ping_min": 1350,
+        "ping_max": 12465,
+        "ping_jitter": 11115
       }
     ]
   },
   "RU": {
     "name": "Russia",
     "flag": "🇷🇺",
-    "count": 19,
-    "min_ms": 242,
-    "max_ms": 790,
-    "median_ms": 274,
-    "avg_ms": 321,
+    "count": 13,
+    "min_ms": 255,
+    "max_ms": 922,
+    "median_ms": 374,
+    "avg_ms": 472,
     "servers": [
       {
         "host": "185.141.227.180",
         "port": 2053,
-        "ping_ms": 242,
-        "name": "🇷🇺 VK — #1",
-        "ping_attempts": 5,
-        "ping_min": 242,
-        "ping_max": 5908,
-        "ping_jitter": 5666
-      },
-      {
-        "host": "185.141.227.180",
-        "port": 2053,
-        "ping_ms": 247,
-        "name": "🇷🇺 Timeweb — #21",
-        "ping_attempts": 5,
-        "ping_min": 247,
-        "ping_max": 2423,
-        "ping_jitter": 2176
-      },
-      {
-        "host": "185.141.227.180",
-        "port": 2053,
-        "ping_ms": 249,
+        "ping_ms": 255,
         "name": "🇷🇺 Timeweb — #23",
         "ping_attempts": 5,
-        "ping_min": 249,
-        "ping_max": 4240,
-        "ping_jitter": 3991
+        "ping_min": 255,
+        "ping_max": 4322,
+        "ping_jitter": 4067
       },
       {
         "host": "78.159.250.84",
-        "port": 2053,
-        "ping_ms": 250,
-        "name": "🇷🇺 VK — #11",
-        "ping_attempts": 5,
-        "ping_min": 250,
-        "ping_max": 1048,
-        "ping_jitter": 798
-      },
-      {
-        "host": "185.141.227.180",
-        "port": 2053,
-        "ping_ms": 254,
-        "name": "🇷🇺 VK — #2",
-        "ping_attempts": 5,
-        "ping_min": 254,
-        "ping_max": 2992,
-        "ping_jitter": 2738
-      },
-      {
-        "host": "185.141.227.180",
-        "port": 2053,
-        "ping_ms": 255,
-        "name": "🇷🇺 Timeweb — #20",
-        "ping_attempts": 5,
-        "ping_min": 255,
-        "ping_max": 4302,
-        "ping_jitter": 4047
-      },
-      {
-        "host": "185.141.227.180",
-        "port": 2053,
-        "ping_ms": 255,
-        "name": "🇷🇺 Timeweb — #22",
-        "ping_attempts": 5,
-        "ping_min": 255,
-        "ping_max": 3365,
-        "ping_jitter": 3110
-      },
-      {
-        "host": "185.141.227.180",
         "port": 2053,
         "ping_ms": 267,
-        "name": "🇷🇺 VK — #3",
-        "ping_attempts": 4,
-        "ping_min": 267,
-        "ping_max": 4085,
-        "ping_jitter": 3818
-      },
-      {
-        "host": "185.141.227.180",
-        "port": 2053,
-        "ping_ms": 272,
-        "name": "🇷🇺 Timeweb — #17",
-        "ping_attempts": 5,
-        "ping_min": 272,
-        "ping_max": 3391,
-        "ping_jitter": 3119
-      },
-      {
-        "host": "185.141.227.180",
-        "port": 2053,
-        "ping_ms": 274,
         "name": "🇷🇺 Timeweb — #24",
         "ping_attempts": 5,
-        "ping_min": 274,
-        "ping_max": 4695,
-        "ping_jitter": 4421
-      },
-      {
-        "host": "78.159.250.84",
-        "port": 2053,
-        "ping_ms": 290,
-        "name": "🇷🇺 VK — #12",
-        "ping_attempts": 5,
-        "ping_min": 290,
-        "ping_max": 512,
-        "ping_jitter": 222
+        "ping_min": 267,
+        "ping_max": 826,
+        "ping_jitter": 559
       },
       {
         "host": "185.141.227.180",
         "port": 2053,
-        "ping_ms": 295,
-        "name": "🇷🇺 VK — #7",
-        "ping_attempts": 5,
-        "ping_min": 295,
-        "ping_max": 2635,
-        "ping_jitter": 2340
+        "ping_ms": 268,
+        "name": "🇷🇺 VK — #1",
+        "ping_attempts": 4,
+        "ping_min": 268,
+        "ping_max": 539,
+        "ping_jitter": 271
       },
       {
         "host": "185.141.227.180",
         "port": 2053,
-        "ping_ms": 297,
+        "ping_ms": 298,
+        "name": "🇷🇺 Timeweb — #19",
+        "ping_attempts": 5,
+        "ping_min": 298,
+        "ping_max": 1791,
+        "ping_jitter": 1493
+      },
+      {
+        "host": "185.141.227.180",
+        "port": 2053,
+        "ping_ms": 313,
+        "name": "🇷🇺 VK — #3",
+        "ping_attempts": 5,
+        "ping_min": 313,
+        "ping_max": 1219,
+        "ping_jitter": 906
+      },
+      {
+        "host": "185.141.227.180",
+        "port": 2053,
+        "ping_ms": 313,
         "name": "🇷🇺 VK — #5",
-        "ping_attempts": 5,
-        "ping_min": 297,
-        "ping_max": 11924,
-        "ping_jitter": 11627
+        "ping_attempts": 3,
+        "ping_min": 313,
+        "ping_max": 1687,
+        "ping_jitter": 1374
       },
       {
         "host": "185.141.227.180",
         "port": 2053,
-        "ping_ms": 330,
+        "ping_ms": 374,
+        "name": "🇷🇺 Timeweb — #20",
+        "ping_attempts": 4,
+        "ping_min": 374,
+        "ping_max": 875,
+        "ping_jitter": 501
+      },
+      {
+        "host": "185.141.227.180",
+        "port": 2053,
+        "ping_ms": 387,
+        "name": "🇷🇺 VK — #9",
+        "ping_attempts": 4,
+        "ping_min": 387,
+        "ping_max": 605,
+        "ping_jitter": 218
+      },
+      {
+        "host": "185.141.227.180",
+        "port": 2053,
+        "ping_ms": 515,
+        "name": "🇷🇺 VK — #8",
+        "ping_attempts": 2,
+        "ping_min": 515,
+        "ping_max": 3830,
+        "ping_jitter": 3315
+      },
+      {
+        "host": "185.141.227.180",
+        "port": 2053,
+        "ping_ms": 648,
         "name": "🇷🇺 Timeweb — #18",
         "ping_attempts": 5,
-        "ping_min": 330,
-        "ping_max": 2878,
-        "ping_jitter": 2548
+        "ping_min": 648,
+        "ping_max": 1295,
+        "ping_jitter": 647
       },
       {
         "host": "185.141.227.180",
         "port": 2053,
-        "ping_ms": 334,
-        "name": "🇷🇺 VK — #8",
-        "ping_attempts": 5,
-        "ping_min": 334,
-        "ping_max": 972,
-        "ping_jitter": 638
+        "ping_ms": 722,
+        "name": "🇷🇺 Timeweb — #21",
+        "ping_attempts": 3,
+        "ping_min": 722,
+        "ping_max": 2698,
+        "ping_jitter": 1976
       },
       {
         "host": "185.141.227.180",
         "port": 2053,
-        "ping_ms": 342,
-        "name": "🇷🇺 VK — #4",
-        "ping_attempts": 5,
-        "ping_min": 342,
-        "ping_max": 3618,
-        "ping_jitter": 3276
-      },
-      {
-        "host": "185.141.227.180",
-        "port": 2053,
-        "ping_ms": 369,
-        "name": "🇷🇺 VK — #6",
+        "ping_ms": 857,
+        "name": "🇷🇺 Timeweb — #17",
         "ping_attempts": 4,
-        "ping_min": 369,
-        "ping_max": 6216,
-        "ping_jitter": 5847
+        "ping_min": 857,
+        "ping_max": 5611,
+        "ping_jitter": 4754
       },
       {
         "host": "185.141.227.180",
         "port": 2053,
-        "ping_ms": 496,
-        "name": "🇷🇺 VK — #9",
-        "ping_attempts": 2,
-        "ping_min": 496,
-        "ping_max": 1739,
-        "ping_jitter": 1243
-      },
-      {
-        "host": "185.141.227.180",
-        "port": 2053,
-        "ping_ms": 790,
-        "name": "🇷🇺 VK — #10",
-        "ping_attempts": 1,
-        "ping_min": 790,
-        "ping_max": 790,
-        "ping_jitter": 0
+        "ping_ms": 922,
+        "name": "🇷🇺 Timeweb — #16",
+        "ping_attempts": 4,
+        "ping_min": 922,
+        "ping_max": 4931,
+        "ping_jitter": 4009
       }
     ]
   },
@@ -318,20 +300,20 @@
     "name": "United States",
     "flag": "🇺🇸",
     "count": 1,
-    "min_ms": 10066,
-    "max_ms": 10066,
-    "median_ms": 10066,
-    "avg_ms": 10066,
+    "min_ms": 4021,
+    "max_ms": 4021,
+    "median_ms": 4021,
+    "avg_ms": 4021,
     "servers": [
       {
         "host": "87.228.92.108",
         "port": 25178,
-        "ping_ms": 10066,
-        "name": "🇺🇸 United States — #70",
-        "ping_attempts": 2,
-        "ping_min": 10066,
-        "ping_max": 10136,
-        "ping_jitter": 70
+        "ping_ms": 4021,
+        "name": "🇺🇸 United States — #67",
+        "ping_attempts": 4,
+        "ping_min": 4021,
+        "ping_max": 11730,
+        "ping_jitter": 7709
       }
     ]
   }
