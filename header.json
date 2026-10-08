@@ -1,58 +1,58 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-10-08T04:13:36.199183+00:00",
-  "total_checked": 77,
-  "total_working": 51,
-  "total_dead": 26,
-  "survival_rate_pct": 66.2,
-  "countries": 9,
-  "ping_min_ms": 196,
-  "ping_median_ms": 319,
-  "ping_max_ms": 7200,
+  "updated_utc": "2026-10-08T05:15:49.456453+00:00",
+  "total_checked": 64,
+  "total_working": 35,
+  "total_dead": 29,
+  "survival_rate_pct": 54.7,
+  "countries": 8,
+  "ping_min_ms": 221,
+  "ping_median_ms": 419,
+  "ping_max_ms": 1472,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 27,
-    "reality": 23,
+    "reality": 12,
+    "tls": 22,
     "none": 1
   },
   "top_fastest": [
     {
+      "cc": "GB",
+      "host": "188.225.25.14",
+      "port": 443,
+      "ping_ms": 221,
+      "name": "🇬🇧 United Kingdom — #48"
+    },
+    {
       "cc": "RU",
       "host": "185.141.227.180",
       "port": 2053,
-      "ping_ms": 196,
+      "ping_ms": 221,
+      "name": "🇷🇺 Timeweb — #19"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 225,
+      "name": "🇷🇺 VK — #5"
+    },
+    {
+      "cc": "RU",
+      "host": "78.159.250.84",
+      "port": 2053,
+      "ping_ms": 236,
       "name": "🇷🇺 Timeweb — #24"
     },
     {
-      "cc": "DE",
-      "host": "91.240.87.166",
-      "port": 443,
-      "ping_ms": 209,
-      "name": "🇩🇪 Germany — #44"
-    },
-    {
       "cc": "RU",
       "host": "185.141.227.180",
       "port": 2053,
-      "ping_ms": 210,
-      "name": "🇷🇺 Timeweb — #22"
-    },
-    {
-      "cc": "PL",
-      "host": "31.131.251.17",
-      "port": 443,
-      "ping_ms": 215,
-      "name": "🇵🇱 Poland — #73"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 220,
-      "name": "🇷🇺 VK — #8"
+      "ping_ms": 250,
+      "name": "🇷🇺 VK — #2"
     }
   ],
-  "elapsed_seconds": 181.64,
-  "memory_peak_mb": 0.77
+  "elapsed_seconds": 130.7,
+  "memory_peak_mb": 0.71
 }
