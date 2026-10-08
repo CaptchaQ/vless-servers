@@ -1,22 +1,105 @@
 {
+  "CH": {
+    "name": "Switzerland",
+    "flag": "🇨🇭",
+    "count": 1,
+    "min_ms": 656,
+    "max_ms": 656,
+    "median_ms": 656,
+    "avg_ms": 656,
+    "servers": [
+      {
+        "host": "81.94.148.104",
+        "port": 2096,
+        "ping_ms": 656,
+        "name": "🇨🇭 Switzerland — #7",
+        "ping_attempts": 5,
+        "ping_min": 656,
+        "ping_max": 858,
+        "ping_jitter": 202
+      }
+    ]
+  },
+  "DE": {
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "count": 2,
+    "min_ms": 1104,
+    "max_ms": 1445,
+    "median_ms": 1274,
+    "avg_ms": 1274,
+    "servers": [
+      {
+        "host": "37.18.14.168",
+        "port": 10654,
+        "ping_ms": 1104,
+        "name": "🇩🇪 Germany — #8",
+        "ping_attempts": 4,
+        "ping_min": 1104,
+        "ping_max": 9750,
+        "ping_jitter": 8646
+      },
+      {
+        "host": "78.159.240.159",
+        "port": 10654,
+        "ping_ms": 1445,
+        "name": "🇩🇪 Germany — #9",
+        "ping_attempts": 4,
+        "ping_min": 1445,
+        "ping_max": 9140,
+        "ping_jitter": 7695
+      }
+    ]
+  },
+  "RU": {
+    "name": "Russia",
+    "flag": "🇷🇺",
+    "count": 2,
+    "min_ms": 281,
+    "max_ms": 305,
+    "median_ms": 293,
+    "avg_ms": 293,
+    "servers": [
+      {
+        "host": "78.159.250.84",
+        "port": 2053,
+        "ping_ms": 281,
+        "name": "🇷🇺 VK — #2",
+        "ping_attempts": 5,
+        "ping_min": 281,
+        "ping_max": 2007,
+        "ping_jitter": 1726
+      },
+      {
+        "host": "78.159.250.84",
+        "port": 2053,
+        "ping_ms": 305,
+        "name": "🇷🇺 VK — #1",
+        "ping_attempts": 4,
+        "ping_min": 305,
+        "ping_max": 1427,
+        "ping_jitter": 1122
+      }
+    ]
+  },
   "US": {
     "name": "United States",
     "flag": "🇺🇸",
     "count": 1,
-    "min_ms": 2688,
-    "max_ms": 2688,
-    "median_ms": 2688,
-    "avg_ms": 2688,
+    "min_ms": 2419,
+    "max_ms": 2419,
+    "median_ms": 2419,
+    "avg_ms": 2419,
     "servers": [
       {
         "host": "87.228.92.108",
         "port": 25178,
-        "ping_ms": 2688,
-        "name": "🇺🇸 United States — #39",
+        "ping_ms": 2419,
+        "name": "🇺🇸 United States — #44",
         "ping_attempts": 3,
-        "ping_min": 2688,
-        "ping_max": 9024,
-        "ping_jitter": 6336
+        "ping_min": 2419,
+        "ping_max": 3170,
+        "ping_jitter": 751
       }
     ]
   }
