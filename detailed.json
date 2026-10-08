@@ -1,74 +1,22 @@
 {
-  "BG": {
-    "name": "Bulgaria",
-    "flag": "🇧🇬",
-    "count": 2,
-    "min_ms": 320,
-    "max_ms": 410,
-    "median_ms": 365,
-    "avg_ms": 365,
-    "servers": [
-      {
-        "host": "78.159.246.85",
-        "port": 8443,
-        "ping_ms": 320,
-        "name": "🇧🇬 Bulgaria — #7",
-        "ping_attempts": 5,
-        "ping_min": 320,
-        "ping_max": 672,
-        "ping_jitter": 352
-      },
-      {
-        "host": "78.159.246.179",
-        "port": 8443,
-        "ping_ms": 410,
-        "name": "🇧🇬 Bulgaria — #6",
-        "ping_attempts": 5,
-        "ping_min": 410,
-        "ping_max": 771,
-        "ping_jitter": 361
-      }
-    ]
-  },
-  "RU": {
-    "name": "Russia",
-    "flag": "🇷🇺",
-    "count": 1,
-    "min_ms": 445,
-    "max_ms": 445,
-    "median_ms": 445,
-    "avg_ms": 445,
-    "servers": [
-      {
-        "host": "78.159.246.85",
-        "port": 2053,
-        "ping_ms": 445,
-        "name": "🇷🇺 VK — #1",
-        "ping_attempts": 3,
-        "ping_min": 445,
-        "ping_max": 2133,
-        "ping_jitter": 1688
-      }
-    ]
-  },
   "US": {
     "name": "United States",
     "flag": "🇺🇸",
     "count": 1,
-    "min_ms": 5885,
-    "max_ms": 5885,
-    "median_ms": 5885,
-    "avg_ms": 5885,
+    "min_ms": 2688,
+    "max_ms": 2688,
+    "median_ms": 2688,
+    "avg_ms": 2688,
     "servers": [
       {
         "host": "87.228.92.108",
         "port": 25178,
-        "ping_ms": 5885,
-        "name": "🇺🇸 United States — #37",
+        "ping_ms": 2688,
+        "name": "🇺🇸 United States — #39",
         "ping_attempts": 3,
-        "ping_min": 5885,
-        "ping_max": 8181,
-        "ping_jitter": 2296
+        "ping_min": 2688,
+        "ping_max": 9024,
+        "ping_jitter": 6336
       }
     ]
   }
