@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-10-12T06:27:40.611020+00:00",
-  "total_checked": 117,
-  "total_working": 76,
-  "total_dead": 41,
-  "survival_rate_pct": 65.0,
+  "updated_utc": "2026-10-12T07:30:51.694282+00:00",
+  "total_checked": 119,
+  "total_working": 65,
+  "total_dead": 54,
+  "survival_rate_pct": 54.6,
   "countries": 8,
-  "ping_min_ms": 194,
-  "ping_median_ms": 440,
-  "ping_max_ms": 1499,
+  "ping_min_ms": 181,
+  "ping_median_ms": 387,
+  "ping_max_ms": 1364,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 55,
-    "reality": 21
+    "tls": 48,
+    "reality": 17
   },
   "top_fastest": [
     {
       "cc": "RU",
-      "host": "78.159.246.85",
+      "host": "78.159.246.179",
       "port": 2053,
-      "ping_ms": 194,
-      "name": "🇷🇺 Timeweb — #43"
+      "ping_ms": 181,
+      "name": "🇷🇺 VK — #16"
     },
     {
       "cc": "PL",
       "host": "185.229.9.240",
       "port": 443,
-      "ping_ms": 208,
-      "name": "🇵🇱 Poland — #117"
+      "ping_ms": 207,
+      "name": "🇵🇱 Poland — #119"
     },
     {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 214,
-      "name": "🇷🇺 VK — #2"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 218,
-      "name": "🇷🇺 VK — #5"
-    },
-    {
-      "cc": "FI",
-      "host": "107.150.93.3",
+      "cc": "DE",
+      "host": "185.86.145.142",
       "port": 443,
-      "ping_ms": 226,
-      "name": "🇫🇮 Finland — #88"
+      "ping_ms": 207,
+      "name": "🇩🇪 Germany — #88"
+    },
+    {
+      "cc": "RU",
+      "host": "193.164.149.248",
+      "port": 443,
+      "ping_ms": 218,
+      "name": "🇷🇺 Timeweb — #51"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 230,
+      "name": "🇷🇺 VK — #8"
     }
   ],
-  "elapsed_seconds": 158.28,
-  "memory_peak_mb": 1.01
+  "elapsed_seconds": 188.61,
+  "memory_peak_mb": 0.95
 }
