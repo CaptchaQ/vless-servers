@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-10-13T02:43:28.222853+00:00",
-  "total_checked": 144,
-  "total_working": 98,
-  "total_dead": 46,
-  "survival_rate_pct": 68.1,
-  "countries": 8,
-  "ping_min_ms": 194,
-  "ping_median_ms": 302,
-  "ping_max_ms": 1318,
+  "updated_utc": "2026-10-13T03:48:44.931159+00:00",
+  "total_checked": 146,
+  "total_working": 82,
+  "total_dead": 64,
+  "survival_rate_pct": 56.2,
+  "countries": 7,
+  "ping_min_ms": 182,
+  "ping_median_ms": 335,
+  "ping_max_ms": 1313,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 65,
-    "reality": 33
+    "reality": 29,
+    "tls": 53
   },
   "top_fastest": [
     {
       "cc": "RU",
-      "host": "78.159.250.84",
+      "host": "91.185.83.91",
+      "port": 443,
+      "ping_ms": 182,
+      "name": "🇷🇺 CloudMTS — #32"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.180",
       "port": 2053,
-      "ping_ms": 194,
+      "ping_ms": 184,
       "name": "🇷🇺 VK — #23"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 184,
+      "name": "🇷🇺 VK — #7"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 185,
+      "name": "🇷🇺 VK — #12"
     },
     {
       "cc": "PL",
       "host": "185.229.9.240",
       "port": 443,
-      "ping_ms": 195,
-      "name": "🇵🇱 Poland — #141"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 200,
-      "name": "🇷🇺 VK — #16"
-    },
-    {
-      "cc": "PL",
-      "host": "91.215.43.248",
-      "port": 443,
-      "ping_ms": 207,
-      "name": "🇵🇱 Poland — #128"
-    },
-    {
-      "cc": "RU",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "ping_ms": 209,
-      "name": "🇷🇺 ProCloud — #42"
+      "ping_ms": 189,
+      "name": "🇵🇱 Poland — #142"
     }
   ],
-  "elapsed_seconds": 274.97,
+  "elapsed_seconds": 313.37,
   "memory_peak_mb": 1.11
 }
