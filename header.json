@@ -1,57 +1,57 @@
 {
   "app": "captchaq-checker",
-  "updated_utc": "2026-10-16T11:06:53.165607+00:00",
-  "total_checked": 177,
-  "total_working": 91,
-  "total_dead": 86,
-  "survival_rate_pct": 51.4,
-  "countries": 4,
-  "ping_min_ms": 168,
-  "ping_median_ms": 435,
-  "ping_max_ms": 1300,
+  "updated_utc": "2026-10-16T12:10:09.400728+00:00",
+  "total_checked": 175,
+  "total_working": 118,
+  "total_dead": 57,
+  "survival_rate_pct": 67.4,
+  "countries": 6,
+  "ping_min_ms": 193,
+  "ping_median_ms": 442,
+  "ping_max_ms": 1457,
   "ping_threshold_ms": 800,
   "proxy_attempts": 5,
   "protocols": {
-    "tls": 89,
-    "reality": 2
+    "tls": 107,
+    "reality": 11
   },
   "top_fastest": [
     {
-      "cc": "BG",
+      "cc": "RU",
       "host": "78.159.246.179",
-      "port": 8443,
-      "ping_ms": 168,
-      "name": "🇧🇬 Bulgaria — #127"
+      "port": 2053,
+      "ping_ms": 193,
+      "name": "🇷🇺 VK — #88"
     },
     {
       "cc": "RU",
       "host": "78.159.246.85",
-      "port": 2053,
-      "ping_ms": 195,
-      "name": "🇷🇺 VK — #27"
-    },
-    {
-      "cc": "RU",
-      "host": "78.159.250.84",
       "port": 2053,
       "ping_ms": 206,
-      "name": "🇷🇺 VK — #34"
+      "name": "🇷🇺 VK — #86"
+    },
+    {
+      "cc": "RU",
+      "host": "185.141.227.180",
+      "port": 2053,
+      "ping_ms": 206,
+      "name": "🇷🇺 VK — #41"
+    },
+    {
+      "cc": "RU",
+      "host": "46.243.232.174",
+      "port": 8548,
+      "ping_ms": 219,
+      "name": "🇷🇺 cloud.ru — #103"
     },
     {
       "cc": "RU",
       "host": "78.159.246.85",
       "port": 2053,
-      "ping_ms": 217,
-      "name": "🇷🇺 ProCloud — #109"
-    },
-    {
-      "cc": "RU",
-      "host": "78.159.246.85",
-      "port": 2053,
-      "ping_ms": 225,
-      "name": "🇷🇺 VK — #76"
+      "ping_ms": 219,
+      "name": "🇷🇺 VK — #67"
     }
   ],
-  "elapsed_seconds": 407.75,
-  "memory_peak_mb": 1.24
+  "elapsed_seconds": 192.42,
+  "memory_peak_mb": 1.27
 }
